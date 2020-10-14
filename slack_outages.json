@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-10-14T02:42:23-07:00",
-  "date_updated": "2020-10-14T02:42:23-07:00",
+  "date_created": "2020-10-14T10:00:37-07:00",
+  "date_updated": "2020-10-14T10:00:37-07:00",
   "active_incidents": [
     {
       "id": 912,
       "date_created": "2020-10-13T23:29:52-07:00",
-      "date_updated": "2020-10-14T02:42:23-07:00",
+      "date_updated": "2020-10-14T10:00:37-07:00",
       "title": "Issues with posting permissions for threads",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2020-10-14T10:00:37-07:00",
+          "body": "We’re nearing a fix for this issue. Functionality is almost back to normal, but we’re still working towards a full resolution. We’ll be back with another update as soon as we can confirm the issue is resolved."
+        },
         {
           "date_created": "2020-10-14T02:42:23-07:00",
           "body": "This issue is isolated to our desktop applications and browsers. Mobile applications are unaffected.\r\nOur next update will be at 10:00 a.m. PDT."
