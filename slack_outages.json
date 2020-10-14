@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-10-13T23:29:52-07:00",
-  "date_updated": "2020-10-13T23:29:52-07:00",
+  "date_created": "2020-10-14T02:42:23-07:00",
+  "date_updated": "2020-10-14T02:42:23-07:00",
   "active_incidents": [
     {
       "id": 912,
       "date_created": "2020-10-13T23:29:52-07:00",
-      "date_updated": "2020-10-13T23:29:52-07:00",
+      "date_updated": "2020-10-14T02:42:23-07:00",
       "title": "Issues with posting permissions for threads",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2020-10-14T02:42:23-07:00",
+          "body": "This issue is isolated to our desktop applications and browsers. Mobile applications are unaffected.\r\nOur next update will be at 10:00 a.m. PDT."
+        },
         {
           "date_created": "2020-10-13T23:29:52-07:00",
           "body": "Some customers may be experiencing issues with the 'Allow threads' option for channels where message posting is restricted to Admins only. We're very sorry for the disruption. We are investigating and we will provide another update as soon as we have more information to share."
