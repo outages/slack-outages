@@ -12,11 +12,16 @@
       "status": "active",
       "url": "https://status.slack.com/2020-10/3e2253fb0e2f1b7c",
       "services": [
+        "Workspace/Org Administration",
+        "Login/SSO",
+        "Notifications",
         "Connections",
-        "Messaging",
-        "Link Previews",
         "Calls",
-        "Search"
+        "Messaging",
+        "Search",
+        "Link Previews",
+        "Apps/Integrations/APIs",
+        "Posts/Files"
       ],
       "notes": [
         {
