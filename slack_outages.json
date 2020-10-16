@@ -1,23 +1,27 @@
 {
   "status": "active",
-  "date_created": "2020-10-16T06:33:01-07:00",
-  "date_updated": "2020-10-16T06:33:01-07:00",
+  "date_created": "2020-10-16T07:03:15-07:00",
+  "date_updated": "2020-10-16T07:03:15-07:00",
   "active_incidents": [
     {
       "id": 915,
       "date_created": "2020-10-16T05:33:01-07:00",
-      "date_updated": "2020-10-16T06:33:01-07:00",
+      "date_updated": "2020-10-16T07:03:15-07:00",
       "title": "Degraded performance and connectivity issues",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2020-10/3e2253fb0e2f1b7c",
       "services": [
-        "Link Previews",
-        "Search",
         "Connections",
-        "Messaging"
+        "Messaging",
+        "Link Previews",
+        "Search"
       ],
       "notes": [
+        {
+          "date_created": "2020-10-16T07:03:15-07:00",
+          "body": "We're still investigating the cause of the performance issues that users may be facing. We appreciate you bearing with us and we'll keep you updated as we have more news."
+        },
         {
           "date_created": "2020-10-16T06:33:01-07:00",
           "body": "We don't have any new information to share at the moment. We'll be back with an update as soon as we do. Thank you for your patience."
