@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-10-16T08:03:57-07:00",
-  "date_updated": "2020-10-16T08:03:57-07:00",
+  "date_created": "2020-10-16T08:33:53-07:00",
+  "date_updated": "2020-10-16T08:33:53-07:00",
   "active_incidents": [
     {
       "id": 915,
       "date_created": "2020-10-16T05:33:01-07:00",
-      "date_updated": "2020-10-16T08:03:57-07:00",
+      "date_updated": "2020-10-16T08:33:53-07:00",
       "title": "Degraded performance and connectivity issues",
       "type": "incident",
       "status": "active",
@@ -20,12 +20,16 @@
       ],
       "notes": [
         {
+          "date_created": "2020-10-16T08:33:53-07:00",
+          "body": "We are still investigating and apologize that we don't have a firm update to share as of yet. Please know that all hands are on deck and we're doing all that we can to get things up and running."
+        },
+        {
           "date_created": "2020-10-16T08:03:57-07:00",
           "body": "Most users should now be able to connect but may still run into issues with degraded performance. Thanks for your patience as we continue to look into it."
         },
         {
           "date_created": "2020-10-16T07:39:20-07:00",
-          "body": "We’re continuing to investigate the degraded performance. Users may have issues sending messages, APIs or general slowness on Slack. We are still investigating, and we’ll let you know where we’re at in 30 minutes."
+          "body": "We’re continuing to investigate the degraded performance. Users may have issues sending messages, or experience API failures or general slowness. We are still investigating, and we’ll let you know where we’re at in 30 minutes."
         },
         {
           "date_created": "2020-10-16T07:03:15-07:00",
