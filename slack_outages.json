@@ -1,29 +1,33 @@
 {
   "status": "active",
-  "date_created": "2020-10-16T10:05:04-07:00",
-  "date_updated": "2020-10-16T10:05:04-07:00",
+  "date_created": "2020-10-16T10:37:01-07:00",
+  "date_updated": "2020-10-16T10:37:01-07:00",
   "active_incidents": [
     {
       "id": 915,
       "date_created": "2020-10-16T05:33:01-07:00",
-      "date_updated": "2020-10-16T10:05:04-07:00",
+      "date_updated": "2020-10-16T10:37:01-07:00",
       "title": "Degraded performance and connection issues",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2020-10/3e2253fb0e2f1b7c",
       "services": [
-        "Workspace/Org Administration",
-        "Login/SSO",
-        "Notifications",
-        "Connections",
         "Calls",
         "Messaging",
         "Search",
         "Link Previews",
         "Apps/Integrations/APIs",
-        "Posts/Files"
+        "Posts/Files",
+        "Workspace/Org Administration",
+        "Login/SSO",
+        "Notifications",
+        "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2020-10-16T10:37:01-07:00",
+          "body": "We're continuing to work towards a full resolution on our end. At this time, customers should still be seeing little to no impact. We believe things should remain operational and we'll check back in an hour or sooner if anything changes."
+        },
         {
           "date_created": "2020-10-16T10:05:04-07:00",
           "body": "We've made some improvements on our end, and customers should be experiencing little to no impact now. The issue is not resolved, but our team is working to bring things into a controlled state while investigating."
