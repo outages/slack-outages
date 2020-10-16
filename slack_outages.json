@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2020-10-16T08:33:53-07:00",
-  "date_updated": "2020-10-16T08:33:53-07:00",
+  "date_created": "2020-10-16T09:14:47-07:00",
+  "date_updated": "2020-10-16T09:14:47-07:00",
   "active_incidents": [
     {
       "id": 915,
       "date_created": "2020-10-16T05:33:01-07:00",
-      "date_updated": "2020-10-16T08:33:53-07:00",
-      "title": "Degraded performance in Slack app and browser",
+      "date_updated": "2020-10-16T09:14:47-07:00",
+      "title": "Degraded performance and connection issues",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2020-10/3e2253fb0e2f1b7c",
@@ -19,6 +19,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2020-10-16T09:14:47-07:00",
+          "body": "Users may once again have trouble connecting to Slack and are experiencing significantly degraded performance. Our team is still on the case and we will keep you posted as soon as we have more information to share."
+        },
         {
           "date_created": "2020-10-16T08:33:53-07:00",
           "body": "We are still investigating and apologize that we don't have a firm update to share as of yet. Please know that all hands are on deck and we're doing all that we can to get things up and running."
