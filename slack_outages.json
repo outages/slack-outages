@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-10-16T10:37:01-07:00",
-  "date_updated": "2020-10-16T10:37:01-07:00",
+  "date_created": "2020-10-16T10:48:12-07:00",
+  "date_updated": "2020-10-16T10:48:12-07:00",
   "active_incidents": [
     {
       "id": 915,
       "date_created": "2020-10-16T05:33:01-07:00",
-      "date_updated": "2020-10-16T10:37:01-07:00",
+      "date_updated": "2020-10-16T10:48:12-07:00",
       "title": "Degraded performance and connection issues",
       "type": "incident",
       "status": "active",
