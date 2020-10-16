@@ -1,6 +1,28 @@
 {
-  "status": "ok",
-  "date_created": "2020-10-14T18:15:10-07:00",
-  "date_updated": "2020-10-14T18:15:10-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-10-16T05:33:01-07:00",
+  "date_updated": "2020-10-16T05:33:01-07:00",
+  "active_incidents": [
+    {
+      "id": 915,
+      "date_created": "2020-10-16T05:33:01-07:00",
+      "date_updated": "2020-10-16T05:33:01-07:00",
+      "title": "Degraded performance and connectivity issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2020-10/3e2253fb0e2f1b7c",
+      "services": [
+        "Link Previews",
+        "Search",
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-10-16T05:33:01-07:00",
+          "body": "Some users are struggling to connect to Slack, or facing trouble with the app operating slowly. We are currently investigating, and apologise for the inconvenience caused."
+        }
+      ]
+    }
+  ]
 }
