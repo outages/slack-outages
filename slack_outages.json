@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2020-10-19T10:29:23-07:00",
-  "date_updated": "2020-10-19T10:29:23-07:00",
-  "active_incidents": [
-    {
-      "id": 916,
-      "date_created": "2020-10-19T09:59:23-07:00",
-      "date_updated": "2020-10-19T10:29:23-07:00",
-      "title": "Trouble with search",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2020-10/3a526b5e86cf2dd3",
-      "services": [
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2020-10-19T10:29:23-07:00",
-          "body": "We're still investigating the cause of the issue but we have seen significant improvements in search functionality. We're working towards a full resolution and we'll be back with another update soon."
-        },
-        {
-          "date_created": "2020-10-19T09:59:23-07:00",
-          "body": "Some people are receiving a \"Something went wrong\" error message when trying to search in Slack. We are investigating and will share more information as soon as it is available. Thank you for your patience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2020-10-19T10:48:24-07:00",
+  "date_updated": "2020-10-19T10:48:24-07:00",
+  "active_incidents": []
 }
