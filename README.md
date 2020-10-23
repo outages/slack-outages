@@ -4,7 +4,7 @@ This is an *unofficial* repository that provides a Git history of outages at [Sl
 
 ## How to use
 
-- Visit the [history for the `slack_outages.json`](https://github.com/marcolussetti/slack-outages/commits/main/slack_outages.json) file.
+- Visit the [history for the `slack_outages.json`](https://github.com/marcolussetti/slack-outages/commits/master/slack_outages.json) file.
 
 ## Credits
 
