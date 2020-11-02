@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-11-02T11:43:05-08:00",
-  "date_updated": "2020-11-02T11:43:05-08:00",
+  "date_created": "2020-11-02T12:16:02-08:00",
+  "date_updated": "2020-11-02T12:16:02-08:00",
   "active_incidents": [
     {
       "id": 918,
       "date_created": "2020-11-02T11:13:11-08:00",
-      "date_updated": "2020-11-02T11:43:05-08:00",
+      "date_updated": "2020-11-02T12:16:02-08:00",
       "title": "Some users are unable to search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2020-11-02T12:16:02-08:00",
+          "body": "All affected users should be able to search in Slack. However, some users may not see the most optimal search results. We'll continue to work to resolve this trouble."
+        },
         {
           "date_created": "2020-11-02T11:43:05-08:00",
           "body": "At this time, some users may be unable to search for messages and files specifically. We're working to resolve this issue, and we appreciate your patience."
