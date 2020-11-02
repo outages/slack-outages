@@ -21,7 +21,7 @@
         },
         {
           "date_created": "2020-11-02T12:16:02-08:00",
-          "body": "All affected users should be able to search in Slack. However, some users may not see the most optimal search results. We'll continue to work to resolve this trouble."
+          "body": "The majority of affected users should be able to search in Slack. Some users may not see the most optimal search results, and some users may see a \"Something went wrong\" error when searching for files. We'll continue to work to resolve this trouble.\r\n\r\nNote: We updated this note to mention some users could've encountered a \"Something went wrong\" error when searching for files, so all affected users weren't able to search in Slack at this time."
         },
         {
           "date_created": "2020-11-02T11:43:05-08:00",
