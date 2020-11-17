@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2020-11-16T17:45:14-08:00",
-  "date_updated": "2020-11-16T17:45:14-08:00",
-  "active_incidents": [
-    {
-      "id": 919,
-      "date_created": "2020-11-16T17:45:14-08:00",
-      "date_updated": "2020-11-16T17:45:14-08:00",
-      "title": "Trouble deactivating Do Not Disturb",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2020-11/784c59b2751dba3c",
-      "services": [
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2020-11-16T17:45:14-08:00",
-          "body": "Customers may not be able to deactivate the Do Not Disturb feature at the moment. We're very sorry for the disruption and we are working to investigate. We will be back with an update as soon as we have news to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2020-11-16T19:40:37-08:00",
+  "date_updated": "2020-11-16T19:40:37-08:00",
+  "active_incidents": []
 }
