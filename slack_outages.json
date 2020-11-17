@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2020-11-16T20:58:13-08:00",
-  "date_updated": "2020-11-16T20:58:13-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-11-17T09:33:58-08:00",
+  "date_updated": "2020-11-17T09:33:58-08:00",
+  "active_incidents": [
+    {
+      "id": 920,
+      "date_created": "2020-11-17T09:33:58-08:00",
+      "date_updated": "2020-11-17T09:33:58-08:00",
+      "title": "Degraded performance and connection issues for a very low percentage of users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2020-11/589c83e6a55918c2",
+      "services": [
+        "Messaging",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-11-17T09:33:58-08:00",
+          "body": "Some people may be having trouble loading Slack via the desktop and mobile app, as well as web browser. This is currently effecting a very low percentage of users but may result in general slowness and issues with sending messages. We’re investigating and will have more information to share in 30 minutes."
+        }
+      ]
+    }
+  ]
 }
