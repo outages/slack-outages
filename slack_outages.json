@@ -1,29 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2020-11-17T12:09:00-08:00",
   "date_updated": "2020-11-17T12:09:00-08:00",
-  "active_incidents": [
-    {
-      "id": 921,
-      "date_created": "2020-11-17T11:51:32-08:00",
-      "date_updated": "2020-11-17T12:09:00-08:00",
-      "title": "Failed audio on Slack calls",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2020-11/1cfc21b29d3421a4",
-      "services": [
-        "Calls"
-      ],
-      "notes": [
-        {
-          "date_created": "2020-11-17T12:09:00-08:00",
-          "body": "We've released a fix for Slack calls, and upon reload (Command/Control + R), audio should be working again. If you are experiencing any further trouble please reach out to feedback@slack.com. Thank you for bearing with us."
-        },
-        {
-          "date_created": "2020-11-17T11:51:32-08:00",
-          "body": "Some users may be experiencing failed audio with Slack calls on the desktop app. We are looking into it now. We appreciate your patience."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
