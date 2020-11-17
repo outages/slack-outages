@@ -12,17 +12,17 @@
       "status": "active",
       "url": "https://status.slack.com/2020-11/589c83e6a55918c2",
       "services": [
-        "Messaging",
-        "Connections"
+        "Connections",
+        "Messaging"
       ],
       "notes": [
         {
           "date_created": "2020-11-17T10:04:49-08:00",
-          "body": "We've isolated the issue and users should no longer be having issues with Slack. We're still working towards a full resolution and we'll be back with another update in 30 minutes."
+          "body": "We've isolated the issue and users should no longer be having problems with Slack. We're still working towards a full resolution and we'll be back with another update in 30 minutes."
         },
         {
           "date_created": "2020-11-17T09:33:58-08:00",
-          "body": "Some people may be having trouble loading Slack via the desktop and mobile app, as well as web browser. This is currently effecting a very low percentage of users but may result in general slowness and issues with sending messages. We’re investigating and will have more information to share in 30 minutes."
+          "body": "Some people may be having trouble loading Slack via the desktop and mobile app, as well as web browser. This is currently affecting a very low percentage of users but may result in general slowness and issues with sending messages. We’re investigating and will have more information to share in 30 minutes."
         }
       ]
     }
