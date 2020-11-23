@@ -1,46 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2020-11-23T06:27:59-08:00",
-  "date_updated": "2020-11-23T06:27:59-08:00",
-  "active_incidents": [
-    {
-      "id": 922,
-      "date_created": "2020-11-23T03:02:49-08:00",
-      "date_updated": "2020-11-23T06:27:59-08:00",
-      "title": "Users located in Europe experiencing a degraded service",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2020-11/9b7149becb294cf5",
-      "services": [
-        "Workspace/Org Administration",
-        "Login/SSO",
-        "Notifications",
-        "Connections",
-        "Calls",
-        "Messaging",
-        "Search",
-        "Link Previews",
-        "Apps/Integrations/APIs",
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2020-11-23T06:27:59-08:00",
-          "body": "We continue to see some improvement but are not out of the woods just yet. We appreciate your continued patience and we'll report back with further news as soon as we have it."
-        },
-        {
-          "date_created": "2020-11-23T05:24:29-08:00",
-          "body": "If you’re affected by the degraded service issue, we’re starting to see some improvements, but we still have some work to do. We’ll confirm when things are back to normal."
-        },
-        {
-          "date_created": "2020-11-23T04:04:02-08:00",
-          "body": "Our team have reverted some changes which they believe may have caused the degraded performance for some users in Europe. We are currently assessing whether this has resolved the problem entirely."
-        },
-        {
-          "date_created": "2020-11-23T03:02:49-08:00",
-          "body": "Users may be experiencing a degraded service when using Slack at the moment. We believe this is only impacting those located in Europe. We are investigating the cause of the issue, and apologise for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2020-11-23T07:28:41-08:00",
+  "date_updated": "2020-11-23T07:28:41-08:00",
+  "active_incidents": []
 }
