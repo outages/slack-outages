@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2020-11-23T17:05:47-08:00",
-  "date_updated": "2020-11-23T17:05:47-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-11-25T07:37:09-08:00",
+  "date_updated": "2020-11-25T07:37:09-08:00",
+  "active_incidents": [
+    {
+      "id": 923,
+      "date_created": "2020-11-25T07:37:09-08:00",
+      "date_updated": "2020-11-25T07:37:09-08:00",
+      "title": "Degraded performance when using the the /giphy command",
+      "type": "notice",
+      "status": "active",
+      "url": "https://status.slack.com/2020-11/a1b745be9c342426",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-11-25T07:37:09-08:00",
+          "body": "We’re aware of a current problem with the Giphy app and some users might be seeing error messages or that results aren't matching. We're working with the Giphy team to try to get the issue resolved. Sorry for the troubles and we appreciate your patience, and understanding here as we work on this issue."
+        }
+      ]
+    }
+  ]
 }
