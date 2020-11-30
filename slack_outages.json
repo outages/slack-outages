@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2020-11-30T13:21:54-08:00",
-  "date_updated": "2020-11-30T13:21:54-08:00",
+  "date_created": "2020-11-30T13:48:41-08:00",
+  "date_updated": "2020-11-30T13:48:41-08:00",
   "active_incidents": [
     {
       "id": 924,
       "date_created": "2020-11-30T13:21:54-08:00",
-      "date_updated": "2020-11-30T13:21:54-08:00",
+      "date_updated": "2020-11-30T13:48:41-08:00",
       "title": "Some users are unable to sign in using SSO",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2020-11-30T13:48:41-08:00",
+          "body": "We believe we've identified the cause of this issue, and we're working on a fix. Thanks for your patience."
+        },
         {
           "date_created": "2020-11-30T13:21:54-08:00",
           "body": "Some users who sign in with single sign-on (SSO) are unable to login to Slack. We're currently investigating, and we apologize for the trouble. We'll be back with an update once we know more."
