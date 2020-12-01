@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2020-11-30T14:26:25-08:00",
-  "date_updated": "2020-11-30T14:26:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-12-01T09:43:50-08:00",
+  "date_updated": "2020-12-01T09:43:50-08:00",
+  "active_incidents": [
+    {
+      "id": 925,
+      "date_created": "2020-12-01T09:43:50-08:00",
+      "date_updated": "2020-12-01T09:43:50-08:00",
+      "title": "Troubles joining or starting Slack calls",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2020-12/c64673e2bd3fc86c",
+      "services": [
+        "Calls"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-12-01T09:43:50-08:00",
+          "body": "Some people are having trouble joining or starting Slack calls. We’re investigating the situation, and we'll be back when we have more information to share. We apologize for any inconvenience this may be causing."
+        }
+      ]
+    }
+  ]
 }
