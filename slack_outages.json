@@ -12,12 +12,13 @@
       "status": "active",
       "url": "https://status.slack.com/2020-12/4c79fb97040015bf",
       "services": [
-        "Login/SSO"
+        "Login/SSO",
+        "Connections"
       ],
       "notes": [
         {
           "date_created": "2020-12-15T12:17:25-08:00",
-          "body": "We believe service should be restored now and previously impacted users should no longer be experiencing issues with Slack. We're continuing the investigation and are working to put together a permanent fix. We'll follow up when that's in place."
+          "body": "We believe service should be restored now and previously impacted users should no longer be experiencing issues with Slack. We're continuing the investigation and working to put together a permanent fix. We'll follow up when that's in place."
         },
         {
           "date_created": "2020-12-15T11:48:17-08:00",
