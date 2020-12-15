@@ -7,7 +7,7 @@
       "id": 926,
       "date_created": "2020-12-15T11:48:17-08:00",
       "date_updated": "2020-12-15T12:17:25-08:00",
-      "title": "Degraded performance for less than 1% of users",
+      "title": "Degraded performance for less than 0.2% of users",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2020-12/4c79fb97040015bf",
@@ -17,11 +17,11 @@
       "notes": [
         {
           "date_created": "2020-12-15T12:17:25-08:00",
-          "body": "We believe service should be restored now and previously impacted users should no longer be experiencing issues with Slack. We're continuing the investigation and are working to put together a permanent fix. We'll follow up when that is in place."
+          "body": "We believe service should be restored now and previously impacted users should no longer be experiencing issues with Slack. We're continuing the investigation and are working to put together a permanent fix. We'll follow up when that's in place."
         },
         {
           "date_created": "2020-12-15T11:48:17-08:00",
-          "body": "We are currently investigating an issue where a small number of customers may have difficulty loading Slack, or experiencing degraded performance. We apologize for the trouble, and will let you know when we are out of the woods."
+          "body": "We're currently investigating an issue where less than 0.2% of customers may have difficulty loading Slack, or experiencing degraded performance. We apologize for the trouble, and will let you know when we're out of the woods."
         }
       ]
     }
