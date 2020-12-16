@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2020-12-15T16:14:44-08:00",
-  "date_updated": "2020-12-15T16:14:44-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-12-15T17:51:08-08:00",
+  "date_updated": "2020-12-15T17:51:08-08:00",
+  "active_incidents": [
+    {
+      "id": 927,
+      "date_created": "2020-12-15T17:51:08-08:00",
+      "date_updated": "2020-12-15T17:51:08-08:00",
+      "title": "SCIM API is failing for Enterprise customers",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2020-12/38b675e316fb9bea",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-12-15T17:51:08-08:00",
+          "body": "We've received reports that the SCIM API may be failing for Enterprise customers. We'll provide an update as soon as we can."
+        }
+      ]
+    }
+  ]
 }
