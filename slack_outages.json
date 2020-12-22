@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2020-12-21T16:14:51-08:00",
-  "date_updated": "2020-12-21T16:14:51-08:00",
-  "active_incidents": [
-    {
-      "id": 929,
-      "date_created": "2020-12-21T16:14:51-08:00",
-      "date_updated": "2020-12-21T16:14:51-08:00",
-      "title": "Search not returning results on the Android app",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2020-12/b46ede016a20a09a",
-      "services": [
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2020-12-21T16:14:51-08:00",
-          "body": "Android users are unable to search in Slack. We're investigating, and we'll follow up here once we have an update to share. We're sorry for the inconvenience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2020-12-21T20:14:35-08:00",
+  "date_updated": "2020-12-21T20:14:35-08:00",
+  "active_incidents": []
 }
