@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2020-12-21T20:14:35-08:00",
-  "date_updated": "2020-12-21T20:14:35-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2020-12-23T09:26:58-08:00",
+  "date_updated": "2020-12-23T09:26:58-08:00",
+  "active_incidents": [
+    {
+      "id": 930,
+      "date_created": "2020-12-23T09:26:58-08:00",
+      "date_updated": "2020-12-23T09:26:58-08:00",
+      "title": "Older versions of the Slack app and web browsers are having trouble connecting",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2020-12/805459c8018200e6",
+      "services": [
+        "Login/SSO",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2020-12-23T09:26:58-08:00",
+          "body": "Older versions of the Slack app are having trouble connecting. We are investigating this and will update here when we have news to share. Currently, updating the app or browser can help alleviate this issue. For instructions on updating the Slack app, please see the steps here: https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app"
+        }
+      ]
+    }
+  ]
 }
