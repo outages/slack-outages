@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-01-04T09:29:55-08:00",
-  "date_updated": "2021-01-04T09:29:55-08:00",
+  "date_created": "2021-01-04T10:00:23-08:00",
+  "date_updated": "2021-01-04T10:00:23-08:00",
   "active_incidents": [
     {
       "id": 931,
       "date_created": "2021-01-04T07:14:44-08:00",
-      "date_updated": "2021-01-04T09:29:55-08:00",
+      "date_updated": "2021-01-04T10:00:23-08:00",
       "title": "Customers may have trouble connecting or using Slack",
       "type": "outage",
       "status": "active",
@@ -24,6 +24,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2021-01-04T10:00:23-08:00",
+          "body": "Some customers may be able to connect, but may also experience degraded performance. We're continuing to work to resolve the issue."
+        },
         {
           "date_created": "2021-01-04T09:29:55-08:00",
           "body": "While the issue is largely still ongoing, we believe some customers may see improvement in connecting to Slack after a refresh (CTRL/CMD + R)."
