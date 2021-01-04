@@ -1,18 +1,17 @@
 {
   "status": "active",
-  "date_created": "2021-01-04T10:51:09-08:00",
-  "date_updated": "2021-01-04T10:51:09-08:00",
+  "date_created": "2021-01-04T11:28:37-08:00",
+  "date_updated": "2021-01-04T11:28:37-08:00",
   "active_incidents": [
     {
       "id": 931,
       "date_created": "2021-01-04T07:14:44-08:00",
-      "date_updated": "2021-01-04T10:51:09-08:00",
-      "title": "Customers may have trouble connecting or using Slack",
+      "date_updated": "2021-01-04T11:28:37-08:00",
+      "title": "Customers may have trouble connecting to or using Slack",
       "type": "outage",
       "status": "active",
       "url": "https://status.slack.com/2021-01/9ecc1bc75347b6d1",
       "services": [
-        "Search",
         "Link Previews",
         "Apps/Integrations/APIs",
         "Posts/Files",
@@ -21,9 +20,14 @@
         "Notifications",
         "Connections",
         "Calls",
-        "Messaging"
+        "Messaging",
+        "Search"
       ],
       "notes": [
+        {
+          "date_created": "2021-01-04T11:28:37-08:00",
+          "body": "We're seeing improvements with error rates on our side, and we believe affected customers should be able to access Slack. \r\n\r\nWe're continuing to work to resolve the trouble with calendar apps and email notifications."
+        },
         {
           "date_created": "2021-01-04T10:51:09-08:00",
           "body": "For those customers who are unable to access Slack (e.g. seeing a blank screen or error), please try reloading (CTRL/CMD + R). If you can access Slack, please hold off on reloading at this time. \r\n\r\nIn addition, Google Calendar and Outlook Calendar aren't working as expected, and some email notifications (e.g. a notification of a new direct message in Slack) are failing to send.\r\n\r\nNote: We've updated this message to specify holding off on reloading if you can access Slack."
