@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2020-12-23T12:42:19-08:00",
-  "date_updated": "2020-12-23T12:42:19-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-01-04T07:14:44-08:00",
+  "date_updated": "2021-01-04T07:14:44-08:00",
+  "active_incidents": [
+    {
+      "id": 931,
+      "date_created": "2021-01-04T07:14:44-08:00",
+      "date_updated": "2021-01-04T07:14:44-08:00",
+      "title": "Customers may have trouble loading messages or connecting to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-01/9ecc1bc75347b6d1",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-01-04T07:14:44-08:00",
+          "body": "Customers may have trouble loading channels or connecting to Slack at this time. Our team is investigating and we will follow up with more information as soon as we have it. We apologize for any disruption caused."
+        }
+      ]
+    }
+  ]
 }
