@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-01-04T12:46:49-08:00",
-  "date_updated": "2021-01-04T12:46:49-08:00",
+  "date_created": "2021-01-04T13:47:32-08:00",
+  "date_updated": "2021-01-04T13:47:32-08:00",
   "active_incidents": [
     {
       "id": 932,
       "date_created": "2021-01-04T12:12:54-08:00",
-      "date_updated": "2021-01-04T12:46:49-08:00",
+      "date_updated": "2021-01-04T13:47:32-08:00",
       "title": "Troubles with Google Calendar, Outlook Calendar, and email notifications",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-01-04T13:47:32-08:00",
+          "body": "We're closer to getting Google Calendar working as expected, but we're not at a resolution yet. We're also continuing to work to resolve the trouble with Outlook Calendar and email notifications."
+        },
         {
           "date_created": "2021-01-04T12:46:49-08:00",
           "body": "For users who've joined a workspace, email notifications should be delivered. However, these users won't be able to reply to the emails. \r\n\r\nFor users who've been invited to a workspace, but haven't joined, email notifications won't be sent at this time. \r\n\r\nWe'll be back once we have more information about the trouble with the calendars and email notifications."
