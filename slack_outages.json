@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-01-04T14:50:50-08:00",
-  "date_updated": "2021-01-04T14:50:50-08:00",
+  "date_created": "2021-01-04T16:00:00-08:00",
+  "date_updated": "2021-01-04T16:00:00-08:00",
   "active_incidents": [
     {
       "id": 932,
       "date_created": "2021-01-04T12:12:54-08:00",
-      "date_updated": "2021-01-04T14:50:50-08:00",
+      "date_updated": "2021-01-04T16:00:00-08:00",
       "title": "Troubles with Google Calendar, Outlook Calendar, and email notifications",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-01-04T16:00:00-08:00",
+          "body": "Setting up a new email forwarding rule right now may also be affected by the email notifications issue. Our team is continuing to investigate this. \r\n\r\nWe're close to resolving the issue with the calendar apps, and we'll provide an update as soon as we have one."
+        },
         {
           "date_created": "2021-01-04T14:50:50-08:00",
           "body": "Users who've joined a workspace and been invited to a workspace should now be receiving email notifications successfully. However, they won't be able to reply to the emails.\r\n\r\nThe issues with Google Calendar and Outlook Calendar are still being worked on. We'll be back once we have some more information."
