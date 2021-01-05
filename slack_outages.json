@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2021-01-04T16:00:00-08:00",
-  "date_updated": "2021-01-04T16:00:00-08:00",
+  "date_created": "2021-01-04T17:18:15-08:00",
+  "date_updated": "2021-01-04T17:18:15-08:00",
   "active_incidents": [
     {
       "id": 932,
       "date_created": "2021-01-04T12:12:54-08:00",
-      "date_updated": "2021-01-04T16:00:00-08:00",
-      "title": "Troubles with Google Calendar, Outlook Calendar, and email notifications",
+      "date_updated": "2021-01-04T17:18:15-08:00",
+      "title": "Trouble with Google Calendar and Outlook Calendar",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-01/eb968a2103d010bb",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-01-04T17:18:15-08:00",
+          "body": "You should now be able to reply to notification emails delivered after 4:45 p.m PST.\r\n\r\nWe are still working to bring the calendar apps fully back online. We'll return with more information as soon as we have news to share.\r\n\r\nThank you for bearing with us."
+        },
         {
           "date_created": "2021-01-04T16:00:00-08:00",
           "body": "Setting up a new email forwarding rule right now may also be affected by the email notifications issue. Our team is continuing to investigate this. \r\n\r\nWe're close to resolving the issue with the calendar apps, and we'll provide an update as soon as we have one."
