@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-01-08T20:00:17-08:00",
-  "date_updated": "2021-01-08T20:00:17-08:00",
-  "active_incidents": [
-    {
-      "id": 933,
-      "date_created": "2021-01-08T20:00:17-08:00",
-      "date_updated": "2021-01-08T20:00:17-08:00",
-      "title": "Calls are not working for some customers",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-01/be3cbade65300de3",
-      "services": [
-        "Calls"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-01-08T20:00:17-08:00",
-          "body": "Calls are not working for some customers. We're currently looking into this and apologize for any inconvenience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-01-08T20:40:34-08:00",
+  "date_updated": "2021-01-08T20:40:34-08:00",
+  "active_incidents": []
 }
