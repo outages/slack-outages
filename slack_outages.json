@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-01-10T18:19:19-08:00",
-  "date_updated": "2021-01-10T18:19:19-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-01-12T12:24:45-08:00",
+  "date_updated": "2021-01-12T12:24:45-08:00",
+  "active_incidents": [
+    {
+      "id": 934,
+      "date_created": "2021-01-12T12:24:45-08:00",
+      "date_updated": "2021-01-12T12:24:45-08:00",
+      "title": "East coast customers may have trouble loading Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-01/e8d2a136e0850d16",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-01-12T12:24:45-08:00",
+          "body": "Customers on the east coast may be experiencing trouble loading Slack, including but not limited to issues with loading the Quick Switcher, users, and profile details. Our team is investigating and we'll follow up as soon as we have more insight. We're very sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
