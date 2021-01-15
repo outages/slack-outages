@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-01-15T05:09:48-08:00",
-  "date_updated": "2021-01-15T05:09:48-08:00",
-  "active_incidents": [
-    {
-      "id": 935,
-      "date_created": "2021-01-15T03:45:20-08:00",
-      "date_updated": "2021-01-15T05:09:48-08:00",
-      "title": "Follow threads button may not be working for some users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-01/1edfbc963afc37b5",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-01-15T05:09:48-08:00",
-          "body": "We believe we've identified the cause of this issue, and we're working on a fix. Thanks for your patience."
-        },
-        {
-          "date_created": "2021-01-15T03:45:20-08:00",
-          "body": "Our follow threads button may not be working for some of our users. We're currently investigating, and we'll update as soon as we have more information. We're sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-01-15T06:26:15-08:00",
+  "date_updated": "2021-01-15T06:26:15-08:00",
+  "active_incidents": []
 }
