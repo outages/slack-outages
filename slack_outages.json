@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-01-16T03:56:47-08:00",
-  "date_updated": "2021-01-16T03:56:47-08:00",
-  "active_incidents": [
-    {
-      "id": 936,
-      "date_created": "2021-01-16T03:56:47-08:00",
-      "date_updated": "2021-01-16T03:56:47-08:00",
-      "title": "Some people are having trouble loading Slack or sending messages in their workspace",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-01/2b0e034ec2e79090",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-01-16T03:56:47-08:00",
-          "body": "Some people are having trouble loading Slack or sending messages in their workspace. We’re investigating and will have more information to share 30 minutes."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-01-16T04:07:00-08:00",
+  "date_updated": "2021-01-16T04:07:00-08:00",
+  "active_incidents": []
 }
