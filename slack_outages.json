@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-01-19T09:12:19-08:00",
-  "date_updated": "2021-01-19T09:12:19-08:00",
-  "active_incidents": [
-    {
-      "id": 937,
-      "date_created": "2021-01-19T08:42:27-08:00",
-      "date_updated": "2021-01-19T09:12:19-08:00",
-      "title": "A small percentage of users may be having trouble connecting to or using Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-01/a9b04615180de30a",
-      "services": [
-        "Messaging",
-        "Search",
-        "Apps/Integrations/APIs",
-        "Workspace/Org Administration",
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-01-19T09:12:19-08:00",
-          "body": "Our investigation is still ongoing at this time. While we don't have any new information to share, we're focused on getting things back to normal as quickly as we can. We'll be back in 30 minutes with another update."
-        },
-        {
-          "date_created": "2021-01-19T08:42:27-08:00",
-          "body": "Some users may be experiencing degraded performance with Slack at the moment. Specifically, you might notice general connectivity issues, or troubles sending messages, and searching. Our team is investigating and we'll follow up with more information as soon as we have it. We apologize for any disruption caused."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-01-19T10:12:14-08:00",
+  "date_updated": "2021-01-19T10:12:14-08:00",
+  "active_incidents": []
 }
