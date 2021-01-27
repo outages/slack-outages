@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-01-26T21:49:00-08:00",
-  "date_updated": "2021-01-26T21:49:00-08:00",
-  "active_incidents": [
-    {
-      "id": 940,
-      "date_created": "2021-01-26T21:49:00-08:00",
-      "date_updated": "2021-01-26T21:49:00-08:00",
-      "title": "Trouble with 'user_change' events from the Events API",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-01/2c3559fdc75c9110",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-01-26T21:49:00-08:00",
-          "body": "Some customers may be experiencing silent failures for 'user_change' events. We're very sorry for the trouble. We are investigating the issue, and we'll be back with an update as soon as we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-01-26T23:14:00-08:00",
+  "date_updated": "2021-01-26T23:14:00-08:00",
+  "active_incidents": []
 }
