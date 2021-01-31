@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-01-28T03:29:37-08:00",
-  "date_updated": "2021-01-28T03:29:37-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-01-31T02:48:58-08:00",
+  "date_updated": "2021-01-31T02:48:58-08:00",
+  "active_incidents": [
+    {
+      "id": 942,
+      "date_created": "2021-01-31T02:48:58-08:00",
+      "date_updated": "2021-01-31T02:48:58-08:00",
+      "title": "Degraded service including Threads and Mentions",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-01/946377cc65dfb341",
+      "services": [
+        "Messaging",
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-01-31T02:48:58-08:00",
+          "body": "Some users may be experiencing degraded service with Threads and Mentions failing to load"
+        }
+      ]
+    }
+  ]
 }
