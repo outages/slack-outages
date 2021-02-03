@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-02-03T10:56:37-08:00",
-  "date_updated": "2021-02-03T10:56:37-08:00",
-  "active_incidents": [
-    {
-      "id": 944,
-      "date_created": "2021-02-03T10:56:37-08:00",
-      "date_updated": "2021-02-03T10:56:37-08:00",
-      "title": "A small number of users encountering a blank screen in the desktop app",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-02/2a7b8da6727f0873",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-02-03T10:56:37-08:00",
-          "body": "Some users accessing Slack on previous versions of the desktop application, such as 4.1.0 and 4.2.0, may be stuck on a blank screen. We're working to resolve this, and we apologize for the trouble.\r\n\r\nAt this time, updating the desktop application or clearing cache should resolve the issue.\r\n\r\nIf you have an internal team who manages updates, please reach out to them for assistance with updating. You can find the steps to update here: https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app\r\n\r\nIf you can access the Help menu in the top menu bar, please select Help, Troubleshooting, then Clear Cache to clear the cache. If you cannot access the Help menu, please let us know at feedback@slack.com so we can assist."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-02-03T13:44:23-08:00",
+  "date_updated": "2021-02-03T13:44:23-08:00",
+  "active_incidents": []
 }
