@@ -1,6 +1,20 @@
 {
-  "status": "ok",
-  "date_created": "2021-02-02T22:23:04-08:00",
-  "date_updated": "2021-02-02T22:23:04-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-02-03T10:24:28-08:00",
+  "date_updated": "2021-02-03T10:24:28-08:00",
+  "active_incidents": [
+    {
+      "id": 944,
+      "date_created": "2021-02-03T10:24:28-08:00",
+      "date_updated": "2021-02-03T10:24:28-08:00",
+      "title": "Older versions of the desktop client are showing a blank screen when connecting",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-02/2a7b8da6727f0873",
+      "services": [
+        "Connections"
+      ],
+      "notes": []
+    }
+  ]
 }
