@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-02-03T21:07:37-08:00",
-  "date_updated": "2021-02-03T21:07:37-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-02-04T02:38:16-08:00",
+  "date_updated": "2021-02-04T02:38:16-08:00",
+  "active_incidents": [
+    {
+      "id": 946,
+      "date_created": "2021-02-04T02:38:16-08:00",
+      "date_updated": "2021-02-04T02:38:16-08:00",
+      "title": "We' re actively investigating the issue",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-02/ac2c250b16ceb77d",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-02-04T02:38:16-08:00",
+          "body": "Some people may be seeing errors when searching in Slack. We're currently investigating and will have more information shortly. Thank you for your patience."
+        }
+      ]
+    }
+  ]
 }
