@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-02-03T13:44:23-08:00",
-  "date_updated": "2021-02-03T13:44:23-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-02-03T18:05:51-08:00",
+  "date_updated": "2021-02-03T18:05:51-08:00",
+  "active_incidents": [
+    {
+      "id": 945,
+      "date_created": "2021-02-03T18:05:51-08:00",
+      "date_updated": "2021-02-03T18:05:51-08:00",
+      "title": "Trouble with search for customers using Enterprise Key Management",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-02/6933596441a9bb96",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-02-03T18:05:51-08:00",
+          "body": "Grid customers using Enterprise Key Management (EKM) may be experiencing search failures in Slack. We're very sorry for the trouble and we're working to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
