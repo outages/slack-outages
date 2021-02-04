@@ -7,7 +7,7 @@
       "id": 946,
       "date_created": "2021-02-04T02:38:16-08:00",
       "date_updated": "2021-02-04T02:38:16-08:00",
-      "title": "We' re actively investigating the issue",
+      "title": "Trouble with search",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-02/ac2c250b16ceb77d",
@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2021-02-04T02:38:16-08:00",
-          "body": "Some people may have seen errors while searching from 1Am. PST to now. We have taken action and search is working normally again. We are continuing to investigate to ensure this does not recur and will update you with any new information."
+          "body": "Some people may have seen errors while searching from 1:37 a.m. PST to 2:16 a.m. PST. We have taken action and search is working normally again. We are continuing to investigate to ensure this does not recur and will update you with any new information."
         }
       ]
     }
