@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-02-04T12:06:57-08:00",
-  "date_updated": "2021-02-04T12:06:57-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-02-08T16:00:29-08:00",
+  "date_updated": "2021-02-08T16:00:29-08:00",
+  "active_incidents": [
+    {
+      "id": 947,
+      "date_created": "2021-02-08T16:00:29-08:00",
+      "date_updated": "2021-02-08T16:00:29-08:00",
+      "title": "Issues with search",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-02/831ddd8f7744509b",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-02-08T16:00:29-08:00",
+          "body": "Some customers may be experiencing intermittent search issues in Slack. We apologise for the disruption. We're investigating and working to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
