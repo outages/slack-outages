@@ -1,20 +1,22 @@
 {
   "status": "active",
-  "date_created": "2021-02-26T06:21:43-08:00",
-  "date_updated": "2021-02-26T06:21:43-08:00",
+  "date_created": "2021-02-26T07:29:24-08:00",
+  "date_updated": "2021-02-26T07:29:24-08:00",
   "active_incidents": [
     {
       "id": 951,
       "date_created": "2021-02-26T06:21:43-08:00",
-      "date_updated": "2021-02-26T06:21:43-08:00",
+      "date_updated": "2021-02-26T07:29:24-08:00",
       "title": "Some users are not receiving 2FA codes via SMS",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-02/b2f634610e12e093",
-      "services": [
-        "Login/SSO"
-      ],
+      "services": [],
       "notes": [
+        {
+          "date_created": "2021-02-26T07:29:24-08:00",
+          "body": "Our upstream provider is still investigating the issue with undelivered 2FA codes via SMS and is actively working on finding a solution. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
+        },
         {
           "date_created": "2021-02-26T06:21:43-08:00",
           "body": "Due to issues with an upstream provider, some of our customers are not receiving 2FA codes for login via SMS. We’re keeping a close eye on this, and we’ll keep you posted as soon as we have more information. We’re sorry for the disruption."
