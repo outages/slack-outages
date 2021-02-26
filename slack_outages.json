@@ -11,11 +11,13 @@
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-02/b2f634610e12e093",
-      "services": [],
+      "services": [
+        "Login/SSO"
+      ],
       "notes": [
         {
           "date_created": "2021-02-26T07:29:24-08:00",
-          "body": "Our upstream provider is still investigating the issue with undelivered 2FA codes via SMS and is actively working on finding a solution. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
+          "body": "Our upstream provider is still investigating the issue with undelivered 2FA codes via SMS and is actively working on finding a solution. No additional information to share just yet, but we’ll keep you posted as soon as we have an update."
         },
         {
           "date_created": "2021-02-26T06:21:43-08:00",
