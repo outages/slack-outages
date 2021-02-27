@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-02-26T09:12:40-08:00",
-  "date_updated": "2021-02-26T09:12:40-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-02-27T15:11:18-08:00",
+  "date_updated": "2021-02-27T15:11:18-08:00",
+  "active_incidents": [
+    {
+      "id": 952,
+      "date_created": "2021-02-27T15:11:18-08:00",
+      "date_updated": "2021-02-27T15:11:18-08:00",
+      "title": "Workflows in shortcuts menu missing in channels with read-only access.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-02/e75e7d04cfde2d73",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-02-27T15:11:18-08:00",
+          "body": "Some customers may be experiencing trouble using workflows in announce only channels via we lightning bolt / shortcuts menu. We apologize for the disruption. We are investigating and will work to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
