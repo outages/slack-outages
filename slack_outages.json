@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2021-02-27T15:11:18-08:00",
-          "body": "We’ve identified the cause of the issue with missing workflows in announce only channels and we’ll be deploying a fix as soon as possible. Thanks for bearing with us in the meantime. We’ll be back with another update shortly."
+          "body": "We’ve rolled out a fix and workflows in announce only channels are back to normal. If it’s still not quite right, please try a refresh using CMD/CTRL + SHIFT + O. Thanks for your patience while we sorted this issue out."
         }
       ]
     }
