@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-03-02T11:55:35-08:00",
-  "date_updated": "2021-03-02T11:55:35-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-03-03T09:55:55-08:00",
+  "date_updated": "2021-03-03T09:55:55-08:00",
+  "active_incidents": [
+    {
+      "id": 954,
+      "date_created": "2021-03-03T09:55:55-08:00",
+      "date_updated": "2021-03-03T09:55:55-08:00",
+      "title": "Trouble with Workflow Builder",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-03/c59654de04c07c0f",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-03-03T09:55:55-08:00",
+          "body": "Customers may be experiencing issues using Workflow Builder within Slack. We apologize for the disruption. We're investigating and working to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
