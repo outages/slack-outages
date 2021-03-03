@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-03-03T11:55:04-08:00",
-  "date_updated": "2021-03-03T11:55:04-08:00",
+  "date_created": "2021-03-03T12:25:12-08:00",
+  "date_updated": "2021-03-03T12:25:12-08:00",
   "active_incidents": [
     {
       "id": 954,
       "date_created": "2021-03-03T09:55:55-08:00",
-      "date_updated": "2021-03-03T11:55:04-08:00",
+      "date_updated": "2021-03-03T12:25:12-08:00",
       "title": "Trouble with Workflow Builder",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-03-03T12:25:12-08:00",
+          "body": "Our team is working to get to the bottom of this issue as soon as possible. We'll continue posting updates every 30 minutes until this incident is downgraded."
+        },
         {
           "date_created": "2021-03-03T11:55:04-08:00",
           "body": "We're still investigating this issue, and we'll keep you posted as soon as we have an update."
