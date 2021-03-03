@@ -1,49 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-03-03T12:55:03-08:00",
-  "date_updated": "2021-03-03T12:55:03-08:00",
-  "active_incidents": [
-    {
-      "id": 954,
-      "date_created": "2021-03-03T09:55:55-08:00",
-      "date_updated": "2021-03-03T12:55:03-08:00",
-      "title": "Trouble with Workflow Builder",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-03/c59654de04c07c0f",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-03-03T12:55:03-08:00",
-          "body": "We don't have any additional news to share at the moment. Thank you for your patience while we sort this out."
-        },
-        {
-          "date_created": "2021-03-03T12:25:12-08:00",
-          "body": "Our team is working to get to the bottom of this issue as soon as possible. We'll continue posting updates every 30 minutes until this incident is downgraded."
-        },
-        {
-          "date_created": "2021-03-03T11:55:04-08:00",
-          "body": "We're still investigating this issue, and we'll keep you posted as soon as we have an update."
-        },
-        {
-          "date_created": "2021-03-03T11:25:12-08:00",
-          "body": "No additional news to share just yet, but we're working as quickly as possible to identify and fix the issues with the Workflow Builder. We appreciate your continued patience."
-        },
-        {
-          "date_created": "2021-03-03T10:55:25-08:00",
-          "body": "There are no changes to report as of yet. We’re continuing to dig in on our side. We’ll continue to share updates every 30 minutes until the incident has been downgraded."
-        },
-        {
-          "date_created": "2021-03-03T10:22:25-08:00",
-          "body": "We’re still investigating the issues with Workflow Builder, but we don’t have additional information just yet. We’ll be back in 30 minutes with another update. Thank you for bearing with us."
-        },
-        {
-          "date_created": "2021-03-03T09:55:55-08:00",
-          "body": "Customers may be experiencing issues using Workflow Builder within Slack. We apologize for the disruption. We're investigating and working to resolve this as fast as we can."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-03-03T13:27:23-08:00",
+  "date_updated": "2021-03-03T13:27:23-08:00",
+  "active_incidents": []
 }
