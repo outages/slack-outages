@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-03-09T07:47:36-08:00",
-  "date_updated": "2021-03-09T07:47:36-08:00",
+  "date_created": "2021-03-09T08:47:26-08:00",
+  "date_updated": "2021-03-09T08:47:26-08:00",
   "active_incidents": [
     {
       "id": 958,
       "date_created": "2021-03-09T07:47:36-08:00",
-      "date_updated": "2021-03-09T07:47:36-08:00",
+      "date_updated": "2021-03-09T08:47:26-08:00",
       "title": "Delays when completing actions in Slack",
       "type": "incident",
       "status": "active",
@@ -17,6 +17,14 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-03-09T08:47:26-08:00",
+          "body": "We believe that we've identified the source of the issue and have deployed a fix. Customers should start seeing improved performance and we'll continue to keep a close eye on the situation. We'll provide another update shortly."
+        },
+        {
+          "date_created": "2021-03-09T08:17:33-08:00",
+          "body": "We're still investigating the issue around processing delays. We don't have additional information just yet, but we'll be back in 30 minutes with another update. Thank you for bearing with us."
+        },
         {
           "date_created": "2021-03-09T07:47:36-08:00",
           "body": "We are currently experiencing an issue processing delayed jobs in the API queue. Some customers may experience delays on actions taken in Slack. Notifications may be delayed, as well as messages from apps and integrations."
