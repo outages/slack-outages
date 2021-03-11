@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-03-10T18:49:45-08:00",
-  "date_updated": "2021-03-10T18:49:45-08:00",
+  "date_created": "2021-03-10T19:28:16-08:00",
+  "date_updated": "2021-03-10T19:28:16-08:00",
   "active_incidents": [
     {
       "id": 959,
       "date_created": "2021-03-10T18:49:45-08:00",
-      "date_updated": "2021-03-10T18:49:45-08:00",
+      "date_updated": "2021-03-10T19:28:16-08:00",
       "title": "Trouble loading private channels and group direct messages",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2021-03-10T19:28:16-08:00",
+          "body": "We're still investigating the issue with opening private channels and group direct message conversations. We’ll provide new information as soon as it’s available."
+        },
         {
           "date_created": "2021-03-10T18:49:45-08:00",
           "body": "Some customers may be experiencing issues opening private channels and group direct message conversations. We're very sorry for the disruption and we're working to resolve this as fast as we can. Thank you for bearing with us."
