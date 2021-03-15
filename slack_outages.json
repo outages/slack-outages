@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-03-11T14:28:25-08:00",
-  "date_updated": "2021-03-11T14:28:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-03-15T14:14:55-07:00",
+  "date_updated": "2021-03-15T14:14:55-07:00",
+  "active_incidents": [
+    {
+      "id": 960,
+      "date_created": "2021-03-15T14:14:55-07:00",
+      "date_updated": "2021-03-15T14:14:55-07:00",
+      "title": "Trouble with Office 365 applications",
+      "type": "notice",
+      "status": "active",
+      "url": "https://status.slack.com/2021-03/3c207d60dd450bcc",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-03-15T14:14:55-07:00",
+          "body": "Some users may encounter issues with Office 365 applications in Slack, such as when attempting to sync calendars with the Outlook Calendar app.\r\n\r\nWe're monitoring the situation, and we'll return once the health on the Office 365 side has improved."
+        }
+      ]
+    }
+  ]
 }
