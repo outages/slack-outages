@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-03-15T15:55:43-07:00",
-  "date_updated": "2021-03-15T15:55:43-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-03-17T04:03:26-07:00",
+  "date_updated": "2021-03-17T04:03:26-07:00",
+  "active_incidents": [
+    {
+      "id": 961,
+      "date_created": "2021-03-17T04:03:26-07:00",
+      "date_updated": "2021-03-17T04:03:26-07:00",
+      "title": "Trouble with search function using double quotations marks in MAC app",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-03/c6189cf6b126fdab",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-03-17T04:03:26-07:00",
+          "body": "Search function is currently not working when trying to search in the Slack desktop app on Mac using double quotation marks.\r\nWeb browser is currently working as expected.\r\nWe're very sorry for the disruption and we're working to resolve this as fast as we can. Thank you for bearing with us."
+        }
+      ]
+    }
+  ]
 }
