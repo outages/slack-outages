@@ -1,29 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2021-03-22T09:40:03-07:00",
   "date_updated": "2021-03-22T09:40:03-07:00",
-  "active_incidents": [
-    {
-      "id": 962,
-      "date_created": "2021-03-22T09:27:10-07:00",
-      "date_updated": "2021-03-22T09:40:03-07:00",
-      "title": "Trouble connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-03/18785cea98096208",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-03-22T09:40:03-07:00",
-          "body": "We've identified the issue and deployed a fix. If you are still affected, please reload Slack with Command/Control + Shift + R as that should resolve the issue for you. Apologies for the disruption we caused, and thank you for your patience."
-        },
-        {
-          "date_created": "2021-03-22T09:27:10-07:00",
-          "body": "Some people may being experiencing difficulties trying to log in to Slack. We’re investigating and will be back with an update shortly."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
