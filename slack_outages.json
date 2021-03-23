@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2021-03-23T04:43:30-07:00",
-          "body": "Some users may be experiencing difficulties with connecting to their workspaces. The situation is already improved, but we’re keeping a close eye on things."
+          "body": "We’ve resolved the connectivity issue and users should be able to access Slack as normal now. Apologies for the disruption we caused, and thank you for your patience."
         }
       ]
     }
