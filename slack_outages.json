@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-03-22T18:10:25-07:00",
-  "date_updated": "2021-03-22T18:10:25-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-03-23T04:43:30-07:00",
+  "date_updated": "2021-03-23T04:43:30-07:00",
+  "active_incidents": [
+    {
+      "id": 964,
+      "date_created": "2021-03-23T04:43:30-07:00",
+      "date_updated": "2021-03-23T04:43:30-07:00",
+      "title": "Trouble connecting to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-03/1f6e1d36b69cd578",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-03-23T04:43:30-07:00",
+          "body": "Some users may be experiencing difficulties with connecting to their workspaces. The situation is already improved, but we’re keeping a close eye on things."
+        }
+      ]
+    }
+  ]
 }
