@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-03-23T05:48:30-07:00",
-  "date_updated": "2021-03-23T05:48:30-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-03-23T23:31:09-07:00",
+  "date_updated": "2021-03-23T23:31:09-07:00",
+  "active_incidents": [
+    {
+      "id": 965,
+      "date_created": "2021-03-23T23:31:09-07:00",
+      "date_updated": "2021-03-23T23:31:09-07:00",
+      "title": "Trouble with loading messages after converting from group direct messages to private channels",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-03/319b327634e12e34",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-03-23T23:31:09-07:00",
+          "body": "Some customers may be experiencing issues with loading messages after converting from group direct messages to private channels. We’re investigating and will be back with an update shortly."
+        }
+      ]
+    }
+  ]
 }
