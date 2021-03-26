@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-03-25T17:26:21-07:00",
-  "date_updated": "2021-03-25T17:26:21-07:00",
+  "date_created": "2021-03-25T17:58:33-07:00",
+  "date_updated": "2021-03-25T17:58:33-07:00",
   "active_incidents": [
     {
       "id": 967,
       "date_created": "2021-03-25T14:21:19-07:00",
-      "date_updated": "2021-03-25T17:26:21-07:00",
+      "date_updated": "2021-03-25T17:58:33-07:00",
       "title": "Email verification sign in error for SSO users",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2021-03-25T17:58:33-07:00",
+          "body": "We’ve deployed a change that we believe will rectify the email verification issue, although we’re still monitoring the situation closely. We’ll post an update as soon as we can confirm the problem is resolved."
+        },
         {
           "date_created": "2021-03-25T17:26:21-07:00",
           "body": "We're working as fast as we can to get the potential fix out. We'll share another update in 30 minutes."
