@@ -1,53 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-03-25T17:58:33-07:00",
-  "date_updated": "2021-03-25T17:58:33-07:00",
-  "active_incidents": [
-    {
-      "id": 967,
-      "date_created": "2021-03-25T14:21:19-07:00",
-      "date_updated": "2021-03-25T17:58:33-07:00",
-      "title": "Email verification sign in error for SSO users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-03/164d083f66725086",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-03-25T17:58:33-07:00",
-          "body": "We’ve deployed a change that we believe will rectify the email verification issue, although we’re still monitoring the situation closely. We’ll post an update as soon as we can confirm the problem is resolved."
-        },
-        {
-          "date_created": "2021-03-25T17:26:21-07:00",
-          "body": "We're working as fast as we can to get the potential fix out. We'll share another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-03-25T16:51:25-07:00",
-          "body": "We’ve isolated the problem and we’re focused on getting Slack working again as soon as possible. We’ll have another update shortly."
-        },
-        {
-          "date_created": "2021-03-25T16:21:34-07:00",
-          "body": "We’re getting closer to the root of the sign in issue, and and we’re working on getting a fix out as soon as possible. We’ll be back with another update shortly."
-        },
-        {
-          "date_created": "2021-03-25T15:52:47-07:00",
-          "body": "Our team have now begun exploring a possible fix for the sign in issue, and we'll be returning with new developments on our progress as they happen."
-        },
-        {
-          "date_created": "2021-03-25T15:21:02-07:00",
-          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-03-25T14:51:04-07:00",
-          "body": "Our investigation of the email verification sign in glitch is still ongoing at this time. We’ll be back with another update as soon as we have news."
-        },
-        {
-          "date_created": "2021-03-25T14:21:19-07:00",
-          "body": "Some SSO users may be running into a \"There's been a glitch\" error screen when logging in using the email verification sign in method. In the meantime, manually entering the workspace URL in your browser address bar and then signing in should work as normal. Our team are investigating, and will share updates as soon as they are available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-03-25T18:47:55-07:00",
+  "date_updated": "2021-03-25T18:47:55-07:00",
+  "active_incidents": []
 }
