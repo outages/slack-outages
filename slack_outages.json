@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-03-26T15:54:41-07:00",
-  "date_updated": "2021-03-26T15:54:41-07:00",
+  "date_created": "2021-03-26T17:11:39-07:00",
+  "date_updated": "2021-03-26T17:11:39-07:00",
   "active_incidents": [
     {
       "id": 968,
       "date_created": "2021-03-26T15:54:41-07:00",
-      "date_updated": "2021-03-26T15:54:41-07:00",
+      "date_updated": "2021-03-26T17:11:39-07:00",
       "title": "Some people are experiencing trouble accepting shared channel invites",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2021-03-26T17:11:39-07:00",
+          "body": "We’ve located the source of the problem, but we’re not out of the woods yet — some people may still be having trouble accepting shared channel invites. We'll continue to keep you updated on progress as we know more."
+        },
         {
           "date_created": "2021-03-26T15:54:41-07:00",
           "body": "Customers may have trouble accepting shared channel invites at this time. We're investigating, and we'll follow up with more information as soon as we have it. We apologize for the disruption."
