@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-04-01T16:17:37-07:00",
-  "date_updated": "2021-04-01T16:17:37-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-04-06T16:02:52-07:00",
+  "date_updated": "2021-04-06T16:02:52-07:00",
+  "active_incidents": [
+    {
+      "id": 970,
+      "date_created": "2021-04-06T16:02:52-07:00",
+      "date_updated": "2021-04-06T16:02:52-07:00",
+      "title": "Delayed Android notifications",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-04/88fa9690066889b4",
+      "services": [
+        "Notifications"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-04-06T16:02:52-07:00",
+          "body": "Some users are experiencing delays with mobile notifications on Android. We're working hard to resolve the issue as quickly as possible, and we'll update you as soon as we have more information.\r\n\r\nWe apologize for any inconvenience caused."
+        }
+      ]
+    }
+  ]
 }
