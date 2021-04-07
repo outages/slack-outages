@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-04-07T03:56:29-07:00",
-  "date_updated": "2021-04-07T03:56:29-07:00",
-  "active_incidents": [
-    {
-      "id": 971,
-      "date_created": "2021-04-07T01:57:07-07:00",
-      "date_updated": "2021-04-07T03:56:29-07:00",
-      "title": "Mobile notifications are delayed",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-04/c129ecdbf34ce5c4",
-      "services": [
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-04-07T03:56:29-07:00",
-          "body": "We believe we've identified the issue and are working to fix. Early signs are positive but old notifications will continue to come through as we work on it.\r\nWe will update as this work progresses."
-        },
-        {
-          "date_created": "2021-04-07T03:24:50-07:00",
-          "body": "We continue to investigate the issue and will update when there's anything to share. This looks to mainly affect Android devices. We apologize again for the inconvenience caused."
-        },
-        {
-          "date_created": "2021-04-07T01:57:07-07:00",
-          "body": "Some people are experiencing delays with mobile notifications. We're working hard to resolve the issue, and we'll update you as soon as we have more information.\r\nWe apologize for the inconvenience caused."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-04-07T05:45:58-07:00",
+  "date_updated": "2021-04-07T05:45:58-07:00",
+  "active_incidents": []
 }
