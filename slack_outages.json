@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-04-11T18:56:03-07:00",
-  "date_updated": "2021-04-11T18:56:03-07:00",
-  "active_incidents": [
-    {
-      "id": 972,
-      "date_created": "2021-04-11T18:56:03-07:00",
-      "date_updated": "2021-04-11T18:56:03-07:00",
-      "title": "Issues with sending messages and loading threads",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-04/c111bf711d50f801",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-04-11T18:56:03-07:00",
-          "body": "Some customers may be unable to send messages or load threads in Slack. We're very sorry for the disruption. We're working to resolve this fast as we can, and we'll back in 30 minutes with an update."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-04-11T19:56:41-07:00",
+  "date_updated": "2021-04-11T19:56:41-07:00",
+  "active_incidents": []
 }
