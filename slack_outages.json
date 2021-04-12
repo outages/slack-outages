@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-04-11T19:56:41-07:00",
-  "date_updated": "2021-04-11T19:56:41-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-04-12T09:53:44-07:00",
+  "date_updated": "2021-04-12T09:53:44-07:00",
+  "active_incidents": [
+    {
+      "id": 973,
+      "date_created": "2021-04-12T09:53:44-07:00",
+      "date_updated": "2021-04-12T09:53:44-07:00",
+      "title": "Messages aren't being marked as read successfully on iOS",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-04/92d00e81fa80c365",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-04-12T09:53:44-07:00",
+          "body": "Some customers using the latest version of our iOS app are seeing their messages remain marked as unread and the channels bolded even after reading the channel and navigating away. Our team are currently investigating and we'll be back with any updates as they happen."
+        }
+      ]
+    }
+  ]
 }
