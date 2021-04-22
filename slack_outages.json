@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-04-21T22:27:02-07:00",
-  "date_updated": "2021-04-21T22:27:02-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-04-22T14:16:25-07:00",
+  "date_updated": "2021-04-22T14:16:25-07:00",
+  "active_incidents": [
+    {
+      "id": 977,
+      "date_created": "2021-04-22T14:16:25-07:00",
+      "date_updated": "2021-04-22T14:16:25-07:00",
+      "title": "Some users may be having trouble with calls, using Workflow builder, and using Block Kit",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-04/e56eabe9cfc23276",
+      "services": [
+        "Calls",
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-04-22T14:16:25-07:00",
+          "body": "Some users may be having trouble with calls, using Workflow builder, and using Block Kit. Our team is currently investigating and we'll be back with any updates as they happen."
+        }
+      ]
+    }
+  ]
 }
