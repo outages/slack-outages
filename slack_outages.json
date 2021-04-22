@@ -1,6 +1,31 @@
 {
-  "status": "ok",
-  "date_created": "2021-04-15T15:48:53-07:00",
-  "date_updated": "2021-04-15T15:48:53-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-04-21T18:50:14-07:00",
+  "date_updated": "2021-04-21T18:50:14-07:00",
+  "active_incidents": [
+    {
+      "id": 976,
+      "date_created": "2021-04-21T18:20:53-07:00",
+      "date_updated": "2021-04-21T18:50:14-07:00",
+      "title": "Degraded performance for some customers",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-04/211cafdfa66e3ace",
+      "services": [
+        "Link Previews",
+        "Notifications",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-04-21T18:50:14-07:00",
+          "body": "We’ve made a change and we've started to see improvements, but we’re still monitoring the situation closely. We’ll be back with an update as soon as we can confirm that performance is fully restored. Thank you for bearing with us."
+        },
+        {
+          "date_created": "2021-04-21T18:20:53-07:00",
+          "body": "Some customers may be experiencing degraded performance in Slack, including delays in notification delivery, link previews, and some administrative actions. We're very sorry for the disruption. We're working to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
