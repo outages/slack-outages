@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-04-24T14:46:48-07:00",
-  "date_updated": "2021-04-24T14:46:48-07:00",
-  "active_incidents": [
-    {
-      "id": 978,
-      "date_created": "2021-04-24T14:29:50-07:00",
-      "date_updated": "2021-04-24T14:46:48-07:00",
-      "title": "Some customers may be having connectivity trouble",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-04/2cba352a5cbe57b2",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-04-24T14:46:48-07:00",
-          "body": "We’ve started to see improvements with connectivity, but we’re still monitoring closely. We’ll let you know when everything is fully restored."
-        },
-        {
-          "date_created": "2021-04-24T14:29:50-07:00",
-          "body": "We've had reports that some customers are having trouble connecting to Slack. We’re investigating and will be back with an update 30 minutes."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-04-24T14:56:28-07:00",
+  "date_updated": "2021-04-24T14:56:28-07:00",
+  "active_incidents": []
 }
