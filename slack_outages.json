@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-04-26T18:28:14-07:00",
-  "date_updated": "2021-04-26T18:28:14-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-04-28T18:26:02-07:00",
+  "date_updated": "2021-04-28T18:26:02-07:00",
+  "active_incidents": [
+    {
+      "id": 980,
+      "date_created": "2021-04-28T18:26:02-07:00",
+      "date_updated": "2021-04-28T18:26:02-07:00",
+      "title": "Issues with the Send button",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-04/d57fb608d5b3cf1b",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-04-28T18:26:02-07:00",
+          "body": "Some customers may be experiencing issues with the Send button in Slack. We're working to fix this as fast as we can. Apologies for the disruption to your work."
+        }
+      ]
+    }
+  ]
 }
