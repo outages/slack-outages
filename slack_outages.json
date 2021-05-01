@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-05-01T07:13:32-07:00",
-  "date_updated": "2021-05-01T07:13:32-07:00",
-  "active_incidents": [
-    {
-      "id": 982,
-      "date_created": "2021-05-01T07:13:32-07:00",
-      "date_updated": "2021-05-01T07:13:32-07:00",
-      "title": "Degraded performance issues for some customers",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-05/d950cd64cf932881",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-05-01T07:13:32-07:00",
-          "body": "Some customers may be experiencing degraded performance issues. We're currently investigating, and we'll keep you posted as soon as we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-05-01T07:43:32-07:00",
+  "date_updated": "2021-05-01T07:43:32-07:00",
+  "active_incidents": []
 }
