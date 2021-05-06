@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-05-06T12:29:06-07:00",
-  "date_updated": "2021-05-06T12:29:06-07:00",
-  "active_incidents": [
-    {
-      "id": 983,
-      "date_created": "2021-05-06T12:26:13-07:00",
-      "date_updated": "2021-05-06T12:29:06-07:00",
-      "title": "The Giphy slash command is showing error \"could not match [search term]\"",
-      "type": "notice",
-      "status": "active",
-      "url": "https://status.slack.com/2021-05/38476179b8671ddd",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-05-06T12:26:13-07:00",
-          "body": "We're aware of an issue with the Giphy integration within Slack, where users may be seeing error messages, or that some results aren’t matching to their search terms. We’re looking into the situation, and will share back updates as soon as we have them."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-05-06T13:56:12-07:00",
+  "date_updated": "2021-05-06T13:56:12-07:00",
+  "active_incidents": []
 }
