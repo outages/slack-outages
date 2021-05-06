@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-05-06T12:26:13-07:00",
-  "date_updated": "2021-05-06T12:26:13-07:00",
+  "date_created": "2021-05-06T12:29:06-07:00",
+  "date_updated": "2021-05-06T12:29:06-07:00",
   "active_incidents": [
     {
       "id": 983,
       "date_created": "2021-05-06T12:26:13-07:00",
-      "date_updated": "2021-05-06T12:26:13-07:00",
+      "date_updated": "2021-05-06T12:29:06-07:00",
       "title": "The Giphy slash command is showing error \"could not match [search term]\"",
       "type": "notice",
       "status": "active",
