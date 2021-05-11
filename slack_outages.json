@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-05-11T11:40:28-07:00",
-  "date_updated": "2021-05-11T11:40:28-07:00",
-  "active_incidents": [
-    {
-      "id": 985,
-      "date_created": "2021-05-11T11:40:28-07:00",
-      "date_updated": "2021-05-11T11:40:28-07:00",
-      "title": "Some users may be experiencing connection errors and failed API calls",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-05/9cff37222aac6c12",
-      "services": [
-        "Connections",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-05-11T11:40:28-07:00",
-          "body": "We're aware of an issue where some users may be experiencing connection errors and failed API calls. Some customers will be disconnected and unable to connect to Slack. We're working to resolve this and will reach back out when we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-05-11T12:31:33-07:00",
+  "date_updated": "2021-05-11T12:31:33-07:00",
+  "active_incidents": []
 }
