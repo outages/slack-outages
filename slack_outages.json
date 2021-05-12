@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-05-11T12:31:33-07:00",
-  "date_updated": "2021-05-11T12:31:33-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-05-11T21:20:28-07:00",
+  "date_updated": "2021-05-11T21:20:28-07:00",
+  "active_incidents": [
+    {
+      "id": 986,
+      "date_created": "2021-05-11T21:20:28-07:00",
+      "date_updated": "2021-05-11T21:20:28-07:00",
+      "title": "Trouble managing apps on the App Directory",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-05/d8f0ecc0e2bee396",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-05-11T21:20:28-07:00",
+          "body": "Some users may be unable to install, uninstall or manage apps on the App Directory. We're sorry for any inconvenience.\r\n\r\nWe're working on it and will be back with an update soon."
+        }
+      ]
+    }
+  ]
 }
