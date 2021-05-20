@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-05-20T10:57:27-07:00",
-  "date_updated": "2021-05-20T10:57:27-07:00",
-  "active_incidents": [
-    {
-      "id": 987,
-      "date_created": "2021-05-20T10:17:13-07:00",
-      "date_updated": "2021-05-20T10:57:27-07:00",
-      "title": "Trouble loading Slack",
-      "type": "outage",
-      "status": "active",
-      "url": "https://status.slack.com/2021-05/33aed870657e30a0",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-05-20T10:57:27-07:00",
-          "body": "We're still working towards a fix, and users may still be facing errors when attempting to load Slack. We appreciate all your patience in the meantime and we'll continue to keep you posted."
-        },
-        {
-          "date_created": "2021-05-20T10:27:20-07:00",
-          "body": "Reloading Slack (Command + R / Ctrl + R) may help Slack to load as expected. We're not out of the woods yet, though, and will continue to share news here as it becomes available."
-        },
-        {
-          "date_created": "2021-05-20T10:17:13-07:00",
-          "body": "Some users may be experiencing issues loading Slack. We're actively digging into this issue and will report back as soon as we have an update to share. We're sorry for the inconvenience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-05-20T11:36:14-07:00",
+  "date_updated": "2021-05-20T11:36:14-07:00",
+  "active_incidents": []
 }
