@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-06-02T22:32:51-07:00",
-  "date_updated": "2021-06-02T22:32:51-07:00",
-  "active_incidents": [
-    {
-      "id": 988,
-      "date_created": "2021-06-02T22:32:51-07:00",
-      "date_updated": "2021-06-02T22:32:51-07:00",
-      "title": "Trouble loading the app management page in languages other than English (US)",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-06/0b9b44824f5fdfe7",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-06-02T22:32:51-07:00",
-          "body": "Some of our customers using Slack in languages other than English (US) may be experiencing issues loading the app management page (https://my.slack.com/apps/manage). We’re currently investigating, and we’ll keep you posted as soon as we have more information. We’re sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-06-03T02:43:16-07:00",
+  "date_updated": "2021-06-03T02:43:16-07:00",
+  "active_incidents": []
 }
