@@ -1,6 +1,34 @@
 {
-  "status": "ok",
-  "date_created": "2021-06-03T08:09:00-07:00",
-  "date_updated": "2021-06-03T08:09:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-06-04T03:39:14-07:00",
+  "date_updated": "2021-06-04T03:39:14-07:00",
+  "active_incidents": [
+    {
+      "id": 989,
+      "date_created": "2021-06-04T03:39:14-07:00",
+      "date_updated": "2021-06-04T03:39:14-07:00",
+      "title": "Message loading issues - India",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-06/6191a9ba292ac886",
+      "services": [
+        "Connections",
+        "Notifications",
+        "Messaging",
+        "Calls",
+        "Link Previews",
+        "Search",
+        "Apps/Integrations/APIs",
+        "Login/SSO",
+        "Posts/Files",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-06-04T03:39:14-07:00",
+          "body": "Some users based in India might be experiencing some issues loading messages. We are currently investigating and  we'll report back once we have more information to share.\r\nWe're sorry for the inconvenience in the meantime."
+        }
+      ]
+    }
+  ]
 }
