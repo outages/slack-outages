@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-06-04T18:19:40-07:00",
-  "date_updated": "2021-06-04T18:19:40-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-06-07T18:42:36-07:00",
+  "date_updated": "2021-06-07T18:42:36-07:00",
+  "active_incidents": [
+    {
+      "id": 990,
+      "date_created": "2021-06-07T18:42:36-07:00",
+      "date_updated": "2021-06-07T18:42:36-07:00",
+      "title": "File uploads are failing via the API",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-06/86a8d08fd65b4a9f",
+      "services": [
+        "Posts/Files",
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-06-07T18:42:36-07:00",
+          "body": "We're investigating issues with file uploads via the API. We apologize for the inconvenience in the meantime."
+        }
+      ]
+    }
+  ]
 }
