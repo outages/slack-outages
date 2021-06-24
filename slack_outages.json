@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-06-14T23:07:21-07:00",
-  "date_updated": "2021-06-14T23:07:21-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-06-23T19:40:28-07:00",
+  "date_updated": "2021-06-23T19:40:28-07:00",
+  "active_incidents": [
+    {
+      "id": 992,
+      "date_created": "2021-06-23T19:40:28-07:00",
+      "date_updated": "2021-06-23T19:40:28-07:00",
+      "title": "Some users cannot load threads",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-06/43839e04271dbe16",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-06-23T19:40:28-07:00",
+          "body": "Some customers are unable to load threads. We're very sorry for the disruption. We're investigating and we'll provide another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
