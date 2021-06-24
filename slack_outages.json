@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-06-23T20:25:27-07:00",
-  "date_updated": "2021-06-23T20:25:27-07:00",
+  "date_created": "2021-06-23T20:56:58-07:00",
+  "date_updated": "2021-06-23T20:56:58-07:00",
   "active_incidents": [
     {
       "id": 992,
       "date_created": "2021-06-23T19:40:28-07:00",
-      "date_updated": "2021-06-23T20:25:27-07:00",
+      "date_updated": "2021-06-23T20:56:58-07:00",
       "title": "Some users cannot load threads",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2021-06-23T20:56:58-07:00",
+          "body": "We're happy to report a fix has been deployed. Thanks again for your continued patience."
+        },
         {
           "date_created": "2021-06-23T20:25:27-07:00",
           "body": "Thank you for your patience. We've identified the issue and are close to resolving. We'll be back with another update soon."
