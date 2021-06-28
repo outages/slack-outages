@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-06-28T06:19:23-07:00",
-  "date_updated": "2021-06-28T06:19:23-07:00",
+  "date_created": "2021-06-28T07:19:23-07:00",
+  "date_updated": "2021-06-28T07:19:23-07:00",
   "active_incidents": [
     {
       "id": 993,
       "date_created": "2021-06-28T05:36:12-07:00",
-      "date_updated": "2021-06-28T06:19:23-07:00",
+      "date_updated": "2021-06-28T07:19:23-07:00",
       "title": "We are actively looking into an issue with Linux app installations",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2021-06-28T07:19:23-07:00",
+          "body": "We’re still looking into the cause of users experiencing difficulties when installing Linux. No additional news to share just yet but we’ll provide new information as soon as it’s available."
+        },
+        {
           "date_created": "2021-06-28T06:19:23-07:00",
-          "body": "Our team is still investigating the issue but in the meantime users can install Slack from the snap store here: https://snapcraft.io/slack or download directly from our website  https://slack.com/downloads/linux"
+          "body": "Our team is still investigating the issue but in the meantime users can install Slack from the snap store here: https://snapcraft.io/slack or download directly from our website: https://slack.com/downloads/linux."
         },
         {
           "date_created": "2021-06-28T05:36:12-07:00",
