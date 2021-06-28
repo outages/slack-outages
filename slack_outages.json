@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-06-24T02:28:00-07:00",
-  "date_updated": "2021-06-24T02:28:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-06-28T05:36:12-07:00",
+  "date_updated": "2021-06-28T05:36:12-07:00",
+  "active_incidents": [
+    {
+      "id": 993,
+      "date_created": "2021-06-28T05:36:12-07:00",
+      "date_updated": "2021-06-28T05:36:12-07:00",
+      "title": "We are actively looking into an issue with Linux app installations",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-06/5726fe62135af910",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-06-28T05:36:12-07:00",
+          "body": "Slack is experiencing problems with our Linux Packagecloud repository. This is preventing customers from installing or updating the app in this way. Our team is looking into it and we will share more information shortly."
+        }
+      ]
+    }
+  ]
 }
