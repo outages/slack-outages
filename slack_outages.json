@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-06-30T13:00:49-07:00",
-  "date_updated": "2021-06-30T13:00:49-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-06-30T12:05:31-07:00",
+  "date_updated": "2021-06-30T12:05:31-07:00",
+  "active_incidents": [
+    {
+      "id": 994,
+      "date_created": "2021-06-30T12:05:31-07:00",
+      "date_updated": "2021-06-30T12:05:31-07:00",
+      "title": "Some users may have issues loading Slack and sending messages.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-06/227bc1fa2a751188",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-06-30T12:05:31-07:00",
+          "body": "Some users may be experiencing issues loading Slack and sending messages. We're very sorry for the disruption. We're investigating and we'll provide another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
