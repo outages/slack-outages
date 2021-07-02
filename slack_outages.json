@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-07-02T14:27:08-07:00",
-  "date_updated": "2021-07-02T14:27:08-07:00",
-  "active_incidents": [
-    {
-      "id": 995,
-      "date_created": "2021-07-02T13:57:06-07:00",
-      "date_updated": "2021-07-02T14:27:08-07:00",
-      "title": "Trouble approving new workspaces",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-07/5e771d56a8f8bf30",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-07-02T14:27:08-07:00",
-          "body": "No additional news to share just yet, but we're focused on getting things back to normal as quickly we can. We'll return with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-02T13:57:06-07:00",
-          "body": "Some Grid Owners and Admins may be having trouble approving new workspaces. We apologize for the disruption, and we're working to resolve this."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-07-02T15:12:05-07:00",
+  "date_updated": "2021-07-02T15:12:05-07:00",
+  "active_incidents": []
 }
