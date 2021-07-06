@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-07-06T09:37:26-07:00",
-  "date_updated": "2021-07-06T09:37:26-07:00",
+  "date_created": "2021-07-06T10:07:54-07:00",
+  "date_updated": "2021-07-06T10:07:54-07:00",
   "active_incidents": [
     {
       "id": 996,
       "date_created": "2021-07-06T07:37:30-07:00",
-      "date_updated": "2021-07-06T09:37:26-07:00",
+      "date_updated": "2021-07-06T10:07:54-07:00",
       "title": "Trouble using some apps and integrations in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-07-06T10:07:54-07:00",
+          "body": "While we don't have any new information to share at this time, our team is still working hard to get things back up and running. We'll be back shortly with another update."
+        },
         {
           "date_created": "2021-07-06T09:37:26-07:00",
           "body": "We’re continuing to work on resolving the issue as quickly as we can. We’ll provide an update in 30 minutes."
