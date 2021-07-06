@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-07-02T18:44:06-07:00",
-  "date_updated": "2021-07-02T18:44:06-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-07-06T07:37:30-07:00",
+  "date_updated": "2021-07-06T07:37:30-07:00",
+  "active_incidents": [
+    {
+      "id": 996,
+      "date_created": "2021-07-06T07:37:30-07:00",
+      "date_updated": "2021-07-06T07:37:30-07:00",
+      "title": "Trouble using some apps and integrations in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-07/88efe32b28f47f3f",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-07-06T07:37:30-07:00",
+          "body": "Some customers may be experiencing issues using certain apps and integrations in Slack at the moment. These may include Google Calendar, Outlook Calendar, and Workflow Builder, among others. We apologize for the disruption and we're investigating to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
