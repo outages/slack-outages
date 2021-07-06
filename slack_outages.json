@@ -1,49 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-07-06T10:53:13-07:00",
-  "date_updated": "2021-07-06T10:53:13-07:00",
-  "active_incidents": [
-    {
-      "id": 996,
-      "date_created": "2021-07-06T07:37:30-07:00",
-      "date_updated": "2021-07-06T10:53:13-07:00",
-      "title": "Trouble using some apps and integrations in Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-07/88efe32b28f47f3f",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-07-06T10:53:13-07:00",
-          "body": "We're making progress towards solving this issue but are still monitoring the situation. We'll continue to provide updates as new information becomes available."
-        },
-        {
-          "date_created": "2021-07-06T10:07:54-07:00",
-          "body": "While we don't have any new information to share at this time, our team is still working hard to get things back up and running. We'll be back shortly with another update."
-        },
-        {
-          "date_created": "2021-07-06T09:37:26-07:00",
-          "body": "We’re continuing to work on resolving the issue as quickly as we can. We’ll provide an update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-06T09:07:23-07:00",
-          "body": "We believe we've isolated the problem and we're focused on restoring the functionality of affected apps and integrations. We'll have another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-06T08:37:26-07:00",
-          "body": "We're still investigating the issue around certain apps and integrations failing in Slack. Our team believes they may have narrowed in on the cause and are looking further into it. We'll be back shortly with another update."
-        },
-        {
-          "date_created": "2021-07-06T08:07:17-07:00",
-          "body": "Our investigation is still ongoing at this time and we don’t have any new information to share just yet. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-06T07:37:30-07:00",
-          "body": "Some customers may be experiencing issues using certain apps and integrations in Slack at the moment. These may include Google Calendar, Outlook Calendar, and Workflow Builder, among others. We apologize for the disruption and we're investigating to resolve this as fast as we can."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-07-06T14:17:54-07:00",
+  "date_updated": "2021-07-06T14:17:54-07:00",
+  "active_incidents": []
 }
