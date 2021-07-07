@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-07-06T21:55:23-07:00",
-  "date_updated": "2021-07-06T21:55:23-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-07-07T03:58:20-07:00",
+  "date_updated": "2021-07-07T03:58:20-07:00",
+  "active_incidents": [
+    {
+      "id": 997,
+      "date_created": "2021-07-07T03:58:20-07:00",
+      "date_updated": "2021-07-07T03:58:20-07:00",
+      "title": "Errors when using some apps and integrations in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-07/4963fe758b1115d8",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-07-07T03:58:20-07:00",
+          "body": "Some customers may be experiencing issues using certain apps and integrations in Slack. Workflow Builder and other apps may be impacted. Our team is currently investigating and we'll keep you posted as soon as we have more information. We're sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
