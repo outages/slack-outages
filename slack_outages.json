@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-07-15T06:23:24-07:00",
-  "date_updated": "2021-07-15T06:23:24-07:00",
+  "date_created": "2021-07-15T06:53:05-07:00",
+  "date_updated": "2021-07-15T06:53:05-07:00",
   "active_incidents": [
     {
       "id": 999,
       "date_created": "2021-07-15T05:53:21-07:00",
-      "date_updated": "2021-07-15T06:23:24-07:00",
+      "date_updated": "2021-07-15T06:53:05-07:00",
       "title": "Delays with Events API requests",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-07-15T06:53:05-07:00",
+          "body": "If you were seeing delays with the Event API, you should see that this is no longer affecting new requests. However, we're still working to get to the bottom of what happened and will keep you updated."
+        },
         {
           "date_created": "2021-07-15T06:23:24-07:00",
           "body": "We’re still investigating these delays, but we don’t have additional information just yet. We’ll be back in 30 minutes with another update."
