@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-07-15T17:40:30-07:00",
-  "date_updated": "2021-07-15T17:40:30-07:00",
-  "active_incidents": [
-    {
-      "id": 1000,
-      "date_created": "2021-07-15T17:40:30-07:00",
-      "date_updated": "2021-07-15T17:40:30-07:00",
-      "title": "Some customers may be seeing incorrect trial expiration notifications",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-07/7eb08527f5d9e342",
-      "services": [
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-07-15T17:40:30-07:00",
-          "body": "Some customers on paid plans may be seeing incorrect trial expiration notifications. We're investigating and we'll provide another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-07-18T17:03:24-07:00",
+  "date_updated": "2021-07-18T17:03:24-07:00",
+  "active_incidents": []
 }
