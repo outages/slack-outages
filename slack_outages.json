@@ -18,7 +18,7 @@
       "notes": [
         {
           "date_created": "2021-07-20T12:44:57-07:00",
-          "body": "Some customers may be experiencing trouble searching files in Slack. The error message \"Something went wrong\" may appear when opening the \"File browser\" in the sidebar or selecting \"Files\" in the search field.\r\n\r\nWe're investigating the issue, and we'll provide another update as soon as we have more information to share."
+          "body": "Some customers may be experiencing trouble searching for files in Slack. The error message \"Something went wrong\" may appear when opening the \"File browser\" in the sidebar or selecting \"Files\" in the search field.\r\n\r\nWe're investigating the issue, and we'll provide another update as soon as we have more information to share."
         }
       ]
     }
