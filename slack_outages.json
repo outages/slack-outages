@@ -1,21 +1,26 @@
 {
   "status": "active",
-  "date_created": "2021-07-20T12:44:57-07:00",
-  "date_updated": "2021-07-20T12:44:57-07:00",
+  "date_created": "2021-07-20T13:27:48-07:00",
+  "date_updated": "2021-07-20T13:27:48-07:00",
   "active_incidents": [
     {
       "id": 1001,
       "date_created": "2021-07-20T12:44:57-07:00",
-      "date_updated": "2021-07-20T12:44:57-07:00",
-      "title": "Trouble searching for files",
+      "date_updated": "2021-07-20T13:27:48-07:00",
+      "title": "Trouble with files",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-07/9f26d5fac5e47a9c",
       "services": [
         "Posts/Files",
-        "Search"
+        "Search",
+        "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-07-20T13:27:48-07:00",
+          "body": "Some users may also be unable to view files under the channel and direct message details. In addition, some web API methods, such as files.list, may not be working as expected. \r\n\r\nThank you for your patience while we investigate this issue. \r\n\r\nNote: We've updated the title to reflect that the issue is affecting more than searching for files in Slack. We've also added Apps/Integrations/APIs to the services affected."
+        },
         {
           "date_created": "2021-07-20T12:44:57-07:00",
           "body": "Some customers may be experiencing trouble searching for files in Slack. The error message \"Something went wrong\" may appear when opening the \"File browser\" in the sidebar or selecting \"Files\" in the search field.\r\n\r\nWe're investigating the issue, and we'll provide another update as soon as we have more information to share."
