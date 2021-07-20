@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-07-19T17:24:31-07:00",
-  "date_updated": "2021-07-19T17:24:31-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-07-20T12:44:57-07:00",
+  "date_updated": "2021-07-20T12:44:57-07:00",
+  "active_incidents": [
+    {
+      "id": 1001,
+      "date_created": "2021-07-20T12:44:57-07:00",
+      "date_updated": "2021-07-20T12:44:57-07:00",
+      "title": "Trouble searching for files",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-07/9f26d5fac5e47a9c",
+      "services": [
+        "Posts/Files",
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-07-20T12:44:57-07:00",
+          "body": "Some customers may be experiencing trouble searching files in Slack. The error message \"Something went wrong\" may appear when opening the \"File browser\" in the sidebar or selecting \"Files\" in the search field.\r\n\r\nWe're investigating the issue, and we'll provide another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
