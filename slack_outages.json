@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-07-29T04:04:35-07:00",
-  "date_updated": "2021-07-29T04:04:35-07:00",
+  "date_created": "2021-07-29T07:28:33-07:00",
+  "date_updated": "2021-07-29T07:28:33-07:00",
   "active_incidents": [
     {
       "id": 1004,
       "date_created": "2021-07-29T01:07:33-07:00",
-      "date_updated": "2021-07-29T04:04:35-07:00",
+      "date_updated": "2021-07-29T07:28:33-07:00",
       "title": "Trouble with search function",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2021-07-29T07:28:33-07:00",
+          "body": "Our search success rate has recovered, but some users may still not see the most recent results in their searches. No additional information to share just yet, but we'll keep you posted as soon we have an update."
+        },
         {
           "date_created": "2021-07-29T04:04:35-07:00",
           "body": "We have identified the root cause of this issue with the search function which may cause some users to not see the most recent results in their searches. We're focused on getting things back to normal as quickly as we can and we'll provide another update as soon as we have news."
