@@ -20,36 +20,6 @@
           "body": "Some customers may be experiencing issues with the \"Slack for Gmail\" add-on not being visible in Gmail. We're currently investigating and we'll provide another update as soon as we have more information to share."
         }
       ]
-    },
-    {
-      "id": 1004,
-      "date_created": "2021-07-29T01:07:33-07:00",
-      "date_updated": "2021-07-29T07:28:33-07:00",
-      "title": "Trouble with search function",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-07/af43f445c9f02ec1",
-      "services": [
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-07-29T07:28:33-07:00",
-          "body": "Our search success rate has recovered, but some users may still not see the most recent results in their searches. No additional information to share just yet, but we'll keep you posted as soon we have an update."
-        },
-        {
-          "date_created": "2021-07-29T04:04:35-07:00",
-          "body": "We have identified the root cause of this issue with the search function which may cause some users to not see the most recent results in their searches. We're focused on getting things back to normal as quickly as we can and we'll provide another update as soon as we have news."
-        },
-        {
-          "date_created": "2021-07-29T01:44:52-07:00",
-          "body": "We’ve identified the cause of this search function issue and we’re working on getting a fix out as soon as possible. Thank you for your patience."
-        },
-        {
-          "date_created": "2021-07-29T01:07:33-07:00",
-          "body": "Some customers may be experiencing issues with search function. Our team is currently investigating and we'll provide another update as soon as we have more information to share."
-        }
-      ]
     }
   ]
 }
