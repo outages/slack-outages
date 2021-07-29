@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2021-07-29T07:28:33-07:00",
-  "date_updated": "2021-07-29T07:28:33-07:00",
+  "date_created": "2021-07-29T11:56:50-07:00",
+  "date_updated": "2021-07-29T11:56:50-07:00",
   "active_incidents": [
+    {
+      "id": 1005,
+      "date_created": "2021-07-29T11:56:50-07:00",
+      "date_updated": "2021-07-29T11:56:50-07:00",
+      "title": "Trouble with \"Slack for Gmail\"",
+      "type": "notice",
+      "status": "active",
+      "url": "https://status.slack.com/2021-07/bde69e3bb5fd905d",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-07-29T11:56:50-07:00",
+          "body": "Some customers may be experiencing issues with the \"Slack for Gmail\" add-on not being visible in Gmail. We're currently investigating and we'll provide another update as soon as we have more information to share."
+        }
+      ]
+    },
     {
       "id": 1004,
       "date_created": "2021-07-29T01:07:33-07:00",
