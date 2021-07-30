@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2021-07-29T11:56:50-07:00",
-  "date_updated": "2021-07-29T11:56:50-07:00",
+  "date_created": "2021-07-29T20:09:47-07:00",
+  "date_updated": "2021-07-29T20:09:47-07:00",
   "active_incidents": [
+    {
+      "id": 1006,
+      "date_created": "2021-07-29T20:09:47-07:00",
+      "date_updated": "2021-07-29T20:09:47-07:00",
+      "title": "Trouble with sending emails to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-07/5a0dc8fef9448ab5",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-07-29T20:09:47-07:00",
+          "body": "We're experiencing trouble with sending emails to Slack at the moment. Our team is currently investigating and we'll keep you posted as soon as we have more information. We're sorry for the disruption."
+        }
+      ]
+    },
     {
       "id": 1005,
       "date_created": "2021-07-29T11:56:50-07:00",
