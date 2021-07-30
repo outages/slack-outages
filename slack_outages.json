@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-07-29T21:13:10-07:00",
-  "date_updated": "2021-07-29T21:13:10-07:00",
+  "date_created": "2021-07-29T21:43:40-07:00",
+  "date_updated": "2021-07-29T21:43:40-07:00",
   "active_incidents": [
     {
       "id": 1006,
       "date_created": "2021-07-29T20:09:47-07:00",
-      "date_updated": "2021-07-29T21:13:10-07:00",
+      "date_updated": "2021-07-29T21:43:40-07:00",
       "title": "Trouble with sending emails to Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-07-29T21:43:40-07:00",
+          "body": "We believe we have identified the cause of this issue, and we are working on a fix. Thank you for your patience."
+        },
         {
           "date_created": "2021-07-29T21:13:10-07:00",
           "body": "We continue to investigate the issue and will share a further update in the next 30 mins."
