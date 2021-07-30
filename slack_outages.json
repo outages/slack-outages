@@ -1,54 +1,8 @@
 {
   "status": "active",
-  "date_created": "2021-07-29T23:54:51-07:00",
-  "date_updated": "2021-07-29T23:54:51-07:00",
+  "date_created": "2021-07-29T11:56:50-07:00",
+  "date_updated": "2021-07-29T11:56:50-07:00",
   "active_incidents": [
-    {
-      "id": 1006,
-      "date_created": "2021-07-29T20:09:47-07:00",
-      "date_updated": "2021-07-29T23:54:51-07:00",
-      "title": "Trouble with sending emails to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-07/5a0dc8fef9448ab5",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-07-29T23:54:51-07:00",
-          "body": "We are still continuing our investigation into whether the fix has fully resolved the issue. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-29T23:32:23-07:00",
-          "body": "While we don’t have any new information to share at this time, our team is still investigating whether the fix has resolved the issue. We’ll have another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-07-29T22:56:19-07:00",
-          "body": "We are continuing our investigation into whether the fix has resolved the issue at this time. We appreciate your patience and will share more news shortly."
-        },
-        {
-          "date_created": "2021-07-29T22:20:32-07:00",
-          "body": "We are happy to report a fix has been deployed, and we believe the issue is now resolved. We will share an update once confirmed."
-        },
-        {
-          "date_created": "2021-07-29T21:43:40-07:00",
-          "body": "We believe we have identified the cause of this issue, and we are working on a fix. Thank you for your patience."
-        },
-        {
-          "date_created": "2021-07-29T21:13:10-07:00",
-          "body": "We continue to investigate the issue and will share a further update in the next 30 mins."
-        },
-        {
-          "date_created": "2021-07-29T20:42:01-07:00",
-          "body": "We are still working to resolve the email ingestion issue. We'll be back with another update in 30 mins or as soon as we have more news. Thank you for bearing with us."
-        },
-        {
-          "date_created": "2021-07-29T20:09:47-07:00",
-          "body": "We're experiencing trouble with sending emails to Slack at the moment. Our team is currently investigating and we'll keep you posted as soon as we have more information. We're sorry for the disruption."
-        }
-      ]
-    },
     {
       "id": 1005,
       "date_created": "2021-07-29T11:56:50-07:00",
