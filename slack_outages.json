@@ -1,36 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-08-05T08:47:00-07:00",
-  "date_updated": "2021-08-05T08:47:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1008,
-      "date_created": "2021-08-05T06:04:28-07:00",
-      "date_updated": "2021-08-05T08:47:00-07:00",
-      "title": "A small portion of users may be encountering slowness and sporadic errors",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-08/edb50b2cc877ab6f",
-      "services": [
-        "Posts/Files",
-        "Search",
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-08-05T08:47:00-07:00",
-          "body": "Intermittent slowness or errors may persist for a very small subset of users. The source of the issue has been identified and work continues towards a fix. We'll post updates here as we have them."
-        },
-        {
-          "date_created": "2021-08-05T07:30:00-07:00",
-          "body": "A very small portion of users may still be encountering errors or slowness in their workspaces. We're continuing to work on the problem and will update again when we have more information."
-        },
-        {
-          "date_created": "2021-08-05T06:04:28-07:00",
-          "body": "Some customers may be experiencing actions slow to respond and sporadic errors. Our team is currently investigating and we'll provide another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-08-05T13:00:28-07:00",
+  "date_updated": "2021-08-05T13:00:28-07:00",
+  "active_incidents": []
 }
