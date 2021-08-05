@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-08-05T13:53:10-07:00",
-  "date_updated": "2021-08-05T13:53:10-07:00",
+  "date_created": "2021-08-05T14:32:55-07:00",
+  "date_updated": "2021-08-05T14:32:55-07:00",
   "active_incidents": [
     {
       "id": 1009,
       "date_created": "2021-08-05T13:33:36-07:00",
-      "date_updated": "2021-08-05T13:53:10-07:00",
+      "date_updated": "2021-08-05T14:32:55-07:00",
       "title": "Users may be seeing an error that Slack has stopped responding",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-08-05T14:32:55-07:00",
+          "body": "We’ve identified the cause of the issue and we’re working on getting a fix out as soon as possible. We’ll be back with another update as soon as there's one to share."
+        },
         {
           "date_created": "2021-08-05T13:48:05-07:00",
           "body": "If you're not currently experiencing any errors in Slack, please do not reload your app or browser. We're still investigating the issue but we'll provide new information as soon as it’s available."
