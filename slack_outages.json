@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-08-04T19:01:11-07:00",
-  "date_updated": "2021-08-04T19:01:11-07:00",
-  "active_incidents": [
-    {
-      "id": 1007,
-      "date_created": "2021-08-04T19:01:11-07:00",
-      "date_updated": "2021-08-04T19:01:11-07:00",
-      "title": "Trouble typing in Slack in non-Latin characters",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-08/cb9d7f7db9f553b0",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-08-04T19:01:11-07:00",
-          "body": "Some customers may be experiencing issues typing in non-Latin characters in certain places in Slack on desktop. We're very sorry for the disruption, and we're working to resolve this as fast as we can."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-08-04T22:34:04-07:00",
+  "date_updated": "2021-08-04T22:34:04-07:00",
+  "active_incidents": []
 }
