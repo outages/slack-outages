@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-08-06T02:50:30-07:00",
-  "date_updated": "2021-08-06T02:50:30-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-08-10T09:34:27-07:00",
+  "date_updated": "2021-08-10T09:34:27-07:00",
+  "active_incidents": [
+    {
+      "id": 1010,
+      "date_created": "2021-08-10T09:34:27-07:00",
+      "date_updated": "2021-08-10T09:34:27-07:00",
+      "title": "Some users may notice slow performance throughout Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-08/38c67af4d56bd3a1",
+      "services": [
+        "Posts/Files",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-08-10T09:34:27-07:00",
+          "body": "Some users may experience issues loading user details in channels, among other things at the moment. We're investigating and we'll provide another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
