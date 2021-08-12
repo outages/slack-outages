@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-08-12T06:51:38-07:00",
-  "date_updated": "2021-08-12T06:51:38-07:00",
-  "active_incidents": [
-    {
-      "id": 1011,
-      "date_created": "2021-08-12T06:51:38-07:00",
-      "date_updated": "2021-08-12T06:51:38-07:00",
-      "title": "Slow Performance and Trouble Connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-08/23e58063446ec340",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-08-12T06:51:38-07:00",
-          "body": "Some people may be experiencing slow performance or trouble connecting to Slack. We're investigating and will be back with an update within 30 minutes."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-08-12T07:30:06-07:00",
+  "date_updated": "2021-08-12T07:30:06-07:00",
+  "active_incidents": []
 }
