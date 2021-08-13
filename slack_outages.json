@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-08-13T06:57:10-07:00",
-  "date_updated": "2021-08-13T06:57:10-07:00",
+  "date_created": "2021-08-13T07:27:00-07:00",
+  "date_updated": "2021-08-13T07:27:00-07:00",
   "active_incidents": [
     {
       "id": 1012,
       "date_created": "2021-08-13T06:25:06-07:00",
-      "date_updated": "2021-08-13T06:57:10-07:00",
+      "date_updated": "2021-08-13T07:27:00-07:00",
       "title": "Small number of users experiencing connectivity issues",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2021-08-13T07:27:00-07:00",
+          "body": "A small number of users may still be encountering connectivity issues, which may include trouble loading sidebar content, direct messages and channels, search timeouts, or general slowness in the workspace. We’re continuing to work on the problem and will update again when we have more information."
+        },
         {
           "date_created": "2021-08-13T06:57:10-07:00",
           "body": "We're still investigating the issue and will provide new information as soon as it’s available."
