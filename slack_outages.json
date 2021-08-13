@@ -1,50 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-08-13T09:49:53-07:00",
-  "date_updated": "2021-08-13T09:49:53-07:00",
-  "active_incidents": [
-    {
-      "id": 1012,
-      "date_created": "2021-08-13T06:25:06-07:00",
-      "date_updated": "2021-08-13T09:49:53-07:00",
-      "title": "Small number of users experiencing connectivity issues",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-08/a6a3b58db77f9b9d",
-      "services": [
-        "Connections",
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-08-13T09:49:53-07:00",
-          "body": "No additional news to share just yet but the upstream provider is focused on getting things back to normal as quickly as they can. Thank you for your patience."
-        },
-        {
-          "date_created": "2021-08-13T09:10:07-07:00",
-          "body": "Our team has identified that the connectivity issues some users are experiencing are due to an issue with an upstream provider. This provider is working to resolve the issue and we are monitoring the situation. We'll continue to provide updates as new information becomes available."
-        },
-        {
-          "date_created": "2021-08-13T08:32:20-07:00",
-          "body": "While we don't have any meaningful information to share at this time, our team is still working hard to get things back up and running. We'll be back shortly with another update."
-        },
-        {
-          "date_created": "2021-08-13T07:58:50-07:00",
-          "body": "We’ve identified that these connectivity issues are isolated to a small number of users in North America. These users might notice trouble loading sidebar content, direct messages, channels, workflows, search timeouts, or general slowness in the workspace. We’re continuing to investigate and will be back in 30 minutes with another update."
-        },
-        {
-          "date_created": "2021-08-13T07:27:30-07:00",
-          "body": "A small number of users may still be encountering connectivity issues, which may include trouble loading sidebar content, direct messages and channels, search timeouts, or general slowness in the workspace. We’re continuing to work on the problem and will update again when we have more information."
-        },
-        {
-          "date_created": "2021-08-13T06:57:10-07:00",
-          "body": "We're still investigating the issue and will provide new information as soon as it’s available."
-        },
-        {
-          "date_created": "2021-08-13T06:25:06-07:00",
-          "body": "A small number of users may be experiencing intermittent connectivity issues. We're investigating and will provide an update as soon as we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-08-13T10:14:29-07:00",
+  "date_updated": "2021-08-13T10:14:29-07:00",
+  "active_incidents": []
 }
