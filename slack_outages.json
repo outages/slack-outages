@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-08-13T08:32:20-07:00",
-  "date_updated": "2021-08-13T08:32:20-07:00",
+  "date_created": "2021-08-13T09:10:07-07:00",
+  "date_updated": "2021-08-13T09:10:07-07:00",
   "active_incidents": [
     {
       "id": 1012,
       "date_created": "2021-08-13T06:25:06-07:00",
-      "date_updated": "2021-08-13T08:32:20-07:00",
+      "date_updated": "2021-08-13T09:10:07-07:00",
       "title": "Small number of users experiencing connectivity issues",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2021-08-13T09:10:07-07:00",
+          "body": "Our team has identified that the connectivity issues some users are experiencing are due to an issue with an upstream provider. This provider is working to resolve the issue and we are monitoring the situation. We'll continue to provide updates as new information becomes available."
+        },
         {
           "date_created": "2021-08-13T08:32:20-07:00",
           "body": "While we don't have any meaningful information to share at this time, our team is still working hard to get things back up and running. We'll be back shortly with another update."
