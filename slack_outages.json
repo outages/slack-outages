@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2021-08-13T06:25:06-07:00",
-  "date_updated": "2021-08-13T06:25:06-07:00",
+  "date_created": "2021-08-13T06:57:10-07:00",
+  "date_updated": "2021-08-13T06:57:10-07:00",
   "active_incidents": [
     {
       "id": 1012,
       "date_created": "2021-08-13T06:25:06-07:00",
-      "date_updated": "2021-08-13T06:25:06-07:00",
-      "title": "Connectivity issues",
+      "date_updated": "2021-08-13T06:57:10-07:00",
+      "title": "Small number of users experiencing connectivity issues",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-08/a6a3b58db77f9b9d",
@@ -17,8 +17,12 @@
       ],
       "notes": [
         {
+          "date_created": "2021-08-13T06:57:10-07:00",
+          "body": "We're still investigating the issue and will provide new information as soon as it’s available."
+        },
+        {
           "date_created": "2021-08-13T06:25:06-07:00",
-          "body": "Some users may be experiencing intermittent connectivity issues. We're investigating and will provide an update as soon as we have more information."
+          "body": "A small number of users may be experiencing intermittent connectivity issues. We're investigating and will provide an update as soon as we have more information."
         }
       ]
     }
