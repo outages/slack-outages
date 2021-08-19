@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-08-19T12:34:48-07:00",
-  "date_updated": "2021-08-19T12:34:48-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-08-19T13:01:59-07:00",
+  "date_updated": "2021-08-19T13:01:59-07:00",
+  "active_incidents": [
+    {
+      "id": 1015,
+      "date_created": "2021-08-19T13:01:59-07:00",
+      "date_updated": "2021-08-19T13:01:59-07:00",
+      "title": "Some users may notice search issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-08/79adf35c9d901f10",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-08-19T13:01:59-07:00",
+          "body": "Customers may be experiencing file search slowness or errors.  We're investigating and will provide an update as soon as we have more information."
+        }
+      ]
+    }
+  ]
 }
