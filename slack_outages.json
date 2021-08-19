@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-08-19T10:05:31-07:00",
-  "date_updated": "2021-08-19T10:05:31-07:00",
-  "active_incidents": [
-    {
-      "id": 1014,
-      "date_created": "2021-08-19T10:05:31-07:00",
-      "date_updated": "2021-08-19T10:05:31-07:00",
-      "title": "Small number of users may be experiencing connectivity issues",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-08/40cedbbf38849361",
-      "services": [
-        "Connections",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-08-19T10:05:31-07:00",
-          "body": "A small number of users may be experiencing connectivity issues with an API call or during a search. We're investigating and will provide an update as soon as we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-08-19T12:34:48-07:00",
+  "date_updated": "2021-08-19T12:34:48-07:00",
+  "active_incidents": []
 }
