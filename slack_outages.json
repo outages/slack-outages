@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2021-08-25T19:34:36-07:00",
-  "date_updated": "2021-08-25T19:34:36-07:00",
+  "date_created": "2021-08-25T20:03:24-07:00",
+  "date_updated": "2021-08-25T20:03:24-07:00",
   "active_incidents": [
     {
       "id": 1016,
       "date_created": "2021-08-25T19:03:19-07:00",
-      "date_updated": "2021-08-25T19:34:36-07:00",
-      "title": "Some customers may be unable to create new accounts",
+      "date_updated": "2021-08-25T20:03:24-07:00",
+      "title": "Issues with email delivery and account creation",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-08/ed5c249fa935d952",
@@ -16,12 +16,16 @@
       ],
       "notes": [
         {
+          "date_created": "2021-08-25T20:03:24-07:00",
+          "body": "We're still looking into the cause of the email delivery and account creation issues. We're focused on getting things back to normal as quickly as we can, and we’ll provide another update in 30 minutes.\r\n\r\n\r\nNote: We've updated the title and the posts below to reflect our expanded understanding of the problem."
+        },
+        {
           "date_created": "2021-08-25T19:34:36-07:00",
           "body": "We're still digging into this, but we don't have any additional information to share just yet. We'll be back in 30 minutes with another update."
         },
         {
           "date_created": "2021-08-25T19:03:19-07:00",
-          "body": "Some customers may be unable to create new Slack accounts after receiving an invitation to a workspace. We're working to resolve this as fast as we can, and we're very sorry for the disruption.\r\n\r\nThank you for your patience and understanding as we investigate."
+          "body": "Some customers may not be receiving emails from Slack. This may result in issues logging in to Slack or creating new Slack accounts after receiving an invitation to a workspace. We're working to resolve this as fast as we can, and we're very sorry for the disruption.\r\n\r\nThank you for your patience and understanding as we investigate."
         }
       ]
     }
