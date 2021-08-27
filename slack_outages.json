@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-08-27T14:59:51-07:00",
-  "date_updated": "2021-08-27T14:59:51-07:00",
+  "date_created": "2021-08-27T15:20:49-07:00",
+  "date_updated": "2021-08-27T15:20:49-07:00",
   "active_incidents": [
     {
       "id": 1017,
       "date_created": "2021-08-27T14:30:52-07:00",
-      "date_updated": "2021-08-27T14:59:51-07:00",
+      "date_updated": "2021-08-27T15:20:49-07:00",
       "title": "Trouble receiving emails from Slack",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2021-08-27T15:20:49-07:00",
+          "body": "We're seeing improvements, and newly requested emails should be received in your inbox.\r\n\r\nWe'll be back with an update once we know more."
+        },
         {
           "date_created": "2021-08-27T14:59:51-07:00",
           "body": "We're still digging into this, and we'll return in 30 minutes with another update.\r\n\r\nIf you're trying to sign in via email, you can login here: https://slack.com/workspace-signin, if you know your email, password, and workspace URL (example.slack.com). You can also sign in with the SSO, Google, or Apple options, if applicable."
