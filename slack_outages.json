@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-08-25T23:55:02-07:00",
-  "date_updated": "2021-08-25T23:55:02-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-08-27T14:30:52-07:00",
+  "date_updated": "2021-08-27T14:30:52-07:00",
+  "active_incidents": [
+    {
+      "id": 1017,
+      "date_created": "2021-08-27T14:30:52-07:00",
+      "date_updated": "2021-08-27T14:30:52-07:00",
+      "title": "Trouble receiving emails from Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-08/b7d0f7d50e3a5c66",
+      "services": [
+        "Login/SSO",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-08-27T14:30:52-07:00",
+          "body": "Some users are unable to receive emails from Slack. We're working to fix this, and we'll be back with an update within 30 minutes."
+        }
+      ]
+    }
+  ]
 }
