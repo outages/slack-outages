@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-08-31T09:02:09-07:00",
-  "date_updated": "2021-08-31T09:02:09-07:00",
+  "date_created": "2021-08-31T09:40:27-07:00",
+  "date_updated": "2021-08-31T09:40:27-07:00",
   "active_incidents": [
     {
       "id": 1018,
       "date_created": "2021-08-31T09:02:09-07:00",
-      "date_updated": "2021-08-31T09:02:09-07:00",
+      "date_updated": "2021-08-31T09:40:27-07:00",
       "title": "Some customers may be unable to load their Slack workspace.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-08-31T09:40:27-07:00",
+          "body": "We’ve released a fix and everything is back to normal. Apologies for the earlier trouble and thank you for your patience."
+        },
         {
           "date_created": "2021-08-31T09:02:09-07:00",
           "body": "Some people are having trouble connecting to Slack. We’re investigating and will be back with an update shortly."
