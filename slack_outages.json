@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-09-07T11:04:20-07:00",
-  "date_updated": "2021-09-07T11:04:20-07:00",
+  "date_created": "2021-09-07T11:34:45-07:00",
+  "date_updated": "2021-09-07T11:34:45-07:00",
   "active_incidents": [
     {
       "id": 1020,
       "date_created": "2021-09-07T10:34:20-07:00",
-      "date_updated": "2021-09-07T11:04:20-07:00",
+      "date_updated": "2021-09-07T11:34:45-07:00",
       "title": "Some customers may have trouble loading Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-09-07T11:34:45-07:00",
+          "body": "We've started to see some improvements with customers being able to connect to Slack, but we're still closely monitoring the situation. We'll provide another update shortly."
+        },
         {
           "date_created": "2021-09-07T11:04:20-07:00",
           "body": "We’re still investigating the connectivity issues that customers are facing. While we don’t have any new information to share at this time, we’ll be back in 30 minutes with another update."
