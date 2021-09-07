@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-09-03T04:42:14-07:00",
-  "date_updated": "2021-09-03T04:42:14-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-09-07T10:34:20-07:00",
+  "date_updated": "2021-09-07T10:34:20-07:00",
+  "active_incidents": [
+    {
+      "id": 1020,
+      "date_created": "2021-09-07T10:34:20-07:00",
+      "date_updated": "2021-09-07T10:34:20-07:00",
+      "title": "Some customers may have trouble loading Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-09/0c5dd6f0e7f07290",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-09-07T10:34:20-07:00",
+          "body": "Some customers may be having trouble loading channels, messages, and workspaces at the moment. We’re investigating the issue and we’ll be back with an update shortly."
+        }
+      ]
+    }
+  ]
 }
