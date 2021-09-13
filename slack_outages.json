@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-09-13T12:02:31-07:00",
-  "date_updated": "2021-09-13T12:02:31-07:00",
+  "date_created": "2021-09-13T12:33:12-07:00",
+  "date_updated": "2021-09-13T12:33:12-07:00",
   "active_incidents": [
     {
       "id": 1021,
       "date_created": "2021-09-13T11:16:06-07:00",
-      "date_updated": "2021-09-13T12:02:31-07:00",
+      "date_updated": "2021-09-13T12:33:12-07:00",
       "title": "Some users may be unable to access threads or app configurations",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-09-13T12:33:12-07:00",
+          "body": "Threads should be loading once again. Please refresh (Control / Command + R), open an affected thread, and let us know if you encounter any trouble. \r\n\r\nWe're working on a fix for configuring apps, and we'll be back once we have an update."
+        },
         {
           "date_created": "2021-09-13T12:02:31-07:00",
           "body": "We've identified that this issue may only be impacting Enterprise Grid customers and may also be causing issues with configuring apps from the App Directory. We are investigating this while actively working on a fix for viewing/loading threads."
