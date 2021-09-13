@@ -1,20 +1,25 @@
 {
   "status": "active",
-  "date_created": "2021-09-13T11:22:05-07:00",
-  "date_updated": "2021-09-13T11:22:05-07:00",
+  "date_created": "2021-09-13T12:02:31-07:00",
+  "date_updated": "2021-09-13T12:02:31-07:00",
   "active_incidents": [
     {
       "id": 1021,
       "date_created": "2021-09-13T11:16:06-07:00",
-      "date_updated": "2021-09-13T11:22:05-07:00",
+      "date_updated": "2021-09-13T12:02:31-07:00",
       "title": "Some users may be unable to load or view threads.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-09/a8fa8a23a5868591",
       "services": [
-        "Messaging"
+        "Messaging",
+        "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2021-09-13T12:02:31-07:00",
+          "body": "We've identified that this issue may only be impacting Enterprise Grid customers and may also be causing issues with configuring apps from the App Directory. We are investigating this while actively working on a fix for viewing/loading threads."
+        },
         {
           "date_created": "2021-09-13T11:16:06-07:00",
           "body": "Some users may experiencing problems viewing or loading threads. Thank you for your patience while we investigate further."
