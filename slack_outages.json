@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-09-07T14:38:14-07:00",
-  "date_updated": "2021-09-07T14:38:14-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-09-13T11:22:05-07:00",
+  "date_updated": "2021-09-13T11:22:05-07:00",
+  "active_incidents": [
+    {
+      "id": 1021,
+      "date_created": "2021-09-13T11:16:06-07:00",
+      "date_updated": "2021-09-13T11:22:05-07:00",
+      "title": "Some users may be unable to load or view threads.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-09/a8fa8a23a5868591",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-09-13T11:16:06-07:00",
+          "body": "Some users may experiencing problems viewing or loading threads. Thank you for your patience while we investigate further."
+        }
+      ]
+    }
+  ]
 }
