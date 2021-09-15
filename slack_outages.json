@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-09-14T18:12:04-07:00",
-  "date_updated": "2021-09-14T18:12:04-07:00",
-  "active_incidents": [
-    {
-      "id": 1022,
-      "date_created": "2021-09-14T18:12:04-07:00",
-      "date_updated": "2021-09-14T18:12:04-07:00",
-      "title": "Some customers may be experiencing issues loading channel and user names",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-09/bf3f6686f54a2317",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-09-14T18:12:04-07:00",
-          "body": "Some customers may be experiencing issues loading channel and user names in Slack. We're currently investigating and will be back with an update shortly."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-09-14T18:53:58-07:00",
+  "date_updated": "2021-09-14T18:53:58-07:00",
+  "active_incidents": []
 }
