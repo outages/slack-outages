@@ -7,19 +7,15 @@
       "id": 1023,
       "date_created": "2021-09-17T09:37:23-07:00",
       "date_updated": "2021-09-17T09:37:23-07:00",
-      "title": "Service degradation in Slack",
+      "title": "Service Degradation between 8:43 a.m. and 8:52 a.m. PDT",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-09/447744c7af5546aa",
-      "services": [
-        "Messaging",
-        "Posts/Files",
-        "Connections"
-      ],
+      "services": [],
       "notes": [
         {
           "date_created": "2021-09-17T09:37:23-07:00",
-          "body": "Slack experienced elevated error rates between 8:43 am and 8:52 am PDT. We're investigating now and will be back with more information as soon as it's available, or in 30 minutes."
+          "body": "Slack experienced elevated error rates between 8:43 a.m. and 8:52 a.m. PDT. We're investigating now and will be back with more information as soon as it's available, or in 30 minutes."
         }
       ]
     }
