@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-09-20T17:43:42-07:00",
-  "date_updated": "2021-09-20T17:43:42-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-09-21T12:58:42-07:00",
+  "date_updated": "2021-09-21T12:58:42-07:00",
+  "active_incidents": [
+    {
+      "id": 1024,
+      "date_created": "2021-09-21T12:58:42-07:00",
+      "date_updated": "2021-09-21T12:58:42-07:00",
+      "title": "Some customers being logged out of the mobile app",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-09/000c99e9b2c50b00",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-09-21T12:58:42-07:00",
+          "body": "Some customers may be experiencing an issue where they're being logged out of Slack on their Android mobile device. We're currently investigating and will be back with an update shortly."
+        }
+      ]
+    }
+  ]
 }
