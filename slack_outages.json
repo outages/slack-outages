@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-09-21T15:23:00-07:00",
-  "date_updated": "2021-09-21T15:23:00-07:00",
+  "date_created": "2021-09-21T15:55:28-07:00",
+  "date_updated": "2021-09-21T15:55:28-07:00",
   "active_incidents": [
     {
       "id": 1024,
       "date_created": "2021-09-21T12:58:42-07:00",
-      "date_updated": "2021-09-21T15:23:00-07:00",
+      "date_updated": "2021-09-21T15:55:28-07:00",
       "title": "Some customers being logged out of the mobile app",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2021-09-21T15:55:28-07:00",
+          "body": "We're seeing continuing improvements and remain focused on resolving this for all affected users. Updates to follow."
+        },
+        {
           "date_created": "2021-09-21T15:23:00-07:00",
-          "body": "We're seeing signs of improvement and continuing to evaluate. We will provide another update as soon as we have more information to share."
+          "body": "We're seeing signs of improvement as we continue to evaluate. We will provide another update as soon as we have more information to share."
         },
         {
           "date_created": "2021-09-21T14:51:54-07:00",
