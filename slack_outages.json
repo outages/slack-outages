@@ -1,45 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-09-21T15:55:28-07:00",
-  "date_updated": "2021-09-21T15:55:28-07:00",
-  "active_incidents": [
-    {
-      "id": 1024,
-      "date_created": "2021-09-21T12:58:42-07:00",
-      "date_updated": "2021-09-21T15:55:28-07:00",
-      "title": "Some customers being logged out of the mobile app",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-09/000c99e9b2c50b00",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-09-21T15:55:28-07:00",
-          "body": "We're seeing continuing improvements and remain focused on resolving this for all affected users. Updates to follow."
-        },
-        {
-          "date_created": "2021-09-21T15:23:00-07:00",
-          "body": "We're seeing signs of improvement as we continue to evaluate. We will provide another update as soon as we have more information to share."
-        },
-        {
-          "date_created": "2021-09-21T14:51:54-07:00",
-          "body": "We are continuing to look into this issue. We'll provide another status update in 30 minutes."
-        },
-        {
-          "date_created": "2021-09-21T14:07:17-07:00",
-          "body": "We previously stated that this was only impacting Android users, but have now determined that this is occurring on both the Android and iOS mobile apps.  \r\n\r\nOur team is working hard to resolve this issue, and we'll be in touch once we have more information to share."
-        },
-        {
-          "date_created": "2021-09-21T13:31:23-07:00",
-          "body": "We're still investigating the issue, but we don't have additional information just yet. We'll be back in 30 minutes with another update."
-        },
-        {
-          "date_created": "2021-09-21T12:58:42-07:00",
-          "body": "Some customers may be experiencing an issue where they're being logged out of Slack on their Android mobile device. We're currently investigating and will be back with an update shortly."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-09-21T16:21:26-07:00",
+  "date_updated": "2021-09-21T16:21:26-07:00",
+  "active_incidents": []
 }
