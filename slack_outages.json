@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-09-22T00:31:10-07:00",
-  "date_updated": "2021-09-22T00:31:10-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-09-30T09:30:07-07:00",
+  "date_updated": "2021-09-30T09:30:07-07:00",
+  "active_incidents": [
+    {
+      "id": 1025,
+      "date_created": "2021-09-30T09:30:07-07:00",
+      "date_updated": "2021-09-30T09:30:07-07:00",
+      "title": "A small number of users may be experiencing trouble connecting to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-09/06c1e17de93e7dc2",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-09-30T09:30:07-07:00",
+          "body": "We’re currently investigating this connection issue and we’ll keep you posted as soon as we have more information. Thanks for your patience and we apologize for the disruption."
+        }
+      ]
+    }
+  ]
 }
