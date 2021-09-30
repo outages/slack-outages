@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-09-30T12:50:49-07:00",
-  "date_updated": "2021-09-30T12:50:49-07:00",
+  "date_created": "2021-09-30T13:34:54-07:00",
+  "date_updated": "2021-09-30T13:34:54-07:00",
   "active_incidents": [
     {
       "id": 1025,
       "date_created": "2021-09-30T09:30:07-07:00",
-      "date_updated": "2021-09-30T12:50:49-07:00",
+      "date_updated": "2021-09-30T13:34:54-07:00",
       "title": "Some users may be experiencing trouble connecting to Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-09-30T13:34:54-07:00",
+          "body": "Thank you all for your patience today as we work on resolving this connection issue. We will be back with a final update once the issues have been resolved."
+        },
         {
           "date_created": "2021-09-30T12:50:49-07:00",
           "body": "We are aware of connectivity issues related to DNS that are impacting a small subset of users. This issue was caused by our own change and not related to any third-party DNS software and services. In order to resolve this faster, your ISP (Internet Service Provider) will need to flush their DNS record for slack.com. Please reach out to your networking team to provide them with this information.\r\nWe expect all customers’ connectivity issues to be resolved within the next 24 hours. We know how important it is for people to stay connected and we apologize for this disruption."
