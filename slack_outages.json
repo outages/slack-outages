@@ -1,57 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-09-30T23:57:18-07:00",
-  "date_updated": "2021-09-30T23:57:18-07:00",
-  "active_incidents": [
-    {
-      "id": 1025,
-      "date_created": "2021-09-30T09:30:07-07:00",
-      "date_updated": "2021-09-30T23:57:18-07:00",
-      "title": "Less than 1% of users may be experiencing trouble connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-09/06c1e17de93e7dc2",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-09-30T23:57:18-07:00",
-          "body": "Apologies for the continued trouble. It will take some time for the DNS changes to resolve this issue for everyone. If organization policy permits, and if you are comfortable making this change, switching to Google DNS may improve things in the meantime. Please find guides below:\r\n\r\nWindows: https://developers.google.com/speed/public-dns/docs/using#windows\r\nMac: https://developers.google.com/speed/public-dns/docs/using#macos\r\niOS: https://developers.google.com/speed/public-dns/docs/using#ios\r\nAndroid: https://developers.google.com/speed/public-dns/docs/using#android\r\n\r\nIf this does not improve things for you, please switch back to your original DNS settings by following these steps: https://developers.google.com/speed/public-dns/docs/using#switch_back_to_your_old_dns_settings\r\n\r\n\r\nWe'll be back with an update as soon as we have more information to share."
-        },
-        {
-          "date_created": "2021-09-30T14:30:57-07:00",
-          "body": "We're seeing some signs of improvement, and reloading Slack (Ctrl/Command + R) may allow Slack to load again. The issue is not resolved for everyone, however, and we'll be back again once we have another update to share.\r\n\r\nNote: We've edited the title of this incident to accurately reflect the scope of this issue."
-        },
-        {
-          "date_created": "2021-09-30T13:34:54-07:00",
-          "body": "Thank you all for your patience today as we work on resolving this connection issue. We will be back with a final update once the issues have been resolved."
-        },
-        {
-          "date_created": "2021-09-30T12:50:49-07:00",
-          "body": "We are aware of connectivity issues related to DNS that are impacting a small subset of users. This issue was caused by our own change and not related to any third-party DNS software and services. In order to resolve this faster, your ISP (Internet Service Provider) will need to flush their DNS record for slack.com. Please reach out to your networking team to provide them with this information.\r\nWe expect all customers’ connectivity issues to be resolved within the next 24 hours. We know how important it is for people to stay connected and we apologize for this disruption."
-        },
-        {
-          "date_created": "2021-09-30T12:19:00-07:00",
-          "body": "Our investigation of this connection issue is still ongoing at this time. We’ll be back with another update and apologize for this disruption. Thank you for your continued patience here!"
-        },
-        {
-          "date_created": "2021-09-30T11:17:00-07:00",
-          "body": "We are continuing to investigate the connection issue and will keep you posted as soon as we have more information available. We apologize for any disruption this has caused and thank you for your continued patience."
-        },
-        {
-          "date_created": "2021-09-30T10:46:08-07:00",
-          "body": "We are still digging in to this connection issue and we will keep you up to date as more information becomes available. Thank you for your patience today."
-        },
-        {
-          "date_created": "2021-09-30T10:05:17-07:00",
-          "body": "We continue to investigate this connection issue and we’ll continue to keep you posted as soon as we have more information. Thanks for your patience and we apologize for any disruption this may have caused."
-        },
-        {
-          "date_created": "2021-09-30T09:30:07-07:00",
-          "body": "We’re currently investigating this connection issue and we’ll keep you posted as soon as we have more information. Thanks for your patience and we apologize for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-10-01T09:52:41-07:00",
+  "date_updated": "2021-10-01T09:52:41-07:00",
+  "active_incidents": []
 }
