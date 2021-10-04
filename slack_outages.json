@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-10-04T10:43:16-07:00",
-  "date_updated": "2021-10-04T10:43:16-07:00",
-  "active_incidents": [
-    {
-      "id": 1026,
-      "date_created": "2021-10-04T10:07:51-07:00",
-      "date_updated": "2021-10-04T10:43:16-07:00",
-      "title": "Slack may not be loading for a small percentage of users due to widespread internet issues",
-      "type": "notice",
-      "status": "active",
-      "url": "https://status.slack.com/2021-10/55c1c102a575c9ba",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-10-04T10:43:16-07:00",
-          "body": "We've determined that widespread internet issues affecting multiple websites have led to small percentage of users not being able to load Slack. We’re monitoring the situation and will provide an update when we know more."
-        },
-        {
-          "date_created": "2021-10-04T10:07:51-07:00",
-          "body": "We're investigating reports that Slack may not be loading for some users. We will provide another update in 30 minutes."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-10-04T14:08:51-07:00",
+  "date_updated": "2021-10-04T14:08:51-07:00",
+  "active_incidents": []
 }
