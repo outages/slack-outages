@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-10-01T16:53:54-07:00",
-  "date_updated": "2021-10-01T16:53:54-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-10-04T10:07:51-07:00",
+  "date_updated": "2021-10-04T10:07:51-07:00",
+  "active_incidents": [
+    {
+      "id": 1026,
+      "date_created": "2021-10-04T10:07:51-07:00",
+      "date_updated": "2021-10-04T10:07:51-07:00",
+      "title": "Slack may not be loading for some users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-10/55c1c102a575c9ba",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-10-04T10:07:51-07:00",
+          "body": "We're investigating reports that Slack may not be loading for some users. We will provide another update in 30 minutes."
+        }
+      ]
+    }
+  ]
 }
