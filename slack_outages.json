@@ -7,7 +7,7 @@
       "id": 1026,
       "date_created": "2021-10-04T10:07:51-07:00",
       "date_updated": "2021-10-04T10:43:16-07:00",
-      "title": "Slack may not be loading for some users",
+      "title": "Slack may not be loading for a small percentage of users due to widespread internet issues",
       "type": "notice",
       "status": "active",
       "url": "https://status.slack.com/2021-10/55c1c102a575c9ba",
