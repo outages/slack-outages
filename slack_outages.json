@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-10-04T18:48:16-07:00",
-  "date_updated": "2021-10-04T18:48:16-07:00",
+  "date_created": "2021-10-05T02:42:04-07:00",
+  "date_updated": "2021-10-05T02:42:04-07:00",
   "active_incidents": [
     {
       "id": 1027,
       "date_created": "2021-10-04T17:14:00-07:00",
-      "date_updated": "2021-10-04T18:48:16-07:00",
+      "date_updated": "2021-10-05T02:42:04-07:00",
       "title": "Some customers seeing \"browser not supported\" error on iOS app",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-10-05T02:42:04-07:00",
+          "body": "We’ve resolved the issue some customers were having on iOS and Slack is back to full functionality. We’re sorry for the disruption this has caused."
+        },
         {
           "date_created": "2021-10-04T18:48:16-07:00",
           "body": "We’re still investigating the error some customers may be experiencing on iOS, but we don’t have additional information to share just yet. We’ll be back with more information when it’s available."
