@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-10-04T14:08:51-07:00",
-  "date_updated": "2021-10-04T14:08:51-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-10-04T17:14:00-07:00",
+  "date_updated": "2021-10-04T17:14:00-07:00",
+  "active_incidents": [
+    {
+      "id": 1027,
+      "date_created": "2021-10-04T17:14:00-07:00",
+      "date_updated": "2021-10-04T17:14:00-07:00",
+      "title": "Some customers seeing \"browser not supported\" error on iOS app",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-10/ec0813b8ba5f8ebd",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-10-04T17:14:00-07:00",
+          "body": "Some customers may be experiencing a \"browser not supported\" error on the iOS mobile app when attempting to view an email message. \r\n\r\nWe're currently investigating the issue, and will be back with an update shortly."
+        }
+      ]
+    }
+  ]
 }
