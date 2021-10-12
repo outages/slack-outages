@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-10-11T18:00:49-07:00",
-  "date_updated": "2021-10-11T18:00:49-07:00",
-  "active_incidents": [
-    {
-      "id": 1028,
-      "date_created": "2021-10-11T18:00:49-07:00",
-      "date_updated": "2021-10-11T18:00:49-07:00",
-      "title": "Issues with Socket Mode Events API",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-10/10375fe5eef22d73",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-10-11T18:00:49-07:00",
-          "body": "Some customers may be experiencing degraded performance with the Socket Mode Events API. We're working to resolve this, and we're very sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-10-11T21:04:27-07:00",
+  "date_updated": "2021-10-11T21:04:27-07:00",
+  "active_incidents": []
 }
