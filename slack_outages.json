@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-10-27T10:31:44-07:00",
-  "date_updated": "2021-10-27T10:31:44-07:00",
-  "active_incidents": [
-    {
-      "id": 1029,
-      "date_created": "2021-10-27T10:31:44-07:00",
-      "date_updated": "2021-10-27T10:31:44-07:00",
-      "title": "High Filtering On SMS Towards the AT&T Network In United States",
-      "type": "notice",
-      "status": "active",
-      "url": "https://status.slack.com/2021-10/4e7003b38fba2221",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-10-27T10:31:44-07:00",
-          "body": "Our SMS service provider is currently experiencing high filtering on SMS towards the AT&T network in the United States. We recommend using your backup codes, switching to an Authentication app, or reaching out to your Admins to temporarily disable 2FA for you."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-10-27T15:26:49-07:00",
+  "date_updated": "2021-10-27T15:26:49-07:00",
+  "active_incidents": []
 }
