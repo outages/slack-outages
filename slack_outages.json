@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2021-10-27T10:31:44-07:00",
-          "body": "Our SMS service provider is currently experiencing high filtering on SMS towards the AT&T network in Unites states. We recommend using your backup codes, switching to an Authentication app, or reaching out to your Admins to temporarily disable 2FA for you."
+          "body": "Our SMS service provider is currently experiencing high filtering on SMS towards the AT&T network in the United States. We recommend using your backup codes, switching to an Authentication app, or reaching out to your Admins to temporarily disable 2FA for you."
         }
       ]
     }
