@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-11-01T17:02:51-07:00",
-  "date_updated": "2021-11-01T17:02:51-07:00",
-  "active_incidents": [
-    {
-      "id": 1030,
-      "date_created": "2021-11-01T12:51:01-07:00",
-      "date_updated": "2021-11-01T17:02:51-07:00",
-      "title": "Some Enterprise Grid customers seeing messages temporarily disappear",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-11/2f52f56fd7ec26dc",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-11-01T17:02:51-07:00",
-          "body": "We're still investigating, but don't have any new information yet. We'll provide another update once we have more to share."
-        },
-        {
-          "date_created": "2021-11-01T12:51:01-07:00",
-          "body": "Some Enterprise Grid customers are seeing messages temporarily disappear. Refreshing (Ctrl / Command + Shift + R) may resurface the messages, but affected users may need to refresh more than once during the day. \r\n\r\nWe're sorry for the trouble. We're investigating, and we'll report back once we have next steps."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-11-01T20:36:01-07:00",
+  "date_updated": "2021-11-01T20:36:01-07:00",
+  "active_incidents": []
 }
