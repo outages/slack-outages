@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-11-04T13:00:10-07:00",
-  "date_updated": "2021-11-04T13:00:10-07:00",
-  "active_incidents": [
-    {
-      "id": 1031,
-      "date_created": "2021-11-04T13:00:10-07:00",
-      "date_updated": "2021-11-04T13:00:10-07:00",
-      "title": "Some customers may have trouble with logging into Slack.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-11/7dc9fa251b9411ab",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-11-04T13:00:10-07:00",
-          "body": "Some people are having trouble with signing into Slack, including using email confirmation codes. We’re investigating and will have more information to share 30 minutes. Our apologies for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-11-04T13:47:06-07:00",
+  "date_updated": "2021-11-04T13:47:06-07:00",
+  "active_incidents": []
 }
