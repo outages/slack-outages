@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-11-04T13:47:06-07:00",
-  "date_updated": "2021-11-04T13:47:06-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-11-04T16:37:38-07:00",
+  "date_updated": "2021-11-04T16:37:38-07:00",
+  "active_incidents": [
+    {
+      "id": 1032,
+      "date_created": "2021-11-04T16:37:38-07:00",
+      "date_updated": "2021-11-04T16:37:38-07:00",
+      "title": "Some users may be unable to sign into the desktop app.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-11/b05dd832854c5b4d",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-11-04T16:37:38-07:00",
+          "body": "Some users are unable to sign in on the desktop app. We're investigating and will have more information to share in 30 minutes. Our apologies for the disruption."
+        }
+      ]
+    }
+  ]
 }
