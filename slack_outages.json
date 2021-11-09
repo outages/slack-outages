@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2021-11-05T06:11:26-07:00",
-  "date_updated": "2021-11-05T06:11:26-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-11-09T14:54:06-08:00",
+  "date_updated": "2021-11-09T14:54:06-08:00",
+  "active_incidents": [
+    {
+      "id": 1033,
+      "date_created": "2021-11-09T14:51:32-08:00",
+      "date_updated": "2021-11-09T14:54:06-08:00",
+      "title": "Outbound emails are failing to send",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-11/a75e3784f1089961",
+      "services": [
+        "Login/SSO",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-11-09T14:51:32-08:00",
+          "body": "We're investigating failures in sending outbound emails including invitations, confirmation codes for workspace creation, email notifications."
+        }
+      ]
+    }
+  ]
 }
