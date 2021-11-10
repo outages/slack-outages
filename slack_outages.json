@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-11-09T17:29:26-08:00",
-  "date_updated": "2021-11-09T17:29:26-08:00",
+  "date_created": "2021-11-09T18:00:04-08:00",
+  "date_updated": "2021-11-09T18:00:04-08:00",
   "active_incidents": [
     {
       "id": 1033,
       "date_created": "2021-11-09T14:51:32-08:00",
-      "date_updated": "2021-11-09T17:29:26-08:00",
+      "date_updated": "2021-11-09T18:00:04-08:00",
       "title": "Outbound emails are failing to send",
       "type": "incident",
       "status": "active",
@@ -17,6 +17,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2021-11-09T18:00:04-08:00",
+          "body": "We're still monitoring the situation and will post updates as they become available."
+        },
         {
           "date_created": "2021-11-09T17:29:26-08:00",
           "body": "Thanks again for your patience as we continue to investigate outbound email and file download failures."
