@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-11-10T01:17:41-08:00",
-  "date_updated": "2021-11-10T01:17:41-08:00",
+  "date_created": "2021-11-10T03:24:43-08:00",
+  "date_updated": "2021-11-10T03:24:43-08:00",
   "active_incidents": [
     {
       "id": 1034,
       "date_created": "2021-11-10T01:17:41-08:00",
-      "date_updated": "2021-11-10T01:17:41-08:00",
+      "date_updated": "2021-11-10T03:24:43-08:00",
       "title": "Issues with upload & download files functionality",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2021-11-10T03:24:43-08:00",
+          "body": "File uploads and downloads should be working once again. Please send a note to feedback@slack.com if you continue to have any trouble. Thank you for your patience while we sorted out this issue."
+        },
         {
           "date_created": "2021-11-10T01:17:41-08:00",
           "body": "Some customers may be experiencing issues when using the upload & download files functionality on Slack. We're working to resolve this, and we're very sorry for the disruption."
