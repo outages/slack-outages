@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-11-11T18:53:23-08:00",
-  "date_updated": "2021-11-11T18:53:23-08:00",
-  "active_incidents": [
-    {
-      "id": 1035,
-      "date_created": "2021-11-11T18:53:23-08:00",
-      "date_updated": "2021-11-11T18:53:23-08:00",
-      "title": "Some customers may be noticing issues with the message input field",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-11/6ade5cc61f1e3c72",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-11-11T18:53:23-08:00",
-          "body": "Some customers may be noticing the message input field is showing incorrectly. We're investigating and will be back with an update shortly."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-11-11T20:42:51-08:00",
+  "date_updated": "2021-11-11T20:42:51-08:00",
+  "active_incidents": []
 }
