@@ -1,29 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2021-11-30T19:48:07-08:00",
   "date_updated": "2021-11-30T19:48:07-08:00",
-  "active_incidents": [
-    {
-      "id": 1037,
-      "date_created": "2021-11-30T18:13:45-08:00",
-      "date_updated": "2021-11-30T19:48:07-08:00",
-      "title": "Some customers may be having trouble making administrative changes within Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-11/bd8aa874945ba20e",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-11-30T19:48:07-08:00",
-          "body": "A fix has been deployed and the issue should now be resolved.\r\n\r\nIf you're still having trouble, please reload your browser and / or clear your browser's cached data."
-        },
-        {
-          "date_created": "2021-11-30T18:13:45-08:00",
-          "body": "We'll be back with an update once we have more information to share."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
