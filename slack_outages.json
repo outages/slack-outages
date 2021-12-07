@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T13:15:00-08:00",
-  "date_updated": "2021-12-07T13:15:00-08:00",
+  "date_created": "2021-12-07T13:48:00-08:00",
+  "date_updated": "2021-12-07T13:48:00-08:00",
   "active_incidents": [
     {
       "id": 1039,
       "date_created": "2021-12-07T08:42:22-08:00",
-      "date_updated": "2021-12-07T13:15:00-08:00",
+      "date_updated": "2021-12-07T13:48:00-08:00",
       "title": "Trouble with certain Slack features",
       "type": "incident",
       "status": "active",
@@ -18,6 +18,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-07T13:48:00-08:00",
+          "body": "The investigation into this issue and resolving it remains a priority. Please continue to check our status site for any new developments or changes to this issue. We’ll be back with another update in two hours, unless new information becomes available before then. We thank you for your continued patience and hope to have things working as soon as we can."
+        },
         {
           "date_created": "2021-12-07T13:15:00-08:00",
           "body": "Our investigation of the issue is still ongoing at this time. We’ll be back with another update as soon as we can. Thank you for your continued patience while we work to resolve this."
