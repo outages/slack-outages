@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T10:44:50-08:00",
-  "date_updated": "2021-12-07T10:44:50-08:00",
+  "date_created": "2021-12-07T10:59:58-08:00",
+  "date_updated": "2021-12-07T10:59:58-08:00",
   "active_incidents": [
     {
       "id": 1039,
       "date_created": "2021-12-07T08:42:22-08:00",
-      "date_updated": "2021-12-07T10:44:50-08:00",
+      "date_updated": "2021-12-07T10:59:58-08:00",
       "title": "Trouble with certain Slack features",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-07T10:59:58-08:00",
+          "body": "We are continuing to investigate issues with some of our features. Thank you for your patience as we do our best to bring things back online."
+        },
         {
           "date_created": "2021-12-07T10:44:50-08:00",
           "body": "We are continuing to await more information on upstream issues. Huddles and Calls continue to be most affected. Thank you for your patience as we await a fix."
