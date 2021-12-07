@@ -1,41 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2021-12-06T21:33:38-08:00",
   "date_updated": "2021-12-06T21:33:38-08:00",
-  "active_incidents": [
-    {
-      "id": 1038,
-      "date_created": "2021-12-06T19:33:54-08:00",
-      "date_updated": "2021-12-06T21:33:38-08:00",
-      "title": "Enterprise Grid customers may experience an error when publishing workflows.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-12/3c45942fc7575b57",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-12-06T21:33:38-08:00",
-          "body": "Customers who were experiencing difficulty publishing workflows should no longer be having trouble. We’ve rolled out a fix and have confirmed all is back to normal. Sorry for the hassle while we sorted this out, and thank you so much again for your patience."
-        },
-        {
-          "date_created": "2021-12-06T21:03:04-08:00",
-          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-12-06T20:33:11-08:00",
-          "body": "Our investigation is still ongoing at this time, and we appreciate your patience while we look further into this. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-12-06T20:03:08-08:00",
-          "body": "We’re still investigating the issue with publishing workflows on Enterprise Grid. No additional information to share just yet, but we'll provide another update in 30 minutes."
-        },
-        {
-          "date_created": "2021-12-06T19:33:54-08:00",
-          "body": "Enterprise Grid customers may be experiencing issues publishing workflows to Slack. We're actively digging into this issue and will report back as soon as we have an update to share. We're sorry for the inconvenience in the meantime."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
