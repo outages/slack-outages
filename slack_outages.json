@@ -1,20 +1,27 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T10:59:58-08:00",
-  "date_updated": "2021-12-07T10:59:58-08:00",
+  "date_created": "2021-12-07T11:44:49-08:00",
+  "date_updated": "2021-12-07T11:44:49-08:00",
   "active_incidents": [
     {
       "id": 1039,
       "date_created": "2021-12-07T08:42:22-08:00",
-      "date_updated": "2021-12-07T10:59:58-08:00",
+      "date_updated": "2021-12-07T11:44:49-08:00",
       "title": "Trouble with certain Slack features",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-12/f756fef8e8c0c05b",
       "services": [
+        "Posts/Files",
+        "Calls",
+        "Apps/Integrations/APIs",
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-07T11:44:49-08:00",
+          "body": "We have determined that workflows, Huddles/calls and posts/files and email ingestion are the most heavily affected here. We are continuing to work on getting back up and running as quickly as possible. Thank you for bearing with us in the meantime."
+        },
         {
           "date_created": "2021-12-07T10:59:58-08:00",
           "body": "We are continuing to investigate issues with some of our features. Thank you for your patience as we do our best to bring things back online."
@@ -37,7 +44,7 @@
         },
         {
           "date_created": "2021-12-07T08:42:22-08:00",
-          "body": "Some users are experiencing issues with several Slack functions currently, including Huddles, Email Integrations, and File Uploads. We are currently investigating and will provide an update in 30 minutes."
+          "body": "Some users are experiencing issues with several Slack functions currently, including Huddles, email integrations, and file uploads. We are currently investigating and will provide an update in 30 minutes."
         }
       ]
     }
