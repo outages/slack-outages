@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T11:44:49-08:00",
-  "date_updated": "2021-12-07T11:44:49-08:00",
+  "date_created": "2021-12-07T12:16:00-08:00",
+  "date_updated": "2021-12-07T12:16:00-08:00",
   "active_incidents": [
     {
       "id": 1039,
       "date_created": "2021-12-07T08:42:22-08:00",
-      "date_updated": "2021-12-07T11:44:49-08:00",
+      "date_updated": "2021-12-07T12:16:00-08:00",
       "title": "Trouble with certain Slack features",
       "type": "incident",
       "status": "active",
@@ -18,6 +18,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-07T12:16:00-08:00",
+          "body": "We are continuing to investigate issues with certain features. Thank you for your patience as we work on bringing things back online."
+        },
         {
           "date_created": "2021-12-07T11:44:49-08:00",
           "body": "We have determined that workflows, Huddles/calls, posts/files, and email ingestion are the most heavily affected here. We are continuing to work on getting back up and running as quickly as possible. Thank you for bearing with us in the meantime."
