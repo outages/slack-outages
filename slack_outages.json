@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-12-03T10:08:04-08:00",
-  "date_updated": "2021-12-03T10:08:04-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-12-06T19:33:54-08:00",
+  "date_updated": "2021-12-06T19:33:54-08:00",
+  "active_incidents": [
+    {
+      "id": 1038,
+      "date_created": "2021-12-06T19:33:54-08:00",
+      "date_updated": "2021-12-06T19:33:54-08:00",
+      "title": "Enterprise Grid customers may experience an error when publishing workflows.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/3c45942fc7575b57",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-06T19:33:54-08:00",
+          "body": "Enterprise Grid customers may be experiencing issues publishing workflows to Slack. We're actively digging into this issue and will report back as soon as we have an update to share. We're sorry for the inconvenience in the meantime."
+        }
+      ]
+    }
+  ]
 }
