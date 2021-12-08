@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-12-07T17:43:17-08:00",
-  "date_updated": "2021-12-07T17:43:17-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-12-07T22:57:19-08:00",
+  "date_updated": "2021-12-07T22:57:19-08:00",
+  "active_incidents": [
+    {
+      "id": 1040,
+      "date_created": "2021-12-07T22:57:19-08:00",
+      "date_updated": "2021-12-07T22:57:19-08:00",
+      "title": "Some customers missing messages from DMs and private channels",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/788f6d6137ad6971",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-07T22:57:19-08:00",
+          "body": "Some of our customers are missing messages from DMs and private channels. We're currently investigating, and we'll keep you posted as soon as we have more information. We're sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
