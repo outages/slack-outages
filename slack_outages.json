@@ -1,23 +1,27 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T13:48:00-08:00",
-  "date_updated": "2021-12-07T13:48:00-08:00",
+  "date_created": "2021-12-07T16:25:43-08:00",
+  "date_updated": "2021-12-07T16:25:43-08:00",
   "active_incidents": [
     {
       "id": 1039,
       "date_created": "2021-12-07T08:42:22-08:00",
-      "date_updated": "2021-12-07T13:48:00-08:00",
+      "date_updated": "2021-12-07T16:25:43-08:00",
       "title": "Trouble with certain Slack features",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-12/f756fef8e8c0c05b",
       "services": [
-        "Posts/Files",
         "Calls",
         "Apps/Integrations/APIs",
-        "Connections"
+        "Connections",
+        "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-07T16:25:43-08:00",
+          "body": "We're starting to see certain features recover, while others are still behaving unexpectedly. We'll be back with another update in roughly two hours unless the issue is resolved for all affected services sooner. Thank you for hanging in there!"
+        },
         {
           "date_created": "2021-12-07T13:48:00-08:00",
           "body": "The investigation into this issue and resolving it remains a priority. Please continue to check our status site for any new developments or changes to this issue. We’ll be back with another update in two hours, unless new information becomes available before then. We thank you for your continued patience and hope to have things working as soon as we can."
