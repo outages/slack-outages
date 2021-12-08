@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2021-12-07T22:57:19-08:00",
-  "date_updated": "2021-12-07T22:57:19-08:00",
+  "date_created": "2021-12-08T08:11:30-08:00",
+  "date_updated": "2021-12-08T08:11:30-08:00",
   "active_incidents": [
+    {
+      "id": 1041,
+      "date_created": "2021-12-08T08:11:30-08:00",
+      "date_updated": "2021-12-08T08:11:30-08:00",
+      "title": "Some people appear to be on a huddle after ending call.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/f5acbbef4d8a57ac",
+      "services": [
+        "Calls"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-08T08:11:30-08:00",
+          "body": "Some people may appear to still be on a Huddle even after leaving the call. We’re investigating the issue and will be back with an update shortly. Thank you for your patience."
+        }
+      ]
+    },
     {
       "id": 1040,
       "date_created": "2021-12-07T22:57:19-08:00",
