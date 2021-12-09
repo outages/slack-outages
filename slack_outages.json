@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-08T10:28:23-08:00",
-  "date_updated": "2021-12-08T10:28:23-08:00",
+  "date_created": "2021-12-08T22:28:54-08:00",
+  "date_updated": "2021-12-08T22:28:54-08:00",
   "active_incidents": [
     {
       "id": 1041,
       "date_created": "2021-12-08T08:11:30-08:00",
-      "date_updated": "2021-12-08T10:28:23-08:00",
+      "date_updated": "2021-12-08T22:28:54-08:00",
       "title": "Some users are appearing in a huddle after the huddle has ended",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-08T22:28:54-08:00",
+          "body": "We've deployed a fix, and customers should no longer be experiencing this issue. If you continue to have any trouble, please let us know via feedback@slack.com"
+        },
         {
           "date_created": "2021-12-08T10:28:23-08:00",
           "body": "We are still investigating the huddles issue that's causing the huddles status to remain as well as the inability to join new huddles."
