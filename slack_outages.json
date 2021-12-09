@@ -1,8 +1,30 @@
 {
   "status": "active",
-  "date_created": "2021-12-08T10:28:23-08:00",
-  "date_updated": "2021-12-08T10:28:23-08:00",
+  "date_created": "2021-12-08T18:14:59-08:00",
+  "date_updated": "2021-12-08T18:14:59-08:00",
   "active_incidents": [
+    {
+      "id": 1042,
+      "date_created": "2021-12-08T17:46:27-08:00",
+      "date_updated": "2021-12-08T18:14:59-08:00",
+      "title": "Some customers in Korea aren't receiving 2FA codes correctly",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/568c99194714c678",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-08T18:14:59-08:00",
+          "body": "We are continuing to investigate issues with receiving 2FA codes when the language is set to Korean. Customers using English should be receiving 2FA codes correctly. Our apologies for the disruption."
+        },
+        {
+          "date_created": "2021-12-08T17:46:27-08:00",
+          "body": "Some customers in Korea aren't receiving 2FA codes set to Korean, or they may be receiving 2FA codes with garbled text.\r\n\r\nWe're investigating now and will be back with more information as soon as it's available, or in 30 minutes."
+        }
+      ]
+    },
     {
       "id": 1041,
       "date_created": "2021-12-08T08:11:30-08:00",
