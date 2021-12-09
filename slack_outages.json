@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-08T22:28:54-08:00",
-  "date_updated": "2021-12-08T22:28:54-08:00",
+  "date_created": "2021-12-09T08:01:03-08:00",
+  "date_updated": "2021-12-09T08:01:03-08:00",
   "active_incidents": [
     {
       "id": 1041,
       "date_created": "2021-12-08T08:11:30-08:00",
-      "date_updated": "2021-12-08T22:28:54-08:00",
+      "date_updated": "2021-12-09T08:01:03-08:00",
       "title": "Some users are appearing in a huddle after the huddle has ended",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-09T08:01:03-08:00",
+          "body": "While we have deployed a fix, some customers may continue to appear in a huddle once a huddle has ended.  We are continuing to investigate this issue and will keep you updated."
+        },
         {
           "date_created": "2021-12-08T22:28:54-08:00",
           "body": "We've deployed a fix, and customers should no longer be experiencing this issue. If you continue to have any trouble, please let us know via feedback@slack.com"
