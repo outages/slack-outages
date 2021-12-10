@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-09T08:01:03-08:00",
-  "date_updated": "2021-12-09T08:01:03-08:00",
+  "date_created": "2021-12-10T15:36:37-08:00",
+  "date_updated": "2021-12-10T15:36:37-08:00",
   "active_incidents": [
     {
       "id": 1041,
       "date_created": "2021-12-08T08:11:30-08:00",
-      "date_updated": "2021-12-09T08:01:03-08:00",
+      "date_updated": "2021-12-10T15:36:37-08:00",
       "title": "Less than 1% of users are appearing in a huddle after the huddle has ended",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-10T15:36:37-08:00",
+          "body": "We’re continuing to work towards resolving this issue for the very small number of users who are still impacted. We appreciate your continued patience, and will let you know as soon as we have another update to share."
+        },
         {
           "date_created": "2021-12-09T08:01:03-08:00",
           "body": "While we have deployed a fix, some customers may continue to appear in a huddle once a huddle has ended.  We are continuing to investigate this issue and will keep you updated."
