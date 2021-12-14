@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2021-12-10T15:36:37-08:00",
-  "date_updated": "2021-12-10T15:36:37-08:00",
+  "date_created": "2021-12-13T23:56:55-08:00",
+  "date_updated": "2021-12-13T23:56:55-08:00",
   "active_incidents": [
+    {
+      "id": 1044,
+      "date_created": "2021-12-13T23:56:55-08:00",
+      "date_updated": "2021-12-13T23:56:55-08:00",
+      "title": "Notify on invite to channel isn't working",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/f44e3192f00477ec",
+      "services": [
+        "Notifications"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-13T23:56:55-08:00",
+          "body": "Some of our customers are having trouble with notifying users feature. We're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
+        }
+      ]
+    },
     {
       "id": 1041,
       "date_created": "2021-12-08T08:11:30-08:00",
