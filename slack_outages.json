@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-12-14T03:00:53-08:00",
-  "date_updated": "2021-12-14T03:00:53-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-12-15T08:24:44-08:00",
+  "date_updated": "2021-12-15T08:24:44-08:00",
+  "active_incidents": [
+    {
+      "id": 1045,
+      "date_created": "2021-12-15T08:24:44-08:00",
+      "date_updated": "2021-12-15T08:24:44-08:00",
+      "title": "Some users may experience loading issues in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/64d89be06a6249c8",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-15T08:24:44-08:00",
+          "body": "Some users may be experiencing issues loading threads, mentions & reactions and trouble with email delivery. We’re currently investigating the issue and will provide a status update once we have more information."
+        }
+      ]
+    }
+  ]
 }
