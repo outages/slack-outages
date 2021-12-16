@@ -1,6 +1,29 @@
 {
-  "status": "ok",
-  "date_created": "2021-12-15T16:37:52-08:00",
-  "date_updated": "2021-12-15T16:37:52-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-12-16T15:42:46-08:00",
+  "date_updated": "2021-12-16T15:42:46-08:00",
+  "active_incidents": [
+    {
+      "id": 1046,
+      "date_created": "2021-12-16T15:42:46-08:00",
+      "date_updated": "2021-12-16T15:42:46-08:00",
+      "title": "Trouble with connectivity and other services",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/f4273003292cdb14",
+      "services": [
+        "Messaging",
+        "Apps/Integrations/APIs",
+        "Workspace/Org Administration",
+        "Login/SSO",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-16T15:42:46-08:00",
+          "body": "We are experiencing issues with connectivity and other services. We're currently investigating the issue and will provide a status update once we have more information."
+        }
+      ]
+    }
+  ]
 }
