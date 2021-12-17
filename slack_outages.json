@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-16T15:42:46-08:00",
-  "date_updated": "2021-12-16T15:42:46-08:00",
+  "date_created": "2021-12-16T16:21:41-08:00",
+  "date_updated": "2021-12-16T16:21:41-08:00",
   "active_incidents": [
     {
       "id": 1046,
       "date_created": "2021-12-16T15:42:46-08:00",
-      "date_updated": "2021-12-16T15:42:46-08:00",
+      "date_updated": "2021-12-16T16:21:41-08:00",
       "title": "Trouble with connectivity and other services",
       "type": "incident",
       "status": "active",
@@ -19,6 +19,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-16T16:21:41-08:00",
+          "body": "Users may be experiencing troubles with general connectivity, sending messages, logging in, and administration. \r\n\r\nWe are continuing to investigate, and we greatly appreciate your patience. We will share more information in 30 minutes."
+        },
         {
           "date_created": "2021-12-16T15:42:46-08:00",
           "body": "We are experiencing issues with connectivity and other services. We're currently investigating the issue and will provide a status update once we have more information."
