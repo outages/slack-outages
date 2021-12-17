@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2021-12-16T17:33:26-08:00",
-  "date_updated": "2021-12-16T17:33:26-08:00",
-  "active_incidents": [
-    {
-      "id": 1047,
-      "date_created": "2021-12-16T17:27:00-08:00",
-      "date_updated": "2021-12-16T17:33:26-08:00",
-      "title": "Trouble with loading Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2021-12/7e48573b25cc9abe",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2021-12-16T17:27:00-08:00",
-          "body": "Customers may be experiencing issues with loading Slack. We're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2021-12-16T18:04:34-08:00",
+  "date_updated": "2021-12-16T18:04:34-08:00",
+  "active_incidents": []
 }
