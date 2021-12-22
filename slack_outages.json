@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-22T04:58:37-08:00",
-  "date_updated": "2021-12-22T04:58:37-08:00",
+  "date_created": "2021-12-22T05:28:03-08:00",
+  "date_updated": "2021-12-22T05:28:03-08:00",
   "active_incidents": [
     {
       "id": 1049,
       "date_created": "2021-12-22T04:58:37-08:00",
-      "date_updated": "2021-12-22T04:58:37-08:00",
+      "date_updated": "2021-12-22T05:28:03-08:00",
       "title": "Trouble with connectivity and other services",
       "type": "incident",
       "status": "active",
@@ -20,6 +20,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-22T05:28:03-08:00",
+          "body": "We are working hard to resolve this connectivity issue and we will update our status site as regularly as possible to keep your informed on our progress."
+        },
         {
           "date_created": "2021-12-22T04:58:37-08:00",
           "body": "We are experiencing issues with file uploads, message editing, and other services. We're currently investigating the issue and will provide a status update once we have more information."
