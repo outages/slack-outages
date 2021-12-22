@@ -1,25 +1,24 @@
 {
   "status": "active",
-  "date_created": "2021-12-22T05:58:12-08:00",
-  "date_updated": "2021-12-22T05:58:12-08:00",
+  "date_created": "2021-12-22T06:35:00-08:00",
+  "date_updated": "2021-12-22T06:35:00-08:00",
   "active_incidents": [
     {
       "id": 1049,
       "date_created": "2021-12-22T04:58:37-08:00",
-      "date_updated": "2021-12-22T05:58:12-08:00",
+      "date_updated": "2021-12-22T06:35:00-08:00",
       "title": "Trouble with connectivity and other services",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2021-12/a17eae991fdc437d",
       "services": [
-        "Posts/Files",
-        "Notifications",
-        "Login/SSO",
-        "Apps/Integrations/APIs",
-        "Connections",
-        "Messaging"
+        "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-22T06:35:00-08:00",
+          "body": "We’re seeing improvements with most services that were affected earlier while the issues with file uploads are ongoing. We’re continuing to investigate and will post our next update in 30 minutes."
+        },
         {
           "date_created": "2021-12-22T05:58:12-08:00",
           "body": "No additional news to share at this time, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble. We’ll be back with another update in the next 30 minutes."
