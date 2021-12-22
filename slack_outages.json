@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-22T09:05:45-08:00",
-  "date_updated": "2021-12-22T09:05:45-08:00",
+  "date_created": "2021-12-22T09:34:06-08:00",
+  "date_updated": "2021-12-22T09:34:06-08:00",
   "active_incidents": [
     {
       "id": 1049,
       "date_created": "2021-12-22T04:58:37-08:00",
-      "date_updated": "2021-12-22T09:05:45-08:00",
+      "date_updated": "2021-12-22T09:34:06-08:00",
       "title": "Trouble with connectivity and other services",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-22T09:34:06-08:00",
+          "body": "We don't have any news to share at present, but our investigation is ongoing. We appreciate your patience."
+        },
         {
           "date_created": "2021-12-22T09:05:45-08:00",
           "body": "The team is continuing to investigate the root cause for the issues related to file uploading and message failures. Our sincerest apologies for the trouble. We'll be back with another update in 30 minutes."
