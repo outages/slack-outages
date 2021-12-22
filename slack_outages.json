@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2021-12-22T08:06:07-08:00",
-  "date_updated": "2021-12-22T08:06:07-08:00",
+  "date_created": "2021-12-22T08:35:20-08:00",
+  "date_updated": "2021-12-22T08:35:20-08:00",
   "active_incidents": [
     {
       "id": 1049,
       "date_created": "2021-12-22T04:58:37-08:00",
-      "date_updated": "2021-12-22T08:06:07-08:00",
+      "date_updated": "2021-12-22T08:35:20-08:00",
       "title": "Trouble with connectivity and other services",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2021-12-22T08:35:20-08:00",
+          "body": "We don’t have any further information to share at this moment. We apologize for the trouble and thank you for patience while we investigate the root cause of this issue."
+        },
         {
           "date_created": "2021-12-22T08:06:07-08:00",
           "body": "Less than 1% of customers are experiencing trouble with sending messages, editing messages, loading threads, applying reactions and uploading files. We're still investigating and we'll post another update in 30 minutes."
