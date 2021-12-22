@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2021-12-17T03:58:36-08:00",
-  "date_updated": "2021-12-17T03:58:36-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2021-12-21T17:46:04-08:00",
+  "date_updated": "2021-12-21T17:46:04-08:00",
+  "active_incidents": [
+    {
+      "id": 1048,
+      "date_created": "2021-12-21T17:46:04-08:00",
+      "date_updated": "2021-12-21T17:46:04-08:00",
+      "title": "Customers may be having trouble uploading and viewing files",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2021-12/d2a1d10655c5314c",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2021-12-21T17:46:04-08:00",
+          "body": "Some customers are experiencing issues while attempting to upload and view files within Slack. \r\n\r\nWe'll be back with another update once we have more information to share."
+        }
+      ]
+    }
+  ]
 }
