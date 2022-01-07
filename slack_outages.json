@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2022-01-07T11:02:02-08:00",
-          "body": "A bug is impacting some Android users on version 22.01.10 who try to use a magic link to sign in. Engineers have identified the issue and are working on a fix. Workaround is to sign in manually using URL/email/password."
+          "body": "A bug is impacting some Android users on version 22.01.10 who try to use a magic link to sign in. Engineers have identified the issue and are working on a fix. As a workaround, you can sign in manually using URL/email/password."
         }
       ]
     }
