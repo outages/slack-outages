@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-01-06T12:53:21-08:00",
-  "date_updated": "2022-01-06T12:53:21-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-01-07T11:02:02-08:00",
+  "date_updated": "2022-01-07T11:02:02-08:00",
+  "active_incidents": [
+    {
+      "id": 1051,
+      "date_created": "2022-01-07T11:02:02-08:00",
+      "date_updated": "2022-01-07T11:02:02-08:00",
+      "title": "Some Android users are unable to sign in",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/0ff4c3a30fcc029f",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-07T11:02:02-08:00",
+          "body": "A bug is impacting some Android users on version 22.01.10 who try to use a magic link to sign in. Engineers have identified the issue and are working on a fix. Workaround is to sign in manually using URL/email/password."
+        }
+      ]
+    }
+  ]
 }
