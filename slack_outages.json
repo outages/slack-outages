@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-01-07T12:56:31-08:00",
-  "date_updated": "2022-01-07T12:56:31-08:00",
+  "date_created": "2022-01-09T09:42:00-08:00",
+  "date_updated": "2022-01-09T09:42:00-08:00",
   "active_incidents": [
     {
       "id": 1051,
       "date_created": "2022-01-07T11:02:02-08:00",
-      "date_updated": "2022-01-07T12:56:31-08:00",
+      "date_updated": "2022-01-09T09:42:00-08:00",
       "title": "Some Android users are unable to sign in",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-01-09T09:42:00-08:00",
+          "body": "A fix is included in our new release for app version 21.01.11, now available in the Android Play Store. Thanks for sitting tight with us while we worked to ship it out."
+        },
         {
           "date_created": "2022-01-07T12:56:31-08:00",
           "body": "We continue to work on releasing a fix and we'll share an update as soon as it's available. Thank you for your patience."
