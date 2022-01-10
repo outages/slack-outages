@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-01-09T09:42:00-08:00",
-  "date_updated": "2022-01-09T09:42:00-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-01-10T08:29:27-08:00",
+  "date_updated": "2022-01-10T08:29:27-08:00",
+  "active_incidents": [
+    {
+      "id": 1052,
+      "date_created": "2022-01-10T08:29:27-08:00",
+      "date_updated": "2022-01-10T08:29:27-08:00",
+      "title": "Trouble viewing user names in sidebar and search",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/5fe9250e73629998",
+      "services": [
+        "Messaging",
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-10T08:29:27-08:00",
+          "body": "Some customers may be unable to see names in their Direct Messages list or when searching in Slack. We're actively investigating and will report back as soon as we have more details to share. We're sorry for the trouble in the meantime."
+        }
+      ]
+    }
+  ]
 }
