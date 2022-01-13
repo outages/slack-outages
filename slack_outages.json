@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-01-12T23:06:48-08:00",
-  "date_updated": "2022-01-12T23:06:48-08:00",
-  "active_incidents": [
-    {
-      "id": 1053,
-      "date_created": "2022-01-12T23:06:48-08:00",
-      "date_updated": "2022-01-12T23:06:48-08:00",
-      "title": "Some customers may experience slowness when accessing default channels for Identity Provider groups",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-01/8d9ac9eab8fd12d6",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-01-12T23:06:48-08:00",
-          "body": "Some customers may experience slowness when accessing default channels for Identity Provider groups. We’re actively investigating and will report back as soon as we have more details to share. We’re sorry for the trouble in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-01-13T12:57:50-08:00",
+  "date_updated": "2022-01-13T12:57:50-08:00",
+  "active_incidents": []
 }
