@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-01-14T14:30:54-08:00",
-  "date_updated": "2022-01-14T14:30:54-08:00",
-  "active_incidents": [
-    {
-      "id": 1054,
-      "date_created": "2022-01-14T08:06:36-08:00",
-      "date_updated": "2022-01-14T14:30:54-08:00",
-      "title": "Some customers are unable to receive 2FA SMS messages",
-      "type": "notice",
-      "status": "active",
-      "url": "https://status.slack.com/2022-01/7c188ede6c8137d6",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-01-14T14:30:54-08:00",
-          "body": "While the issue with 2FA is not clear yet, our upstream provider has reported signs of recovery. We're continuing to monitor this issue and will share more updates when they become available."
-        },
-        {
-          "date_created": "2022-01-14T08:46:00-08:00",
-          "body": "We're still investigating issues with 2FA SMS messages.\r\n\r\nIn the meantime, while we recognize these aren't ideal solutions, as a workaround you can use a backup code or reach out to a Workspace Owner or Admin to disable 2FA for your account. They'll be able to do so from the Members page: https://my.slack.com/admin"
-        },
-        {
-          "date_created": "2022-01-14T08:06:36-08:00",
-          "body": "Some customers are unable to receive 2FA (two-factor authentication) SMS messages. This is due to an issue experienced by one of our upstream partners. We are investigating further and will share back when we have more updates."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-01-14T16:35:32-08:00",
+  "date_updated": "2022-01-14T16:35:32-08:00",
+  "active_incidents": []
 }
