@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-01-18T11:32:02-08:00",
-  "date_updated": "2022-01-18T11:32:02-08:00",
+  "date_created": "2022-01-18T12:06:02-08:00",
+  "date_updated": "2022-01-18T12:06:02-08:00",
   "active_incidents": [
     {
       "id": 1055,
       "date_created": "2022-01-18T10:03:11-08:00",
-      "date_updated": "2022-01-18T11:32:02-08:00",
+      "date_updated": "2022-01-18T12:06:02-08:00",
       "title": "Slack Connect channels not reconnecting after plan downgrade",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-01-18T12:06:02-08:00",
+          "body": "We've identified the root cause behind the issue and are working on getting things back to normal. We'll have another update as soon as we have any further information to share."
+        },
         {
           "date_created": "2022-01-18T11:32:02-08:00",
           "body": "We are continuing to dig into this issue with Slack Connect channels not connecting properly. We apologize for the inconvenience in the meantime."
