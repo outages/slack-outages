@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-01-18T18:12:06-08:00",
-  "date_updated": "2022-01-18T18:12:06-08:00",
-  "active_incidents": [
-    {
-      "id": 1056,
-      "date_created": "2022-01-18T18:12:06-08:00",
-      "date_updated": "2022-01-18T18:12:06-08:00",
-      "title": "Some customers are having trouble accessing files",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-01/d5c917d7207e70f0",
-      "services": [
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-01-18T18:12:06-08:00",
-          "body": "Some customers are having trouble viewing and accessing files within Slack. We're working hard to resolve the issue as soon as possible and will be back with an update once we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-01-18T19:41:08-08:00",
+  "date_updated": "2022-01-18T19:41:08-08:00",
+  "active_incidents": []
 }
