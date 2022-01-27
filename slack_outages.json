@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-01-27T07:17:44-08:00",
-  "date_updated": "2022-01-27T07:17:44-08:00",
+  "date_created": "2022-01-27T10:19:04-08:00",
+  "date_updated": "2022-01-27T10:19:04-08:00",
   "active_incidents": [
+    {
+      "id": 1059,
+      "date_created": "2022-01-27T10:19:04-08:00",
+      "date_updated": "2022-01-27T10:19:04-08:00",
+      "title": "Some customers are receiving banner notifications for threads they're following",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/ff3b337766c6f85f",
+      "services": [
+        "Notifications"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-27T10:19:04-08:00",
+          "body": "Some users are unexpectedly receiving banner notifications for replies in threads they're following when the preference to receive them was not previously enabled. We're investigating and will let you know as soon as we know more."
+        }
+      ]
+    },
     {
       "id": 1058,
       "date_created": "2022-01-27T07:13:20-08:00",
