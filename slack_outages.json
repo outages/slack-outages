@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-01-27T16:31:29-08:00",
-  "date_updated": "2022-01-27T16:31:29-08:00",
+  "date_created": "2022-01-27T21:31:30-08:00",
+  "date_updated": "2022-01-27T21:31:30-08:00",
   "active_incidents": [
+    {
+      "id": 1060,
+      "date_created": "2022-01-27T21:31:30-08:00",
+      "date_updated": "2022-01-27T21:31:30-08:00",
+      "title": "Trouble with \"Jump to date\" channel feature",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/d25864ce6eeb68a8",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-27T21:31:30-08:00",
+          "body": "Some users are unable to use the \"Jump to date\" button in channels. We’re investigating and will let you know as soon as we know more."
+        }
+      ]
+    },
     {
       "id": 1059,
       "date_created": "2022-01-27T10:19:04-08:00",
