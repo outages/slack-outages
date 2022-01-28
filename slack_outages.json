@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-01-27T16:31:29-08:00",
-  "date_updated": "2022-01-27T16:31:29-08:00",
-  "active_incidents": [
-    {
-      "id": 1059,
-      "date_created": "2022-01-27T10:19:04-08:00",
-      "date_updated": "2022-01-27T16:31:29-08:00",
-      "title": "Some customers are receiving banner notifications for threads they're following",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-01/ff3b337766c6f85f",
-      "services": [
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-01-27T16:31:29-08:00",
-          "body": "Some users have been unexpectedly receiving banner notifications for replies in threads they're following when the preference to receive them was not previously enabled. We've released a change, and believe that no additional users will be impacted by this issue. However, we are continuing to monitor the situation and will report back once we have another update.\r\n\r\nPlease be aware that users previously impacted by this issue may find their \"Notify me about replies to threads I'm following\" preference changed from what was selected previously. We recommend heading to Preferences > Notifications and toggling this preference if needed."
-        },
-        {
-          "date_created": "2022-01-27T11:45:01-08:00",
-          "body": "As we continue to investigate this issue we wanted to quickly note that toggling the \"Notify me about replies to threads I'm following\" in your \"Notifications\" settings should help as a workaround. Thank you for your patience as we work through this one!"
-        },
-        {
-          "date_created": "2022-01-27T10:19:04-08:00",
-          "body": "Some users are unexpectedly receiving banner notifications for replies in threads they're following when the preference to receive them was not previously enabled. We're investigating and will let you know as soon as we know more."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-01-28T14:43:00-08:00",
+  "date_updated": "2022-01-28T14:43:00-08:00",
+  "active_incidents": []
 }
