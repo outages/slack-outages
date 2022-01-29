@@ -1,6 +1,28 @@
 {
-  "status": "ok",
-  "date_created": "2022-01-28T16:38:34-08:00",
-  "date_updated": "2022-01-28T16:38:34-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-01-29T14:45:24-08:00",
+  "date_updated": "2022-01-29T14:45:24-08:00",
+  "active_incidents": [
+    {
+      "id": 1061,
+      "date_created": "2022-01-29T14:45:24-08:00",
+      "date_updated": "2022-01-29T14:45:24-08:00",
+      "title": "Customers with data residency in Tokyo may experience troubles with connectivity issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/a9b76030600e0634",
+      "services": [
+        "Posts/Files",
+        "Search",
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-29T14:45:24-08:00",
+          "body": "Customers who have their data residency region selected as Tokyo, may be experiencing troubles with some of the core functions of Slack. This includes but is not limited to, troubles sending messages, uploading files or using the search function."
+        }
+      ]
+    }
+  ]
 }
