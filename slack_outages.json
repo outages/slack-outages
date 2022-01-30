@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-01-29T14:45:24-08:00",
-  "date_updated": "2022-01-29T14:45:24-08:00",
+  "date_created": "2022-01-29T15:45:00-08:00",
+  "date_updated": "2022-01-29T15:45:00-08:00",
   "active_incidents": [
     {
       "id": 1061,
-      "date_created": "2022-01-29T03:45:00-08:00",
-      "date_updated": "2022-01-29T14:45:24-08:00",
+      "date_created": "2022-01-29T14:45:24-08:00",
+      "date_updated": "2022-01-29T15:45:00-08:00",
       "title": "Customers with data residency in Tokyo may experience troubles with connectivity issues",
       "type": "incident",
       "status": "active",
@@ -19,12 +19,12 @@
       ],
       "notes": [
         {
-          "date_created": "2022-01-29T14:45:24-08:00",
-          "body": "Customers who have their data residency region selected as Tokyo, may be experiencing troubles with some of the core functions of Slack. This includes but is not limited to, troubles sending messages, uploading files or using the search function."
+          "date_created": "2022-01-29T15:45:00-08:00",
+          "body": "We are continuing to look into this issue that customers with data residency set in Tokyo may be experiencing. We apologize for the inconvenience and will provide more updates as new information becomes available."
         },
         {
-          "date_created": "2022-01-29T03:45:00-08:00",
-          "body": "We are continuing to look into this issue that customers with data residency set in Tokyo may be experiencing. We apologize for the inconvenience and will provide more updates as new information becomes available."
+          "date_created": "2022-01-29T14:45:24-08:00",
+          "body": "Customers who have their data residency region selected as Tokyo, may be experiencing troubles with some of the core functions of Slack. This includes but is not limited to, troubles sending messages, uploading files or using the search function."
         }
       ]
     }
