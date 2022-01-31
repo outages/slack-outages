@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-01-31T07:22:44-08:00",
-  "date_updated": "2022-01-31T07:22:44-08:00",
+  "date_created": "2022-01-31T07:50:30-08:00",
+  "date_updated": "2022-01-31T07:50:30-08:00",
   "active_incidents": [
     {
       "id": 1062,
       "date_created": "2022-01-31T06:38:45-08:00",
-      "date_updated": "2022-01-31T07:22:44-08:00",
+      "date_updated": "2022-01-31T07:50:30-08:00",
       "title": "Slack not fully loading for some customers.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-01-31T07:50:30-08:00",
+          "body": "No additional news to share just yet, but we're focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
+        },
         {
           "date_created": "2022-01-31T07:22:44-08:00",
           "body": "We're continuing to investigate the issues with slowness in loading features, but there's no new updates to share at the moment. Our teams are focused on getting things up and running as soon as possible, and we'll be back in 30 minutes with another update."
