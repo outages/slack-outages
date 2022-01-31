@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-01-29T17:30:00-08:00",
-  "date_updated": "2022-01-29T17:30:00-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-01-31T06:38:45-08:00",
+  "date_updated": "2022-01-31T06:38:45-08:00",
+  "active_incidents": [
+    {
+      "id": 1062,
+      "date_created": "2022-01-31T06:38:45-08:00",
+      "date_updated": "2022-01-31T06:38:45-08:00",
+      "title": "Slack not fully loading for some customers.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-01/f7d4da863db0707c",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-01-31T06:38:45-08:00",
+          "body": "Some features may be running slower than expected or not fully load for some customers. We’re on the case and will provide another update once we have more information to share."
+        }
+      ]
+    }
+  ]
 }
