@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-01-31T17:42:44-08:00",
-  "date_updated": "2022-01-31T17:42:44-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-02T08:40:44-08:00",
+  "date_updated": "2022-02-02T08:40:44-08:00",
+  "active_incidents": [
+    {
+      "id": 1063,
+      "date_created": "2022-02-02T08:40:44-08:00",
+      "date_updated": "2022-02-02T08:40:44-08:00",
+      "title": "Some customers may experience posts not loading",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/daa2417acf5dfe3a",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-02T08:40:44-08:00",
+          "body": "Some users may experience posts not loading or loading in a continuous loop. Our team is looking into this now and we’ll share more information soon."
+        }
+      ]
+    }
+  ]
 }
