@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-03T11:04:26-08:00",
-  "date_updated": "2022-02-03T11:04:26-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-03T11:48:58-08:00",
+  "date_updated": "2022-02-03T11:48:58-08:00",
+  "active_incidents": [
+    {
+      "id": 1065,
+      "date_created": "2022-02-03T11:48:58-08:00",
+      "date_updated": "2022-02-03T11:48:58-08:00",
+      "title": "Some slash commands failing",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/dc0d6285a9edb38b",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-03T11:48:58-08:00",
+          "body": "Some customers may be experiencing issues using slash commands. We have identified the cause, and are working on a fix."
+        }
+      ]
+    }
+  ]
 }
