@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-02T13:34:15-08:00",
-  "date_updated": "2022-02-02T13:34:15-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-02T21:19:49-08:00",
+  "date_updated": "2022-02-02T21:19:49-08:00",
+  "active_incidents": [
+    {
+      "id": 1064,
+      "date_created": "2022-02-02T21:19:49-08:00",
+      "date_updated": "2022-02-02T21:19:49-08:00",
+      "title": "Issues accessing Slack Connect view",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/15a1e5c4df15c7b8",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-02T21:19:49-08:00",
+          "body": "Some of our customers may be experiencing issues when accessing the Slack Connect view. We are currently investigating this — apologies for any inconvenience caused in the meantime. \r\n\r\nFor now, refreshing the app with Cmd/Ctrl + R may clear things up.\r\n\r\nWe'll be back with an update as soon as possible. We appreciate your patience while we dig into this."
+        }
+      ]
+    }
+  ]
 }
