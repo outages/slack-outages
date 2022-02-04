@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-02-04T02:33:03-08:00",
-  "date_updated": "2022-02-04T02:33:03-08:00",
+  "date_created": "2022-02-04T04:23:51-08:00",
+  "date_updated": "2022-02-04T04:23:51-08:00",
   "active_incidents": [
     {
       "id": 1066,
       "date_created": "2022-02-04T02:33:03-08:00",
-      "date_updated": "2022-02-04T02:33:03-08:00",
+      "date_updated": "2022-02-04T04:23:51-08:00",
       "title": "Issues when sending and posting messages from Safari",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-02-04T04:23:51-08:00",
+          "body": "We're continuing to investigate the errors when sending/composing messages on Safari.\r\n\r\nWe'll be back with an update as soon as possible and we apologize for the disruption. This error does not impact other browsers nor our desktop and mobile applications."
+        },
         {
           "date_created": "2022-02-04T02:33:03-08:00",
           "body": "Some users on Safari may be hitting an error when composing/sending messages."
