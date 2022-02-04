@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-03T21:37:04-08:00",
-  "date_updated": "2022-02-03T21:37:04-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-04T02:33:03-08:00",
+  "date_updated": "2022-02-04T02:33:03-08:00",
+  "active_incidents": [
+    {
+      "id": 1066,
+      "date_created": "2022-02-04T02:33:03-08:00",
+      "date_updated": "2022-02-04T02:33:03-08:00",
+      "title": "Issues when sending and posting messages from Safari",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/b141b9712a35809d",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-04T02:33:03-08:00",
+          "body": "Some users on Safari may be hitting an error when composing/sending messages."
+        }
+      ]
+    }
+  ]
 }
