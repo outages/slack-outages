@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-02-08T11:14:04-08:00",
-  "date_updated": "2022-02-08T11:14:04-08:00",
+  "date_created": "2022-02-08T11:37:42-08:00",
+  "date_updated": "2022-02-08T11:37:42-08:00",
   "active_incidents": [
     {
       "id": 1067,
       "date_created": "2022-02-08T11:14:04-08:00",
-      "date_updated": "2022-02-08T11:14:04-08:00",
+      "date_updated": "2022-02-08T11:37:42-08:00",
       "title": "Some users encountering an error when trying to connect to Slack.",
       "type": "incident",
       "status": "active",
