@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-02-08T17:03:25-08:00",
-  "date_updated": "2022-02-08T17:03:25-08:00",
-  "active_incidents": [
-    {
-      "id": 1068,
-      "date_created": "2022-02-08T17:03:25-08:00",
-      "date_updated": "2022-02-08T17:03:25-08:00",
-      "title": "Some guests are having trouble sending messages",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-02/d6c0522e6c4507e2",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-02-08T17:03:25-08:00",
-          "body": "A number of single-channel guests are currently unable to send messages within group DMs. We're investigating now and will be back with an update shortly."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-02-08T21:48:00-08:00",
+  "date_updated": "2022-02-08T21:48:00-08:00",
+  "active_incidents": []
 }
