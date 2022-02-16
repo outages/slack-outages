@@ -1,18 +1,22 @@
 {
   "status": "active",
-  "date_created": "2022-02-16T05:48:19-08:00",
-  "date_updated": "2022-02-16T05:48:19-08:00",
+  "date_created": "2022-02-16T06:36:41-08:00",
+  "date_updated": "2022-02-16T06:36:41-08:00",
   "active_incidents": [
     {
       "id": 1070,
       "date_created": "2022-02-16T05:16:09-08:00",
-      "date_updated": "2022-02-16T05:48:19-08:00",
+      "date_updated": "2022-02-16T06:36:41-08:00",
       "title": "Customers under Data Residency in Australia are unable to connect to Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-02/2c77f5701578325a",
       "services": [],
       "notes": [
+        {
+          "date_created": "2022-02-16T06:36:41-08:00",
+          "body": "This issue has been identified and affected customers under Data Residency in Australia should now be able to connect to Slack. We are continuing to monitor the situation. If you are still experiencing issues with this, please reach out to our Support team at feedback@slack.com"
+        },
         {
           "date_created": "2022-02-16T05:48:19-08:00",
           "body": "We’ve identified what’s causing this issue and we're actively working to restore access to Slack for all users. We'll be back as soon as we have more information to share."
