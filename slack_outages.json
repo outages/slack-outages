@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-14T21:41:11-08:00",
-  "date_updated": "2022-02-14T21:41:11-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-16T05:16:09-08:00",
+  "date_updated": "2022-02-16T05:16:09-08:00",
+  "active_incidents": [
+    {
+      "id": 1070,
+      "date_created": "2022-02-16T05:16:09-08:00",
+      "date_updated": "2022-02-16T05:16:09-08:00",
+      "title": "Some customers under Data Residency in Australia are unable to connect to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/2c77f5701578325a",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-02-16T05:16:09-08:00",
+          "body": "There's currently an outage with one of our services, resulting in some customers under Data Residency in Australia being unable to access Slack. We're sorry for the disruption and will report back once we have more news to share."
+        }
+      ]
+    }
+  ]
 }
