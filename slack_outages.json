@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-17T14:32:00-08:00",
-  "date_updated": "2022-02-17T14:32:00-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-21T14:45:22-08:00",
+  "date_updated": "2022-02-21T14:45:22-08:00",
+  "active_incidents": [
+    {
+      "id": 1072,
+      "date_created": "2022-02-21T14:45:22-08:00",
+      "date_updated": "2022-02-21T14:45:22-08:00",
+      "title": "Some users experiencing issues with typing and sending messages in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/8668373964fa35df",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-21T14:45:22-08:00",
+          "body": "We are investigating an issue where some customers are unable to type and send messages in Slack and have since implemented a quick fix.\r\n\r\nCustomers who are experiencing related errors should try to reload by hitting Cmd + Shift + R on Mac, or Ctl + Shift + R on Windows and Linux."
+        }
+      ]
+    }
+  ]
 }
