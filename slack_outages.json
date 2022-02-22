@@ -1,17 +1,19 @@
 {
   "status": "active",
-  "date_created": "2022-02-22T10:08:54-08:00",
-  "date_updated": "2022-02-22T10:08:54-08:00",
+  "date_created": "2022-02-22T10:44:38-08:00",
+  "date_updated": "2022-02-22T10:44:38-08:00",
   "active_incidents": [
     {
       "id": 1074,
       "date_created": "2022-02-22T06:25:11-08:00",
-      "date_updated": "2022-02-22T10:08:54-08:00",
+      "date_updated": "2022-02-22T10:44:38-08:00",
       "title": "Slack is not loading for some users",
       "type": "outage",
       "status": "active",
       "url": "https://status.slack.com/2022-02/3083852db30af86f",
       "services": [
+        "Notifications",
+        "Connections",
         "Calls",
         "Messaging",
         "Search",
@@ -19,11 +21,13 @@
         "Apps/Integrations/APIs",
         "Posts/Files",
         "Workspace/Org Administration",
-        "Login/SSO",
-        "Notifications",
-        "Connections"
+        "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-02-22T10:44:38-08:00",
+          "body": "We're continuing to see improvements, but we still have some work to do. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux) or clear the app cache."
+        },
         {
           "date_created": "2022-02-22T10:08:54-08:00",
           "body": "We're continuing to see signs of improvement and are monitoring the situation. If you're still encountering any trouble, please reload Slack or clear the app cache."
