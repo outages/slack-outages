@@ -1,21 +1,25 @@
 {
   "status": "active",
-  "date_created": "2022-02-21T17:31:39-08:00",
-  "date_updated": "2022-02-21T17:31:39-08:00",
+  "date_created": "2022-02-21T18:10:20-08:00",
+  "date_updated": "2022-02-21T18:10:20-08:00",
   "active_incidents": [
     {
       "id": 1073,
       "date_created": "2022-02-21T17:00:53-08:00",
-      "date_updated": "2022-02-21T17:31:39-08:00",
+      "date_updated": "2022-02-21T18:10:20-08:00",
       "title": "Some customers may be unable to connect or send messages",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-02/deb5544e528b8032",
       "services": [
-        "Connections",
-        "Messaging"
+        "Messaging",
+        "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-02-21T18:10:20-08:00",
+          "body": "Customers should be able to connect to Slack and send messages once again. Please refresh Slack with Cmd/Ctrl + Shift + R to fetch the fix.\r\n\r\nWe're still monitoring the situation, and we'll report back as soon as the issue is fully resolved or we have news to share. Thank you for holding tight."
+        },
         {
           "date_created": "2022-02-21T17:31:39-08:00",
           "body": "We're seeing some improvements, but we're still working to fully resolve this. \r\n\r\nWe'll share another update in 30 minutes."
