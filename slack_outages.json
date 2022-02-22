@@ -1,6 +1,30 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-21T15:01:35-08:00",
-  "date_updated": "2022-02-21T15:01:35-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-21T17:31:39-08:00",
+  "date_updated": "2022-02-21T17:31:39-08:00",
+  "active_incidents": [
+    {
+      "id": 1073,
+      "date_created": "2022-02-21T17:00:53-08:00",
+      "date_updated": "2022-02-21T17:31:39-08:00",
+      "title": "Some customers may be unable to connect or send messages",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/deb5544e528b8032",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-21T17:31:39-08:00",
+          "body": "We're seeing some improvements, but we're still working to fully resolve this. \r\n\r\nWe'll share another update in 30 minutes."
+        },
+        {
+          "date_created": "2022-02-21T17:00:53-08:00",
+          "body": "Some customers may be unable to connect to Slack or send messages. We are investigating and we're very sorry for the disruption. \r\n\r\nWe'll be back with more information in 30 minutes. Thank you for bearing with us while we look into this."
+        }
+      ]
+    }
+  ]
 }
