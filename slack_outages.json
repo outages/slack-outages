@@ -1,24 +1,28 @@
 {
   "status": "active",
-  "date_created": "2022-02-22T06:44:47-08:00",
-  "date_updated": "2022-02-22T06:44:47-08:00",
+  "date_created": "2022-02-22T07:23:05-08:00",
+  "date_updated": "2022-02-22T07:23:05-08:00",
   "active_incidents": [
     {
       "id": 1074,
       "date_created": "2022-02-22T06:25:11-08:00",
-      "date_updated": "2022-02-22T06:44:47-08:00",
+      "date_updated": "2022-02-22T07:23:05-08:00",
       "title": "Slack is not loading for some users",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-02/3083852db30af86f",
       "services": [
-        "Connections",
-        "Messaging",
         "Posts/Files",
         "Notifications",
-        "Login/SSO"
+        "Login/SSO",
+        "Connections",
+        "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-02-22T07:23:05-08:00",
+          "body": "Slack is not loading for some users. We are continuing to investigate the cause and will provide more information as soon as it's available."
+        },
         {
           "date_created": "2022-02-22T06:44:47-08:00",
           "body": "We're still working towards a full resolution. We'll be back with another update soon. Thank you for your patience."
