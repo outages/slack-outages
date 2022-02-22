@@ -12,13 +12,17 @@
       "status": "active",
       "url": "https://status.slack.com/2022-02/3083852db30af86f",
       "services": [
-        "Notifications",
-        "Login/SSO",
         "Connections",
         "Messaging",
-        "Posts/Files"
+        "Posts/Files",
+        "Notifications",
+        "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-02-22T06:44:47-08:00",
+          "body": "We're still working towards a full resolution. We'll be back with another update soon. Thank you for your patience."
+        },
         {
           "date_created": "2022-02-22T06:25:11-08:00",
           "body": "We’re investigating the issue where Slack is not loading for some users. We’re looking into the cause and will provide more information as soon as it's available."
