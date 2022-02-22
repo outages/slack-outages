@@ -12,21 +12,21 @@
       "status": "active",
       "url": "https://status.slack.com/2022-02/3083852db30af86f",
       "services": [
-        "Notifications",
-        "Connections",
-        "Calls",
         "Messaging",
         "Search",
         "Link Previews",
         "Apps/Integrations/APIs",
         "Posts/Files",
         "Workspace/Org Administration",
-        "Login/SSO"
+        "Login/SSO",
+        "Notifications",
+        "Connections",
+        "Calls"
       ],
       "notes": [
         {
           "date_created": "2022-02-22T10:44:38-08:00",
-          "body": "We're continuing to see improvements, but we still have some work to do. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux) or clear the app cache."
+          "body": "We're continuing to see improvements, but we still have some work to do. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux) or clear the app cache (Help > Troubleshooting > Clear Cache and Restart on desktop, Preferences > Advanced > Reset Cache on mobile)."
         },
         {
           "date_created": "2022-02-22T10:08:54-08:00",
