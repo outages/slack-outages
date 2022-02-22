@@ -1,62 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-02-22T10:44:38-08:00",
-  "date_updated": "2022-02-22T10:44:38-08:00",
-  "active_incidents": [
-    {
-      "id": 1074,
-      "date_created": "2022-02-22T06:25:11-08:00",
-      "date_updated": "2022-02-22T10:44:38-08:00",
-      "title": "Slack is not loading for some users",
-      "type": "outage",
-      "status": "active",
-      "url": "https://status.slack.com/2022-02/3083852db30af86f",
-      "services": [
-        "Messaging",
-        "Search",
-        "Link Previews",
-        "Apps/Integrations/APIs",
-        "Posts/Files",
-        "Workspace/Org Administration",
-        "Login/SSO",
-        "Notifications",
-        "Connections",
-        "Calls"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-02-22T10:44:38-08:00",
-          "body": "We're continuing to see improvements, but we still have some work to do. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux) or clear the app cache (Help > Troubleshooting > Clear Cache and Restart on desktop, Preferences > Advanced > Reset Cache on mobile)."
-        },
-        {
-          "date_created": "2022-02-22T10:08:54-08:00",
-          "body": "We're continuing to see signs of improvement and are monitoring the situation. If you're still encountering any trouble, please reload Slack or clear the app cache."
-        },
-        {
-          "date_created": "2022-02-22T09:07:18-08:00",
-          "body": "We're seeing signs of improvement. Please try reloading Slack, and if not a cache reset. We’re still monitoring the situation. We’ll confirm once this issue is fully resolved."
-        },
-        {
-          "date_created": "2022-02-22T08:24:47-08:00",
-          "body": "Some customers are unable to load Slack. We’re still actively investigating this issue, but we don’t have any new information to share at this time. We’ll keep you posted as soon as we have an update."
-        },
-        {
-          "date_created": "2022-02-22T07:54:14-08:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-02-22T07:23:05-08:00",
-          "body": "Slack is not loading for some users. We are continuing to investigate the cause and will provide more information as soon as it's available."
-        },
-        {
-          "date_created": "2022-02-22T06:44:47-08:00",
-          "body": "We're still working towards a full resolution. We'll be back with another update soon. Thank you for your patience."
-        },
-        {
-          "date_created": "2022-02-22T06:25:11-08:00",
-          "body": "We’re investigating the issue where Slack is not loading for some users. We’re looking into the cause and will provide more information as soon as it's available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-02-22T11:24:41-08:00",
+  "date_updated": "2022-02-22T11:24:41-08:00",
+  "active_incidents": []
 }
