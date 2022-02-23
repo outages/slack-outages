@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-02-22T17:46:05-08:00",
-  "date_updated": "2022-02-22T17:46:05-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-02-22T23:07:43-08:00",
+  "date_updated": "2022-02-22T23:07:43-08:00",
+  "active_incidents": [
+    {
+      "id": 1075,
+      "date_created": "2022-02-22T23:07:43-08:00",
+      "date_updated": "2022-02-22T23:07:43-08:00",
+      "title": "Some users are having trouble receiving reminders",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-02/cbbb53606473f63d",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-02-22T23:07:43-08:00",
+          "body": "We’re receiving reports around trouble using reminders. We’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
+        }
+      ]
+    }
+  ]
 }
