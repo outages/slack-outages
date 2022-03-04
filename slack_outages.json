@@ -1,29 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2022-03-03T21:45:51-08:00",
   "date_updated": "2022-03-03T21:45:51-08:00",
-  "active_incidents": [
-    {
-      "id": 1076,
-      "date_created": "2022-03-03T19:02:32-08:00",
-      "date_updated": "2022-03-03T21:45:51-08:00",
-      "title": "Signing in with Google or Apple may be failing for some customers",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-03/6db00ab9464be669",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-03-03T21:45:51-08:00",
-          "body": "We've resolved the issue, and all impacted customers should now be able to access Slack. You may need to reload Slack (Cmd/Ctrl + Shift + R) to see the fix on your end. We're so sorry again for  all the trouble this caused."
-        },
-        {
-          "date_created": "2022-03-03T19:02:32-08:00",
-          "body": "We’re investigating reports around failures with signing in with Google and Apple, where some customers may be seeing a glitch page. Magic link sign in works as expected.\r\n\r\nWe’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
