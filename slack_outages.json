@@ -1,6 +1,32 @@
 {
-  "status": "ok",
-  "date_created": "2022-03-09T09:58:11-08:00",
-  "date_updated": "2022-03-09T09:58:11-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-03-09T13:24:53-08:00",
+  "date_updated": "2022-03-09T13:24:53-08:00",
+  "active_incidents": [
+    {
+      "id": 1078,
+      "date_created": "2022-03-09T13:24:53-08:00",
+      "date_updated": "2022-03-09T13:24:53-08:00",
+      "title": "Trouble with files and other services",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-03/2ef0ea05ab879420",
+      "services": [
+        "Messaging",
+        "Apps/Integrations/APIs",
+        "Link Previews",
+        "Posts/Files",
+        "Login/SSO",
+        "Notifications",
+        "Connections",
+        "Calls"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-03-09T13:24:53-08:00",
+          "body": "Some users may be encountering trouble with files, huddles, and other features. We apologize for the disruption — we'll be back shortly with an update."
+        }
+      ]
+    }
+  ]
 }
