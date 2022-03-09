@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-03-04T02:18:26-08:00",
-  "date_updated": "2022-03-04T02:18:26-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-03-09T02:49:24-08:00",
+  "date_updated": "2022-03-09T02:49:24-08:00",
+  "active_incidents": [
+    {
+      "id": 1077,
+      "date_created": "2022-03-09T02:49:24-08:00",
+      "date_updated": "2022-03-09T02:49:24-08:00",
+      "title": "Trouble with uploading files and other services.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-03/8a9e98bfaa32ef5f",
+      "services": [
+        "Messaging",
+        "Calls"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-03-09T02:49:24-08:00",
+          "body": "We’re receiving reports around trouble with uploading files and other features. We are truly sorry for this inconvenience and we will keep you posted with further details."
+        }
+      ]
+    }
+  ]
 }
