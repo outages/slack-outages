@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-03-09T06:22:48-08:00",
-  "date_updated": "2022-03-09T06:22:48-08:00",
+  "date_created": "2022-03-09T07:10:32-08:00",
+  "date_updated": "2022-03-09T07:10:32-08:00",
   "active_incidents": [
     {
       "id": 1077,
       "date_created": "2022-03-09T02:49:24-08:00",
-      "date_updated": "2022-03-09T06:22:48-08:00",
+      "date_updated": "2022-03-09T07:10:32-08:00",
       "title": "Trouble with uploading files and other services.",
       "type": "incident",
       "status": "active",
@@ -21,6 +21,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2022-03-09T07:10:32-08:00",
+          "body": "We have identified the issue affecting some of our features (calls, huddles, email processing, file uploads, emoji reactions retention, new DM groups retention in sidebar, Search, Workflow builder, Channel creation, API errors, webhooks, Slack Connect invites, workspace invites and admin actions). Our team is currently working on a fix. We will share more information in 30 minutes."
+        },
         {
           "date_created": "2022-03-09T06:22:48-08:00",
           "body": "We’re still investigating the issue affecting some of our features (calls, huddles, email processing, file uploads, emoji reactions retention, new DM groups retention in sidebar, Search, Workflow builder, Channel creation, API errors, webhooks, invites and admin actions). Thanks for sticking with us as we continue to work on a fix."
