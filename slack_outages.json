@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-03-09T03:43:22-08:00",
-  "date_updated": "2022-03-09T03:43:22-08:00",
+  "date_created": "2022-03-09T04:16:47-08:00",
+  "date_updated": "2022-03-09T04:16:47-08:00",
   "active_incidents": [
     {
       "id": 1077,
       "date_created": "2022-03-09T02:49:24-08:00",
-      "date_updated": "2022-03-09T03:43:22-08:00",
+      "date_updated": "2022-03-09T04:16:47-08:00",
       "title": "Trouble with uploading files and other services.",
       "type": "incident",
       "status": "active",
@@ -21,6 +21,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2022-03-09T04:16:47-08:00",
+          "body": "Some users are still experiencing intermittent issues with calls, huddles, email processing, file uploads, emoji reactions retention, new DM groups retention in sidebar, Search, Workflow builder, Workflow pop out windows, Channel creation, API errors and webhooks. We're continuing to investigate and working on a fix. We appreciate your patience and will let you know as soon as we have a new update to share."
+        },
         {
           "date_created": "2022-03-09T03:43:22-08:00",
           "body": "Some users are still experiencing intermittent issues with file uploads, search, emojis, calls/huddles, channel renames, unfurling, and Workflow Builder. We're continuing to investigate and working on a fix. We appreciate your patience and will let you know as soon as we have a new update to share."
