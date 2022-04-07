@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-04-01T09:10:00-07:00",
-  "date_updated": "2022-04-01T09:10:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-04-07T00:50:26-07:00",
+  "date_updated": "2022-04-07T00:50:26-07:00",
+  "active_incidents": [
+    {
+      "id": 1080,
+      "date_created": "2022-04-07T00:50:26-07:00",
+      "date_updated": "2022-04-07T00:50:26-07:00",
+      "title": "Some users are encountering errors when using the Giphy integration",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-04/504ad059c574ce13",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-04-07T00:50:26-07:00",
+          "body": "We're aware of an issue with the Giphy integration within Slack, where users may be seeing error messages, such as \"Oops, Something went wrong\".\r\nWe’re looking into the situation, and will share back updates as soon as we have them."
+        }
+      ]
+    }
+  ]
 }
