@@ -1,33 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2022-04-13T02:31:00-07:00",
   "date_updated": "2022-04-13T02:31:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1081,
-      "date_created": "2022-04-12T22:28:29-07:00",
-      "date_updated": "2022-04-13T02:31:00-07:00",
-      "title": "Some users may be experiencing performance issues within Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-04/d7579c2d23cc1408",
-      "services": [
-        "Search",
-        "Apps/Integrations/APIs",
-        "Link Previews",
-        "Posts/Files",
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-04-13T02:31:00-07:00",
-          "body": "Thank you so much for your patience while we were working on these performance issues within Slack. We are happy to inform you that we were able to fix them, we apologize for any inconvenience this has caused you."
-        },
-        {
-          "date_created": "2022-04-12T22:28:29-07:00",
-          "body": "Some users may be experiencing performance issues within Slack. We're currently investigating and will be back with an update once we have more information to share."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
