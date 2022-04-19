@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-04-13T16:10:40-07:00",
-  "date_updated": "2022-04-13T16:10:40-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-04-19T14:57:41-07:00",
+  "date_updated": "2022-04-19T14:57:41-07:00",
+  "active_incidents": [
+    {
+      "id": 1082,
+      "date_created": "2022-04-19T14:57:41-07:00",
+      "date_updated": "2022-04-19T14:57:41-07:00",
+      "title": "Trouble With Certain Features on Enterprise Grid",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-04/c043db82f7e28e40",
+      "services": [
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-04-19T14:57:41-07:00",
+          "body": "Enterprise Grid customers may be experiencing trouble using certain features in Slack. This may include setting custom statuses and creating channels, and we’ll continue to provide updates as we learn more."
+        }
+      ]
+    }
+  ]
 }
