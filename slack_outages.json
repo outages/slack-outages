@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-04-19T19:48:20-07:00",
-  "date_updated": "2022-04-19T19:48:20-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-04-19T20:46:43-07:00",
+  "date_updated": "2022-04-19T20:46:43-07:00",
+  "active_incidents": [
+    {
+      "id": 1083,
+      "date_created": "2022-04-19T20:46:43-07:00",
+      "date_updated": "2022-04-19T20:46:43-07:00",
+      "title": "Trouble with SCIM deactivating users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-04/0f465d87b7bda153",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-04-19T20:46:43-07:00",
+          "body": "We’re investigating an issue with SCIM deactivating users, and SCIM updates not working as expected. We’re looking into the cause and will provide more information as soon as it's available."
+        }
+      ]
+    }
+  ]
 }
