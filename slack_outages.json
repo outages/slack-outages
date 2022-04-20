@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-04-19T21:51:28-07:00",
-  "date_updated": "2022-04-19T21:51:28-07:00",
+  "date_created": "2022-04-19T22:34:31-07:00",
+  "date_updated": "2022-04-19T22:34:31-07:00",
   "active_incidents": [
     {
       "id": 1083,
       "date_created": "2022-04-19T20:46:43-07:00",
-      "date_updated": "2022-04-19T21:51:28-07:00",
+      "date_updated": "2022-04-19T22:34:31-07:00",
       "title": "Trouble with SCIM deactivating users",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-04-19T22:34:31-07:00",
+          "body": "Our team have now identified all affected users and workspaces. We're still monitoring the situation, and we'll report back with more information in 30 minutes. Thank you for holding tight while we work on this."
+        },
         {
           "date_created": "2022-04-19T21:51:28-07:00",
           "body": "We've identified the root cause of this issue, and SCIM events should now be working as expected. We are actively investigating remediation for affected customers. \r\n\r\nThank you for your patience while we look into this. We'll share another update in 30 minutes."
