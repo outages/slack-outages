@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-04-20T16:48:29-07:00",
-  "date_updated": "2022-04-20T16:48:29-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-04-21T00:17:20-07:00",
+  "date_updated": "2022-04-21T00:17:20-07:00",
+  "active_incidents": [
+    {
+      "id": 1084,
+      "date_created": "2022-04-21T00:17:20-07:00",
+      "date_updated": "2022-04-21T00:17:20-07:00",
+      "title": "Some Android users experiencing issues with notification.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-04/bb43914d5ea35037",
+      "services": [
+        "Notifications"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-04-21T00:17:20-07:00",
+          "body": "We are investigating an issue where some Android users are unable to receive notifications, and will report back once we have more news to share."
+        }
+      ]
+    }
+  ]
 }
