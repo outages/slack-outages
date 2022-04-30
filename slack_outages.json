@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-04-29T23:43:17-07:00",
-  "date_updated": "2022-04-29T23:43:17-07:00",
+  "date_created": "2022-04-30T00:42:17-07:00",
+  "date_updated": "2022-04-30T00:42:17-07:00",
   "active_incidents": [
     {
       "id": 1088,
       "date_created": "2022-04-29T23:43:17-07:00",
-      "date_updated": "2022-04-29T23:43:17-07:00",
+      "date_updated": "2022-04-30T00:42:17-07:00",
       "title": "Some users are being signed out, and unable to sign back in",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-04-30T00:42:17-07:00",
+          "body": "We've identified the root cause of this issue, and we're actively investigating remediation for affected customers.\r\n\r\nThank you for your patience while we look into this. We'll share another update in 60 minutes."
+        },
         {
           "date_created": "2022-04-29T23:43:17-07:00",
           "body": "Some users are being signed out of their workspace sessions, and seeing a server error when attempting to sign back in.\r\n\r\nWe're currently investigating the source of this issue, and we will have another update as soon as there is further information to share. We apologise for the disruption in the meantime."
