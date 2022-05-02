@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-04-30T19:47:17-07:00",
-  "date_updated": "2022-04-30T19:47:17-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-05-02T15:41:52-07:00",
+  "date_updated": "2022-05-02T15:41:52-07:00",
+  "active_incidents": [
+    {
+      "id": 1089,
+      "date_created": "2022-05-02T15:41:52-07:00",
+      "date_updated": "2022-05-02T15:41:52-07:00",
+      "title": "Some users are unable to access channels through channel name links",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-05/d2d59b181378065b",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-05-02T15:41:52-07:00",
+          "body": "Some users on the desktop app may experience issues accessing channels from threads or posts by clicking on the channel name link. This happens to users who've done a hard refresh in the app after around 12:53 PM PST. We recommend users to avoid doing a hard refresh in the meantime.\r\n\r\nAs a workaround, users can access the channel from the sidebar, channel browser or quick switcher. \r\n\r\nOur team is actively working on a fix. Thank you for your patience while we solve the issue."
+        }
+      ]
+    }
+  ]
 }
