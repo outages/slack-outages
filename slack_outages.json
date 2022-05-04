@@ -1,33 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2022-05-04T11:06:04-07:00",
   "date_updated": "2022-05-04T11:06:04-07:00",
-  "active_incidents": [
-    {
-      "id": 1090,
-      "date_created": "2022-05-04T09:51:04-07:00",
-      "date_updated": "2022-05-04T11:06:04-07:00",
-      "title": "Users experiencing connectivity issues",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-05/8c4ea6c334ebe48a",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-05-04T11:06:04-07:00",
-          "body": "The issue is resolved. All customers should be able to connect and send messages as normal. \r\n\r\nWe apologize for the disruption to your work and will be back with an issue summary soon."
-        },
-        {
-          "date_created": "2022-05-04T10:26:32-07:00",
-          "body": "We are seeing some signs of recovery but are continuing to monitor. We will provide another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-05-04T09:51:04-07:00",
-          "body": "Users have reported experiencing connectivity problems including delayed messages and channels not loading. We are working on identifying the issue and will be back soon with an update."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
