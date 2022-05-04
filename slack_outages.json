@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2022-05-02T23:02:15-07:00",
-  "date_updated": "2022-05-02T23:02:15-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-05-04T09:51:04-07:00",
+  "date_updated": "2022-05-04T09:51:04-07:00",
+  "active_incidents": [
+    {
+      "id": 1090,
+      "date_created": "2022-05-04T09:51:04-07:00",
+      "date_updated": "2022-05-04T09:51:04-07:00",
+      "title": "Users experiencing connectivity issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-05/8c4ea6c334ebe48a",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-05-04T09:51:04-07:00",
+          "body": "Users have reported experiencing connectivity problems including delayed messages and channels not loading. We are working on identifying the issue and will be back soon with an update."
+        }
+      ]
+    }
+  ]
 }
