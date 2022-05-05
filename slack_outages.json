@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-05-04T12:47:30-07:00",
-  "date_updated": "2022-05-04T12:47:30-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-05-05T00:34:19-07:00",
+  "date_updated": "2022-05-05T00:34:19-07:00",
+  "active_incidents": [
+    {
+      "id": 1091,
+      "date_created": "2022-05-05T00:34:19-07:00",
+      "date_updated": "2022-05-05T00:34:19-07:00",
+      "title": "Some users may experience loading issues in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-05/cc9534bd47a6152e",
+      "services": [
+        "Messaging",
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-05-05T00:34:19-07:00",
+          "body": "Some users may be experiencing issues loading threads and mentions & reactions. We’re currently investigating the issue and will provide a status update once we have more information."
+        }
+      ]
+    }
+  ]
 }
