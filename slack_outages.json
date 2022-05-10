@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2022-05-10T12:58:49-07:00",
-  "date_updated": "2022-05-10T12:58:49-07:00",
+  "date_created": "2022-05-10T12:41:16-07:00",
+  "date_updated": "2022-05-10T12:41:16-07:00",
   "active_incidents": [
     {
       "id": 1093,
       "date_created": "2022-05-10T12:41:16-07:00",
-      "date_updated": "2022-05-10T12:58:49-07:00",
-      "title": "@mentions causing Slack to crash",
+      "date_updated": "2022-05-10T12:41:16-07:00",
+      "title": "Users encountering \"something went wrong\" when using @mentions",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-05/9ed4b32998f2e1c8",
