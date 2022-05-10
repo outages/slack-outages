@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-05-10T12:41:16-07:00",
-  "date_updated": "2022-05-10T12:41:16-07:00",
+  "date_created": "2022-05-10T13:31:56-07:00",
+  "date_updated": "2022-05-10T13:31:56-07:00",
   "active_incidents": [
     {
       "id": 1093,
       "date_created": "2022-05-10T12:41:16-07:00",
-      "date_updated": "2022-05-10T12:41:16-07:00",
+      "date_updated": "2022-05-10T13:31:56-07:00",
       "title": "Users encountering \"something went wrong\" when using @mentions",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-05-10T13:31:56-07:00",
+          "body": "We’ve isolated the problem and we’re focused on getting Slack working again as soon as possible. Thank you for your continued patience."
+        },
         {
           "date_created": "2022-05-10T12:41:16-07:00",
           "body": "We're receiving reports that users are receiving a \"Something went wrong\" message when using @mentions in Slack. \r\n\r\nWe're actively investigating, and will return shortly with an update."
