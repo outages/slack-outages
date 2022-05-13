@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-05-12T20:32:12-07:00",
-  "date_updated": "2022-05-12T20:32:12-07:00",
-  "active_incidents": [
-    {
-      "id": 1094,
-      "date_created": "2022-05-12T20:32:12-07:00",
-      "date_updated": "2022-05-12T20:32:12-07:00",
-      "title": "Issues with \"More message shortcuts\" menu",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-05/64e39f837afc40d2",
-      "services": [
-        "Messaging",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-05-12T20:32:12-07:00",
-          "body": "We are aware of and investigating issues with the \"More message shortcuts\" menu. Thank you for bearing with us. We will provide more information as soon as possible."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-05-12T23:49:16-07:00",
+  "date_updated": "2022-05-12T23:49:16-07:00",
+  "active_incidents": []
 }
