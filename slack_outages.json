@@ -1,20 +1,25 @@
 {
   "status": "active",
-  "date_created": "2022-05-17T11:28:56-07:00",
-  "date_updated": "2022-05-17T11:28:56-07:00",
+  "date_created": "2022-05-17T11:57:35-07:00",
+  "date_updated": "2022-05-17T11:57:35-07:00",
   "active_incidents": [
     {
       "id": 1095,
       "date_created": "2022-05-17T11:28:56-07:00",
-      "date_updated": "2022-05-17T11:28:56-07:00",
+      "date_updated": "2022-05-17T11:57:35-07:00",
       "title": "Some users may be experiencing issues with search",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-05/a1e4bafda056a4fc",
       "services": [
+        "Search",
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-05-17T11:57:35-07:00",
+          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for your patience as we continue to work towards a fix."
+        },
         {
           "date_created": "2022-05-17T11:28:56-07:00",
           "body": "Some users may be experiencing issues with using the search function in Slack. \r\n \r\nWe're currently investigating the issue and will provide a status update once we have more information."
