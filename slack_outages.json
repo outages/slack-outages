@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-05-17T13:05:22-07:00",
-  "date_updated": "2022-05-17T13:05:22-07:00",
+  "date_created": "2022-05-17T13:39:34-07:00",
+  "date_updated": "2022-05-17T13:39:34-07:00",
   "active_incidents": [
     {
       "id": 1095,
       "date_created": "2022-05-17T11:28:56-07:00",
-      "date_updated": "2022-05-17T13:05:22-07:00",
+      "date_updated": "2022-05-17T13:39:34-07:00",
       "title": "Some users may be experiencing trouble with search, updating user status, and other features",
       "type": "incident",
       "status": "active",
@@ -18,6 +18,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-05-17T13:39:34-07:00",
+          "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue is fully resolved or we have another update to share."
+        },
         {
           "date_created": "2022-05-17T13:05:22-07:00",
           "body": "At this time, some people may also be encountering trouble setting or clearing their user status in Slack, as well as issues related to:\r\n\r\n• Autocomplete in message input\r\n• Workspace Directory\r\n• Quick Switcher\r\n• Channel membership and Channel status\r\n• Apps lists in channels\r\n• User profile details\r\n• Integrations/API messaging\r\n\r\nWe're observing signs of recovery, and are continuing to monitor the situation. We'll be back with another update in 30 minutes."
