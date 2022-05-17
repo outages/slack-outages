@@ -1,23 +1,27 @@
 {
   "status": "active",
-  "date_created": "2022-05-17T13:39:34-07:00",
-  "date_updated": "2022-05-17T13:39:34-07:00",
+  "date_created": "2022-05-17T14:01:58-07:00",
+  "date_updated": "2022-05-17T14:01:58-07:00",
   "active_incidents": [
     {
       "id": 1095,
       "date_created": "2022-05-17T11:28:56-07:00",
-      "date_updated": "2022-05-17T13:39:34-07:00",
+      "date_updated": "2022-05-17T14:01:58-07:00",
       "title": "Some users may be experiencing trouble with search, updating user status, and other features",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-05/a1e4bafda056a4fc",
       "services": [
-        "Apps/Integrations/APIs",
-        "Connections",
         "Messaging",
-        "Search"
+        "Search",
+        "Apps/Integrations/APIs",
+        "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-05-17T14:01:58-07:00",
+          "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue is fully resolved or we have another update to share."
+        },
         {
           "date_created": "2022-05-17T13:39:34-07:00",
           "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue is fully resolved or we have another update to share."
