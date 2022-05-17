@@ -12,15 +12,15 @@
       "status": "active",
       "url": "https://status.slack.com/2022-05/a1e4bafda056a4fc",
       "services": [
-        "Messaging",
-        "Search",
         "Apps/Integrations/APIs",
-        "Connections"
+        "Connections",
+        "Messaging",
+        "Search"
       ],
       "notes": [
         {
           "date_created": "2022-05-17T14:01:58-07:00",
-          "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue is fully resolved or we have another update to share."
+          "body": "We’re starting to see improvements, but still have some work to do. We’ll return with another update shortly."
         },
         {
           "date_created": "2022-05-17T13:39:34-07:00",
