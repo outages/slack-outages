@@ -1,38 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-05-25T10:34:41-07:00",
-  "date_updated": "2022-05-25T10:34:41-07:00",
-  "active_incidents": [
-    {
-      "id": 1096,
-      "date_created": "2022-05-25T07:29:04-07:00",
-      "date_updated": "2022-05-25T10:34:41-07:00",
-      "title": "Brief errors and slowness for some users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-05/87663dfe2a1716ae",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-05-25T10:34:41-07:00",
-          "body": "We're continuing to roll out a fix and are receiving some reports indicating improvement. We'll be back with another update within the hour."
-        },
-        {
-          "date_created": "2022-05-25T09:30:24-07:00",
-          "body": "We have begun to roll out a fix for this and have seen some reports indicating improvement. We are monitoring the situation closely. We will be back with an update soon."
-        },
-        {
-          "date_created": "2022-05-25T08:27:41-07:00",
-          "body": "We are seeing some improvements. However, users are still experiencing some slowness as well as message and API failures in Slack. We are continuing to investigate to find out what is causing these issues. If you are encountering problems, we've noticed that retrying the failed action should allow it to succeed. \r\n\r\nWe thank you for your patience and we'll provide an update soon."
-        },
-        {
-          "date_created": "2022-05-25T07:29:04-07:00",
-          "body": "Users may be experiencing brief errors and slowness in Slack, which is currently being investigated. We'll be back with another update as soon as we have more information to share. We've noticed retrying the failed action should allow it to succeed."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-05-25T11:20:02-07:00",
+  "date_updated": "2022-05-25T11:20:02-07:00",
+  "active_incidents": []
 }
