@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-05-25T08:27:41-07:00",
-  "date_updated": "2022-05-25T08:27:41-07:00",
+  "date_created": "2022-05-25T09:30:24-07:00",
+  "date_updated": "2022-05-25T09:30:24-07:00",
   "active_incidents": [
     {
       "id": 1096,
       "date_created": "2022-05-25T07:29:04-07:00",
-      "date_updated": "2022-05-25T08:27:41-07:00",
+      "date_updated": "2022-05-25T09:30:24-07:00",
       "title": "Brief errors and slowness for some users",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-05-25T09:30:24-07:00",
+          "body": "We have begun to roll out a fix for this and have seen some reports indicating improvement. We are monitoring the situation closely. We will be back with an update soon."
+        },
         {
           "date_created": "2022-05-25T08:27:41-07:00",
           "body": "We are seeing some improvements. However, users are still experiencing some slowness as well as message and API failures in Slack. We are continuing to investigate to find out what is causing these issues. If you are encountering problems, we've noticed that retrying the failed action should allow it to succeed. \r\n\r\nWe thank you for your patience and we'll provide an update soon."
