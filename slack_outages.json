@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-05-17T18:04:32-07:00",
-  "date_updated": "2022-05-17T18:04:32-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-05-25T07:29:04-07:00",
+  "date_updated": "2022-05-25T07:29:04-07:00",
+  "active_incidents": [
+    {
+      "id": 1096,
+      "date_created": "2022-05-25T07:29:04-07:00",
+      "date_updated": "2022-05-25T07:29:04-07:00",
+      "title": "Brief errors and slowness for some users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-05/87663dfe2a1716ae",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-05-25T07:29:04-07:00",
+          "body": "Users may be experiencing brief errors and slowness in Slack, which is currently being investigated. We'll be back with another update as soon as we have more information to share. We've noticed retrying the failed action should allow it to succeed."
+        }
+      ]
+    }
+  ]
 }
