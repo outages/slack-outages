@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-05-25T12:58:20-07:00",
-  "date_updated": "2022-05-25T12:58:20-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-05-31T12:09:31-07:00",
+  "date_updated": "2022-05-31T12:09:31-07:00",
+  "active_incidents": [
+    {
+      "id": 1097,
+      "date_created": "2022-05-31T12:09:31-07:00",
+      "date_updated": "2022-05-31T12:09:31-07:00",
+      "title": "Some users encountering \"Something went wrong\" error message",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-05/eb0055f750df677f",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-05-31T12:09:31-07:00",
+          "body": "Some of our users are encountering an issue with loading the right pane in Slack. We've identified the problem and are working on a fix now."
+        }
+      ]
+    }
+  ]
 }
