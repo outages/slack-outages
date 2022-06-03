@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-06-01T02:45:31-07:00",
-  "date_updated": "2022-06-01T02:45:31-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-06-03T14:06:27-07:00",
+  "date_updated": "2022-06-03T14:06:27-07:00",
+  "active_incidents": [
+    {
+      "id": 1098,
+      "date_created": "2022-06-03T14:06:27-07:00",
+      "date_updated": "2022-06-03T14:06:27-07:00",
+      "title": "Some users may experience loading issues in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-06/97a5e0dcc1a3d6b1",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-06-03T14:06:27-07:00",
+          "body": "Some users may be experiencing issues loading Slack. We’re currently investigating the issue and will provide a status update once we have more information."
+        }
+      ]
+    }
+  ]
 }
