@@ -1,6 +1,27 @@
 {
-  "status": "ok",
-  "date_created": "2022-06-03T14:42:33-07:00",
-  "date_updated": "2022-06-03T14:42:33-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-06-04T02:24:53-07:00",
+  "date_updated": "2022-06-04T02:24:53-07:00",
+  "active_incidents": [
+    {
+      "id": 1099,
+      "date_created": "2022-06-04T02:24:53-07:00",
+      "date_updated": "2022-06-04T02:24:53-07:00",
+      "title": "Trouble with threads and messages",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-06/1979f1fa9cd0e817",
+      "services": [
+        "Messaging",
+        "Posts/Files",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-06-04T02:24:53-07:00",
+          "body": "We’re looking into an issue with sending messages, loading threads, and viewing channel history. Thank you for bearing with us in the meantime."
+        }
+      ]
+    }
+  ]
 }
