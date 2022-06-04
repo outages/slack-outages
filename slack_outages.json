@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-06-04T02:24:53-07:00",
-  "date_updated": "2022-06-04T02:24:53-07:00",
+  "date_created": "2022-06-04T03:01:33-07:00",
+  "date_updated": "2022-06-04T03:01:33-07:00",
   "active_incidents": [
     {
       "id": 1099,
       "date_created": "2022-06-04T02:24:53-07:00",
-      "date_updated": "2022-06-04T02:24:53-07:00",
+      "date_updated": "2022-06-04T03:01:33-07:00",
       "title": "Trouble with threads and messages",
       "type": "incident",
       "status": "active",
@@ -17,6 +17,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-06-04T03:01:33-07:00",
+          "body": "We’ve released a fix. If you’re still encountering any trouble with messaging and threads, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux). Thank you for your patience while we sorted out this issue."
+        },
         {
           "date_created": "2022-06-04T02:24:53-07:00",
           "body": "We’re looking into an issue with sending messages, loading threads, and viewing channel history. Thank you for bearing with us in the meantime."
