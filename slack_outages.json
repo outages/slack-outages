@@ -1,18 +1,22 @@
 {
   "status": "active",
-  "date_created": "2022-06-07T14:30:17-07:00",
-  "date_updated": "2022-06-07T14:30:17-07:00",
+  "date_created": "2022-06-07T15:13:33-07:00",
+  "date_updated": "2022-06-07T15:13:33-07:00",
   "active_incidents": [
     {
       "id": 1101,
       "date_created": "2022-06-07T12:17:36-07:00",
-      "date_updated": "2022-06-07T14:30:17-07:00",
+      "date_updated": "2022-06-07T15:13:33-07:00",
       "title": "Trouble inviting existing workspace users to private channels",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-06/cf2f30a6e0e0447c",
       "services": [],
       "notes": [
+        {
+          "date_created": "2022-06-07T15:13:33-07:00",
+          "body": "Our investigation is still ongoing at this time. We’ll be back with another update in 30 minutes."
+        },
         {
           "date_created": "2022-06-07T14:30:17-07:00",
           "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
