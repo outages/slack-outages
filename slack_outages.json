@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-06-11T10:34:36-07:00",
-  "date_updated": "2022-06-11T10:34:36-07:00",
-  "active_incidents": [
-    {
-      "id": 1102,
-      "date_created": "2022-06-11T10:34:36-07:00",
-      "date_updated": "2022-06-11T10:34:36-07:00",
-      "title": "Sign-in issues from the Slack desktop app.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-06/fa9e9242ea7d7b10",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-06-11T10:34:36-07:00",
-          "body": "We’re investigating reports of trouble signing-in from the Slack desktop app. Our engineers are working hard to resolve this issue as quickly as possible, and we’ll be in touch as soon as it’s fixed or we have next steps to share. We’re very sorry for the inconvenience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-06-11T11:09:59-07:00",
+  "date_updated": "2022-06-11T11:09:59-07:00",
+  "active_incidents": []
 }
