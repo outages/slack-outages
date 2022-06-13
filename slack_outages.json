@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-06-13T07:23:25-07:00",
-  "date_updated": "2022-06-13T07:23:25-07:00",
+  "date_created": "2022-06-13T08:10:08-07:00",
+  "date_updated": "2022-06-13T08:10:08-07:00",
   "active_incidents": [
     {
       "id": 1103,
       "date_created": "2022-06-13T07:23:25-07:00",
-      "date_updated": "2022-06-13T07:23:25-07:00",
+      "date_updated": "2022-06-13T08:10:08-07:00",
       "title": "Address input error preventing upgrades",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2022-06-13T08:10:08-07:00",
+          "body": "We continue to work on a fix for the issue with purchasing or upgrading a paid plan. Customers may be seeing this error \"We couldn't automatically verify your address. If you'd like to contact us, we can get this sorted out. Contact us.\"\r\n\r\nWe've narrowed in that this error should only be impacting some of our customers based in the US.\r\n\r\nOur engineers are currently working to resolve this as quickly as possible. We appreciate your patience in the meantime."
+        },
         {
           "date_created": "2022-06-13T07:23:25-07:00",
           "body": "Some users may be experiencing trouble purchasing a paid plan. We're working hard to resolve this issue as quickly as possible, and we'll be in touch as soon as we have a fix in place or next steps to share. We apologize for any inconvenience in the meantime in upgrading your plan."
