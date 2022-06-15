@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-06-15T14:19:07-07:00",
-  "date_updated": "2022-06-15T14:19:07-07:00",
-  "active_incidents": [
-    {
-      "id": 1104,
-      "date_created": "2022-06-15T14:19:07-07:00",
-      "date_updated": "2022-06-15T14:19:07-07:00",
-      "title": "Some file previews are broken",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-06/b17ffdf99c1217e1",
-      "services": [
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-06-15T14:19:07-07:00",
-          "body": "Some users may be experiencing trouble with viewing files in Slack. We're working hard to resolve this issue as quickly as possible, and we'll share updates as soon as we can. We apologize for any inconvenience this may be causing."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-06-15T15:43:00-07:00",
+  "date_updated": "2022-06-15T15:43:00-07:00",
+  "active_incidents": []
 }
