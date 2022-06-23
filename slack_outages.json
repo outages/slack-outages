@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2022-06-22T16:24:00-07:00",
-  "date_updated": "2022-06-22T16:24:00-07:00",
+  "date_created": "2022-06-22T17:35:00-07:00",
+  "date_updated": "2022-06-22T17:35:00-07:00",
   "active_incidents": [
     {
       "id": 1105,
       "date_created": "2022-06-22T15:50:20-07:00",
-      "date_updated": "2022-06-22T16:24:00-07:00",
-      "title": "Trouble sending messages",
+      "date_updated": "2022-06-22T17:35:00-07:00",
+      "title": "A very small number of users are having trouble sending messages",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-06/089e657e8a6c24b6",
@@ -15,6 +15,14 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-06-22T17:35:00-07:00",
+          "body": "No additional news to share just yet, but we're focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
+        },
+        {
+          "date_created": "2022-06-22T16:51:45-07:00",
+          "body": "We have determined this issue may only be impacting a small number of users and are working on a fix. We appreciate you bearing with us."
+        },
         {
           "date_created": "2022-06-22T16:24:00-07:00",
           "body": "We are still actively investigating this issue and don't have any new information to share at this time. Thank you for your patience as we continue to work towards a fix."
