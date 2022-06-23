@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-06-23T11:45:13-07:00",
-  "date_updated": "2022-06-23T11:45:13-07:00",
+  "date_created": "2022-06-23T12:10:13-07:00",
+  "date_updated": "2022-06-23T12:10:13-07:00",
   "active_incidents": [
     {
       "id": 1106,
       "date_created": "2022-06-23T11:45:13-07:00",
-      "date_updated": "2022-06-23T11:45:13-07:00",
+      "date_updated": "2022-06-23T12:10:13-07:00",
       "title": "Trouble loading threads or channel content",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-06-23T12:10:13-07:00",
+          "body": "We’re still actively investigating this issue. We believe the number of impacted users is low and we’re already seeing some improvement on instances such as conversations loading slowly and thread history missing. We’ll continue to provide updates as we know more."
+        },
         {
           "date_created": "2022-06-23T11:45:13-07:00",
           "body": "Some users might be having trouble loading threads or channel content.  We’ll be back with another update as soon as we have more information to share."
