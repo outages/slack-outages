@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-06-23T15:52:50-07:00",
-  "date_updated": "2022-06-23T15:52:50-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-06-27T23:30:34-07:00",
+  "date_updated": "2022-06-27T23:30:34-07:00",
+  "active_incidents": [
+    {
+      "id": 1109,
+      "date_created": "2022-06-27T23:30:34-07:00",
+      "date_updated": "2022-06-27T23:30:34-07:00",
+      "title": "Trouble with sending workspace invitations",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-06/747714f582f7c4f0",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-06-27T23:30:34-07:00",
+          "body": "Workspace owners and admins may be experiencing issues with sending workspace invitations. We're currently investigating the issue, and we'll provide a status update once we have more information."
+        }
+      ]
+    }
+  ]
 }
