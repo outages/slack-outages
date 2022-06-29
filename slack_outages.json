@@ -1,20 +1,24 @@
 {
   "status": "active",
-  "date_created": "2022-06-28T18:36:58-07:00",
-  "date_updated": "2022-06-28T18:36:58-07:00",
+  "date_created": "2022-06-28T21:20:59-07:00",
+  "date_updated": "2022-06-28T21:20:59-07:00",
   "active_incidents": [
     {
       "id": 1110,
       "date_created": "2022-06-28T18:26:14-07:00",
-      "date_updated": "2022-06-28T18:36:58-07:00",
+      "date_updated": "2022-06-28T21:20:59-07:00",
       "title": "Some invites to users are failing",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-06/0f1c058669d437b2",
       "services": [
-        "Connections"
+        "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2022-06-28T21:20:59-07:00",
+          "body": "We have resolved the underlying problem and new invites are behaving as expected once again. We're still working to address the invites that were sent during this incident, and we'll provide another update once that work is complete.\r\n\r\nIf you need urgent assistance with a failed invite, please contact us at feedback@slack.com.\r\n\r\n\r\nNote: We have updated the affected services to better reflect our understanding of the issue."
+        },
         {
           "date_created": "2022-06-28T18:36:58-07:00",
           "body": "Further investigations are showing that regular member invites are affected as well as guest invites. We're continuing to look into the cause of this issue."
