@@ -1,37 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-06-29T10:25:19-07:00",
-  "date_updated": "2022-06-29T10:25:19-07:00",
-  "active_incidents": [
-    {
-      "id": 1110,
-      "date_created": "2022-06-28T18:26:14-07:00",
-      "date_updated": "2022-06-29T10:25:19-07:00",
-      "title": "Some invites to users are failing",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-06/0f1c058669d437b2",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-06-29T10:25:19-07:00",
-          "body": "While the issue has been solved for new invites, we continue to work on the affected invites during this incident. We'll share an update as soon as a fix is available."
-        },
-        {
-          "date_created": "2022-06-28T21:20:59-07:00",
-          "body": "We have resolved the underlying problem and new invites are behaving as expected once again. We're still working to address the invites that were sent during this incident, and we'll provide another update once that work is complete.\r\n\r\nIf you need urgent assistance with a failed invite, please contact us at feedback@slack.com.\r\n\r\n\r\nNote: We have updated the affected services to better reflect our understanding of the issue."
-        },
-        {
-          "date_created": "2022-06-28T18:36:58-07:00",
-          "body": "Further investigations are showing that regular member invites are affected as well as guest invites. We're continuing to look into the cause of this issue."
-        },
-        {
-          "date_created": "2022-06-28T18:26:14-07:00",
-          "body": "We’re investigating a problem with workspace invites to guest users that appear to fail. We’ll be back with another update as soon as we have more information to share, we’re sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-06-29T12:49:46-07:00",
+  "date_updated": "2022-06-29T12:49:46-07:00",
+  "active_incidents": []
 }
