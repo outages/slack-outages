@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-07-15T00:29:00-07:00",
-  "date_updated": "2022-07-15T00:29:00-07:00",
+  "date_created": "2022-07-15T02:23:34-07:00",
+  "date_updated": "2022-07-15T02:23:34-07:00",
   "active_incidents": [
     {
       "id": 1117,
       "date_created": "2022-07-15T00:29:00-07:00",
-      "date_updated": "2022-07-15T00:29:00-07:00",
+      "date_updated": "2022-07-15T02:23:34-07:00",
       "title": "Joining a huddle meeting starts on mute",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Calls"
       ],
       "notes": [
+        {
+          "date_created": "2022-07-15T02:23:34-07:00",
+          "body": "We're still investigating this issue, but we don't have additional information just yet. We'll continue to keep you informed here."
+        },
         {
           "date_created": "2022-07-15T00:29:00-07:00",
           "body": "We’re receiving reports that joining a huddle on Chrome browser or Windows desktop app starts on mute, not respecting user’s preferences to join unmuted. We’re sorry for the inconvenience. We’ll be back with more information as soon as it’s available, or in 30 minutes."
