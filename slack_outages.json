@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-07-20T13:23:00-07:00",
-  "date_updated": "2022-07-20T13:23:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-07-21T06:01:49-07:00",
+  "date_updated": "2022-07-21T06:01:49-07:00",
+  "active_incidents": [
+    {
+      "id": 1120,
+      "date_created": "2022-07-21T06:01:49-07:00",
+      "date_updated": "2022-07-21T06:01:49-07:00",
+      "title": "Some users may experience loading threads",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-07/14769a35ac370af1",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-07-21T06:01:49-07:00",
+          "body": "We're investigating the issue where threads are not loading for some users. We'll be back with another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
