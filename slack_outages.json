@@ -1,6 +1,29 @@
 {
-  "status": "ok",
-  "date_created": "2022-07-21T10:18:35-07:00",
-  "date_updated": "2022-07-21T10:18:35-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-07-26T06:45:36-07:00",
+  "date_updated": "2022-07-26T06:45:36-07:00",
+  "active_incidents": [
+    {
+      "id": 1121,
+      "date_created": "2022-07-26T06:12:52-07:00",
+      "date_updated": "2022-07-26T06:45:36-07:00",
+      "title": "Message Send Failures",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-07/1387a8fab7d2e2ec",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-07-26T06:45:36-07:00",
+          "body": "Customers may still be experiencing trouble in Slack, specifically with sending messages and loading threads. These features may be working slowly for some users, and not working at all for others. We’ll continue to provide updates as we know more."
+        },
+        {
+          "date_created": "2022-07-26T06:12:52-07:00",
+          "body": "We are receiving multiple reports of threads not loading and some users are unable to send messages. We’re investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
