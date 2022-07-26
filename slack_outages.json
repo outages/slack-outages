@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-07-26T07:19:54-07:00",
-  "date_updated": "2022-07-26T07:19:54-07:00",
+  "date_created": "2022-07-26T07:46:20-07:00",
+  "date_updated": "2022-07-26T07:46:20-07:00",
   "active_incidents": [
     {
       "id": 1121,
       "date_created": "2022-07-26T06:12:52-07:00",
-      "date_updated": "2022-07-26T07:19:54-07:00",
+      "date_updated": "2022-07-26T07:46:20-07:00",
       "title": "Messages, threads, file uploads/downloads and API calls failures.",
       "type": "incident",
       "status": "active",
@@ -17,6 +17,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-07-26T07:46:20-07:00",
+          "body": "We are continuing to work to resolve the current issues surrounding sending messages, loading threads and accessing file uploads. Customers may still be experiencing issues. We'll continue to post updates as we have them. Thank you for your continued patience."
+        },
         {
           "date_created": "2022-07-26T07:19:54-07:00",
           "body": "Some customers may continue to experience trouble sending messages, loading threads and uploading or downloading files. We'll continue to provide further updates as soon as we know more. We thank you for your patience in the meantime."
