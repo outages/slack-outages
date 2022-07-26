@@ -1,39 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-07-26T07:46:20-07:00",
-  "date_updated": "2022-07-26T07:46:20-07:00",
-  "active_incidents": [
-    {
-      "id": 1121,
-      "date_created": "2022-07-26T06:12:52-07:00",
-      "date_updated": "2022-07-26T07:46:20-07:00",
-      "title": "Messages, threads, file uploads/downloads and API calls failures.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-07/1387a8fab7d2e2ec",
-      "services": [
-        "Posts/Files",
-        "Apps/Integrations/APIs",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-07-26T07:46:20-07:00",
-          "body": "We are continuing to work to resolve the current issues surrounding sending messages, loading threads and accessing file uploads. Customers may still be experiencing issues. We'll continue to post updates as we have them. Thank you for your continued patience."
-        },
-        {
-          "date_created": "2022-07-26T07:19:54-07:00",
-          "body": "Some customers may continue to experience trouble sending messages, loading threads and uploading or downloading files. We'll continue to provide further updates as soon as we know more. We thank you for your patience in the meantime."
-        },
-        {
-          "date_created": "2022-07-26T06:45:36-07:00",
-          "body": "Customers may still be experiencing trouble in Slack, specifically with sending messages and loading threads. These features may be working slowly for some users, and not working at all for others. We’ll continue to provide updates as we know more."
-        },
-        {
-          "date_created": "2022-07-26T06:12:52-07:00",
-          "body": "We are receiving multiple reports of threads not loading and some users are unable to send messages. We’re investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-07-26T08:03:00-07:00",
+  "date_updated": "2022-07-26T08:03:00-07:00",
+  "active_incidents": []
 }
