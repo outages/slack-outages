@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-07-26T17:22:18-07:00",
-  "date_updated": "2022-07-26T17:22:18-07:00",
-  "active_incidents": [
-    {
-      "id": 1122,
-      "date_created": "2022-07-26T17:22:18-07:00",
-      "date_updated": "2022-07-26T17:22:18-07:00",
-      "title": "Issues with some third-party apps",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-07/7b4e2f41caf96a5e",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-07-26T17:22:18-07:00",
-          "body": "Some third-party apps may be experiencing connection issues. We're investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-07-26T19:15:22-07:00",
+  "date_updated": "2022-07-26T19:15:22-07:00",
+  "active_incidents": []
 }
