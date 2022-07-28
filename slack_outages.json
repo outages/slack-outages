@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-07-28T13:39:12-07:00",
-  "date_updated": "2022-07-28T13:39:12-07:00",
-  "active_incidents": [
-    {
-      "id": 1123,
-      "date_created": "2022-07-28T13:39:12-07:00",
-      "date_updated": "2022-07-28T13:39:12-07:00",
-      "title": "Some Users Unable to Change Workspace Plan",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-07/d7c996675ec57c8d",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-07-28T13:39:12-07:00",
-          "body": "We're receiving reports around users having trouble changing a workspace's plan via the Billing page. We're on the case and will provide another update once we have more details to share. We're sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-07-28T14:14:47-07:00",
+  "date_updated": "2022-07-28T14:14:47-07:00",
+  "active_incidents": []
 }
