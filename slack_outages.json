@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-07-28T20:12:03-07:00",
-  "date_updated": "2022-07-28T20:12:03-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-01T12:47:07-07:00",
+  "date_updated": "2022-08-01T12:47:07-07:00",
+  "active_incidents": [
+    {
+      "id": 1124,
+      "date_created": "2022-08-01T12:47:07-07:00",
+      "date_updated": "2022-08-01T12:47:07-07:00",
+      "title": "Errors when using apps",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/962ff548f7bd849a",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-01T12:47:07-07:00",
+          "body": "We’ve received reports of users running into `invalid_auth` when using apps/integrations. We’re investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
