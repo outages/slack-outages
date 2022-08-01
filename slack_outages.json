@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-08-01T14:26:40-07:00",
-  "date_updated": "2022-08-01T14:26:40-07:00",
-  "active_incidents": [
-    {
-      "id": 1124,
-      "date_created": "2022-08-01T12:47:07-07:00",
-      "date_updated": "2022-08-01T14:26:40-07:00",
-      "title": "Errors when using apps and integrations",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-08/962ff548f7bd849a",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-08-01T14:26:40-07:00",
-          "body": "We’ve begun rolling out a fix. We’ll return with another update once rollout has concluded — thanks for your continued patience."
-        },
-        {
-          "date_created": "2022-08-01T13:22:58-07:00",
-          "body": "While investigating we found Workflows are also impacted. The good news is we’ve identified a potential fix which will be rolled out soon."
-        },
-        {
-          "date_created": "2022-08-01T12:47:07-07:00",
-          "body": "We’ve received reports of users running into `invalid_auth` when using apps/integrations. We’re investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-08-01T15:03:50-07:00",
+  "date_updated": "2022-08-01T15:03:50-07:00",
+  "active_incidents": []
 }
