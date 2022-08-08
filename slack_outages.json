@@ -1,6 +1,29 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-01T20:06:54-07:00",
-  "date_updated": "2022-08-01T20:06:54-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-08T11:27:32-07:00",
+  "date_updated": "2022-08-08T11:27:32-07:00",
+  "active_incidents": [
+    {
+      "id": 1125,
+      "date_created": "2022-08-08T11:21:10-07:00",
+      "date_updated": "2022-08-08T11:27:32-07:00",
+      "title": "Files aren't loading in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/8ad6d89ac5f96f67",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-08T11:27:32-07:00",
+          "body": "Upon further investigation, we found that files aren't loading in Slack. For example, images are appearing blurry."
+        },
+        {
+          "date_created": "2022-08-08T11:21:10-07:00",
+          "body": "We are receiving multiple reports of images not loading. We’re investigating and will let you know as soon as we have further information to share. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
