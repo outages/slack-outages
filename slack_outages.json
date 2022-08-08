@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-08T11:27:32-07:00",
-  "date_updated": "2022-08-08T11:27:32-07:00",
+  "date_created": "2022-08-08T11:40:17-07:00",
+  "date_updated": "2022-08-08T11:40:17-07:00",
   "active_incidents": [
     {
       "id": 1125,
       "date_created": "2022-08-08T11:21:10-07:00",
-      "date_updated": "2022-08-08T11:27:32-07:00",
+      "date_updated": "2022-08-08T11:40:17-07:00",
       "title": "Files aren't loading in Slack",
       "type": "incident",
       "status": "active",
