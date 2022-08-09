@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-08T23:55:19-07:00",
-  "date_updated": "2022-08-08T23:55:19-07:00",
+  "date_created": "2022-08-09T01:47:04-07:00",
+  "date_updated": "2022-08-09T01:47:04-07:00",
   "active_incidents": [
     {
       "id": 1126,
       "date_created": "2022-08-08T23:41:31-07:00",
-      "date_updated": "2022-08-08T23:55:19-07:00",
+      "date_updated": "2022-08-09T01:47:04-07:00",
       "title": "Trouble with uploading and downloading files in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-08-09T01:47:04-07:00",
+          "body": "We're still looking into the issue and investigating the root cause, but we don't have any additional information just yet. We'll continue to keep you updated here."
+        },
         {
           "date_created": "2022-08-08T23:41:31-07:00",
           "body": "Some customers may be experiencing trouble uploading and downloading files in Slack. We apologize for the disruption.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available."
