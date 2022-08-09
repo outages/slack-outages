@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-09T11:39:00-07:00",
-  "date_updated": "2022-08-09T11:39:00-07:00",
+  "date_created": "2022-08-09T12:02:00-07:00",
+  "date_updated": "2022-08-09T12:02:00-07:00",
   "active_incidents": [
     {
       "id": 1127,
       "date_created": "2022-08-09T11:17:04-07:00",
-      "date_updated": "2022-08-09T11:39:00-07:00",
+      "date_updated": "2022-08-09T12:02:00-07:00",
       "title": "Trouble with DMs, Threads, and Workflows",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-08-09T11:55:00-07:00",
+          "body": "We’re continuing to investigate this issue, with it currently only impacting organizations with Enterprise Key Management (EKM) enabled. We will continue sharing updates as soon as they become available and we thank you for your patience."
+        },
         {
           "date_created": "2022-08-09T11:39:00-07:00",
           "body": "We’re still actively investigating this issue but have determined that this is only impacting organizations with Enterprise Key Management (EKM) enabled. We will continue sharing updates as soon as they're available. Thank you for your patience!"
