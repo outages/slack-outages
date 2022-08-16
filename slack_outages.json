@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-10T08:00:57-07:00",
-  "date_updated": "2022-08-10T08:00:57-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-15T17:25:30-07:00",
+  "date_updated": "2022-08-15T17:25:30-07:00",
+  "active_incidents": [
+    {
+      "id": 1128,
+      "date_created": "2022-08-15T17:25:30-07:00",
+      "date_updated": "2022-08-15T17:25:30-07:00",
+      "title": "Issues with sending messages with custom emoji",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/0418b1f6208d547a",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-15T17:25:30-07:00",
+          "body": "Some customers may be experiencing issues with sending messages with custom emoji. \r\n\r\nWe’re actively looking into this, and we’ll report back as more information becomes available. We apologise for the disruption."
+        }
+      ]
+    }
+  ]
 }
