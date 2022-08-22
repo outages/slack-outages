@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-15T20:54:06-07:00",
-  "date_updated": "2022-08-15T20:54:06-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-22T01:20:19-07:00",
+  "date_updated": "2022-08-22T01:20:19-07:00",
+  "active_incidents": [
+    {
+      "id": 1129,
+      "date_created": "2022-08-22T01:20:19-07:00",
+      "date_updated": "2022-08-22T01:20:19-07:00",
+      "title": "Fatal Errors with interactive Messages",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/1e5a17ebecd2bda4",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-22T01:20:19-07:00",
+          "body": "Some customers may be experiencing issues using the buttons on interactive messages with an attachment.\r\n\r\nWe’re actively looking into this, and we’ll report back as more information becomes available. We apologise for the disruption."
+        }
+      ]
+    }
+  ]
 }
