@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-23T07:55:37-07:00",
-  "date_updated": "2022-08-23T07:55:37-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-23T13:13:26-07:00",
+  "date_updated": "2022-08-23T13:13:26-07:00",
+  "active_incidents": [
+    {
+      "id": 1131,
+      "date_created": "2022-08-23T13:13:26-07:00",
+      "date_updated": "2022-08-23T13:13:26-07:00",
+      "title": "Various API calls failing",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/477ba9fefe50a765",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-23T13:13:26-07:00",
+          "body": "Some users might be experiencing overall difficulty loading Slack and taking actions like sending a message. We are looking into it. Thank you for your patience."
+        }
+      ]
+    }
+  ]
 }
