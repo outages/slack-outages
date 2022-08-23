@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-22T10:11:30-07:00",
-  "date_updated": "2022-08-22T10:11:30-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-22T20:29:42-07:00",
+  "date_updated": "2022-08-22T20:29:42-07:00",
+  "active_incidents": [
+    {
+      "id": 1130,
+      "date_created": "2022-08-22T20:29:42-07:00",
+      "date_updated": "2022-08-22T20:29:42-07:00",
+      "title": "Some users are encountering a \"Reload required\" message",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/fffc131e21aa14a4",
+      "services": [
+        "Login/SSO",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-22T20:29:42-07:00",
+          "body": "Some users are having trouble connecting to Slack after receiving a \"Reload Required\" message. We are currently investigating and will let you know as soon as we know more."
+        }
+      ]
+    }
+  ]
 }
