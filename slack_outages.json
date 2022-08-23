@@ -12,8 +12,8 @@
       "status": "active",
       "url": "https://status.slack.com/2022-08/fffc131e21aa14a4",
       "services": [
-        "Login/SSO",
-        "Connections"
+        "Connections",
+        "Login/SSO"
       ],
       "notes": [
         {
