@@ -7,7 +7,7 @@
       "id": 1131,
       "date_created": "2022-08-23T13:13:26-07:00",
       "date_updated": "2022-08-23T14:31:21-07:00",
-      "title": "Various API calls failing",
+      "title": "Trouble loading and sending messages in Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-08/477ba9fefe50a765",
