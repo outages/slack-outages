@@ -1,34 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-08-23T14:31:21-07:00",
-  "date_updated": "2022-08-23T14:31:21-07:00",
-  "active_incidents": [
-    {
-      "id": 1131,
-      "date_created": "2022-08-23T13:13:26-07:00",
-      "date_updated": "2022-08-23T14:31:21-07:00",
-      "title": "Trouble loading and sending messages in Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-08/477ba9fefe50a765",
-      "services": [
-        "Messaging",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-08-23T14:31:21-07:00",
-          "body": "No additional news to share just yet, our investigation is still ongoing at this time. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-08-23T13:49:58-07:00",
-          "body": "Users should no longer be experiencing trouble but we’re still actively monitoring this issue. We’ll be back with another update as soon as we have more information."
-        },
-        {
-          "date_created": "2022-08-23T13:13:26-07:00",
-          "body": "Some users might be experiencing overall difficulty loading Slack and taking actions like sending a message. We are looking into it. Thank you for your patience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-08-23T15:23:36-07:00",
+  "date_updated": "2022-08-23T15:23:36-07:00",
+  "active_incidents": []
 }
