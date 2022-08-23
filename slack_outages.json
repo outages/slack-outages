@@ -12,13 +12,13 @@
       "status": "active",
       "url": "https://status.slack.com/2022-08/fffc131e21aa14a4",
       "services": [
-        "Login/SSO",
-        "Connections"
+        "Connections",
+        "Login/SSO"
       ],
       "notes": [
         {
           "date_created": "2022-08-23T02:24:34-07:00",
-          "body": "Our team is investigating this issue but have identified a potential workaround. Impacted users are asked to try and reload Slack twice (Cmd/Ctrl + Shift + R) to see if it removes the \"Reload Required\" message.\r\n\r\nPlease reach out to us if you are still experiencing issues after trying to refresh Slack."
+          "body": "Our team is investigating this issue but have identified a potential fix. Impacted users are asked to try and reload Slack twice (Cmd/Ctrl + Shift + R) to see if it removes the \"Reload Required\" message.\r\n\r\nPlease reach out to us if you are still experiencing issues after trying to refresh Slack."
         },
         {
           "date_created": "2022-08-22T20:29:42-07:00",
