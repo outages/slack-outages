@@ -12,7 +12,8 @@
       "status": "active",
       "url": "https://status.slack.com/2022-08/477ba9fefe50a765",
       "services": [
-        "Messaging"
+        "Messaging",
+        "Apps/Integrations/APIs"
       ],
       "notes": [
         {
