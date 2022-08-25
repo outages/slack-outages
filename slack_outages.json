@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-08-25T12:32:22-07:00",
-  "date_updated": "2022-08-25T12:32:22-07:00",
-  "active_incidents": [
-    {
-      "id": 1132,
-      "date_created": "2022-08-25T12:32:22-07:00",
-      "date_updated": "2022-08-25T12:32:22-07:00",
-      "title": "Workflow Builder screen not loading",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-08/1afbcbaeecc2f6a8",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-08-25T12:32:22-07:00",
-          "body": "Some customers may be experiencing trouble with loading the Workflow Builder screen. We're investigating this issue and we'll provide more details as we learn more. Thank you for bearing with us in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-08-25T12:52:10-07:00",
+  "date_updated": "2022-08-25T12:52:10-07:00",
+  "active_incidents": []
 }
