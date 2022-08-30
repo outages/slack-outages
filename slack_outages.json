@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-25T16:06:37-07:00",
-  "date_updated": "2022-08-25T16:06:37-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-30T08:16:30-07:00",
+  "date_updated": "2022-08-30T08:16:30-07:00",
+  "active_incidents": [
+    {
+      "id": 1133,
+      "date_created": "2022-08-30T08:16:30-07:00",
+      "date_updated": "2022-08-30T08:16:30-07:00",
+      "title": "Mark as Read preferences not being respected",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/09a013b17a720bc4",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-30T08:16:30-07:00",
+          "body": "Some users are reporting their Mark as Read preferences are not being respected. Users may be able to manually update their preferences to restore them back to their expected state.\r\nOur engineering team is currently investigating and we'll provide an update as soon as one is available. Sorry for any disruption this may cause."
+        }
+      ]
+    }
+  ]
 }
