@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-30T08:16:30-07:00",
-  "date_updated": "2022-08-30T08:16:30-07:00",
+  "date_created": "2022-08-30T13:22:53-07:00",
+  "date_updated": "2022-08-30T13:22:53-07:00",
   "active_incidents": [
     {
       "id": 1133,
       "date_created": "2022-08-30T08:16:30-07:00",
-      "date_updated": "2022-08-30T08:16:30-07:00",
+      "date_updated": "2022-08-30T13:22:53-07:00",
       "title": "Mark as Read preferences not being respected",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-08-30T13:22:53-07:00",
+          "body": "We’re still investigating this issue, but we don’t have additional information just yet. We're so sorry for the interruption! If we find out more, we’ll let you know."
+        },
         {
           "date_created": "2022-08-30T08:16:30-07:00",
           "body": "Some users are reporting their Mark as Read preferences are not being respected. Users may be able to manually update their preferences to restore them back to their expected state.\r\nOur engineering team is currently investigating and we'll provide an update as soon as one is available. Sorry for any disruption this may cause."
