@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-31T08:22:11-07:00",
-  "date_updated": "2022-08-31T08:22:11-07:00",
+  "date_created": "2022-08-31T13:38:56-07:00",
+  "date_updated": "2022-08-31T13:38:56-07:00",
   "active_incidents": [
     {
       "id": 1134,
       "date_created": "2022-08-30T19:53:55-07:00",
-      "date_updated": "2022-08-31T08:22:11-07:00",
+      "date_updated": "2022-08-31T13:38:56-07:00",
       "title": "Issues setting up SSO for some users.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-08-31T13:38:56-07:00",
+          "body": "We've rolled out a fix and SSO configuration is now working as expected. Thank you for your patience while we sorted out this issue."
+        },
         {
           "date_created": "2022-08-31T08:22:11-07:00",
           "body": "We're continuing to investigate the issue regarding some Enterprise Grid customers seeing errors when attempting to set up SSO on their org. \r\n\r\nWe'll post an update just as soon as we have more information to share. Thank you for your continued patience."
