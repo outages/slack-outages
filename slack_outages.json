@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-30T14:37:22-07:00",
-  "date_updated": "2022-08-30T14:37:22-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-30T19:53:55-07:00",
+  "date_updated": "2022-08-30T19:53:55-07:00",
+  "active_incidents": [
+    {
+      "id": 1134,
+      "date_created": "2022-08-30T19:53:55-07:00",
+      "date_updated": "2022-08-30T19:53:55-07:00",
+      "title": "Issues setting up SSO for some users.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/ed2b06a765317908",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-30T19:53:55-07:00",
+          "body": "Some Enterprise Grid customers may see errors when attempting to set up SSO on their org. This does not appear to impact existing SSO configurations at this time. \r\n\r\nWe’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
