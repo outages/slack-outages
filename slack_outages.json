@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-08-31T13:38:56-07:00",
-  "date_updated": "2022-08-31T13:38:56-07:00",
+  "date_created": "2022-08-31T15:32:48-07:00",
+  "date_updated": "2022-08-31T15:32:48-07:00",
   "active_incidents": [
     {
       "id": 1134,
       "date_created": "2022-08-30T19:53:55-07:00",
-      "date_updated": "2022-08-31T13:38:56-07:00",
+      "date_updated": "2022-08-31T15:32:48-07:00",
       "title": "Issues setting up SSO for some users.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-08-31T15:32:48-07:00",
+          "body": "Issue summary:\r\nFrom Monday August 29 at 10:11 AM PDT to Wednesday August 31st at 12:42 PM PDT, some Grid customers were running into errors when configuring SSO settings for their workspaces. Upon investigation, we identified an issue that was resulting in empty SAML configuration files. These empty files triggered the errors seen by users.\r\n\r\nRemoving the offending file fixed the issue for all affected users."
+        },
         {
           "date_created": "2022-08-31T13:38:56-07:00",
           "body": "We've rolled out a fix and SSO configuration is now working as expected. Thank you for your patience while we sorted out this issue."
