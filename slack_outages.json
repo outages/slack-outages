@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2022-08-31T15:32:48-07:00",
-  "date_updated": "2022-08-31T15:32:48-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-08-31T23:04:27-07:00",
+  "date_updated": "2022-08-31T23:04:27-07:00",
+  "active_incidents": [
+    {
+      "id": 1135,
+      "date_created": "2022-08-31T23:04:27-07:00",
+      "date_updated": "2022-08-31T23:04:27-07:00",
+      "title": "Issues with the Slack interface",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-08/aeda713fb0151d46",
+      "services": [
+        "Messaging",
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-08-31T23:04:27-07:00",
+          "body": "Some customers may be experiencing visual issues with the Slack interface, including issues with the message input box overlapping channel content, and overlapping file thumbnails. \r\n\r\nWe're investigating and we're very sorry for the disruption. We'll provide an update as soon as we have more information."
+        }
+      ]
+    }
+  ]
 }
