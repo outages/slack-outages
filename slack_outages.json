@@ -1,8 +1,24 @@
 {
   "status": "active",
-  "date_created": "2022-09-05T08:09:43-07:00",
-  "date_updated": "2022-09-05T08:09:43-07:00",
+  "date_created": "2022-09-06T11:54:05-07:00",
+  "date_updated": "2022-09-06T11:54:05-07:00",
   "active_incidents": [
+    {
+      "id": 1138,
+      "date_created": "2022-09-06T11:54:05-07:00",
+      "date_updated": "2022-09-06T11:54:05-07:00",
+      "title": "Support Ticket Service Provider experiencing some issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/ea1c1840310f6593",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-09-06T11:54:05-07:00",
+          "body": "Our support ticket service provider has reported an incident whereby email ticket creation may not be working. \r\n\r\nSubmitting a help request via /feedback or our Contact Us page is working as expected.\r\n\r\nWe’re monitoring this issue and will provide updates as they become available to us."
+        }
+      ]
+    },
     {
       "id": 1136,
       "date_created": "2022-09-05T08:09:43-07:00",
