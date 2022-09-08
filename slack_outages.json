@@ -7,7 +7,7 @@
       "id": 1139,
       "date_created": "2022-09-08T07:42:16-07:00",
       "date_updated": "2022-09-08T07:42:16-07:00",
-      "title": "Message composer broken for some users drafting a message that contains a link/hyperlink",
+      "title": "Some users may experience issues drafting a message that contains a link/hyperlink",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-09/80573d91231d5ea0",
