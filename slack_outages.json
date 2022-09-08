@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-09-07T12:01:04-07:00",
-  "date_updated": "2022-09-07T12:01:04-07:00",
+  "date_created": "2022-09-08T07:42:16-07:00",
+  "date_updated": "2022-09-08T07:42:16-07:00",
   "active_incidents": [
+    {
+      "id": 1139,
+      "date_created": "2022-09-08T07:42:16-07:00",
+      "date_updated": "2022-09-08T07:42:16-07:00",
+      "title": "Message composer broken for some users drafting a message that contains a link/hyperlink",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/80573d91231d5ea0",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-08T07:42:16-07:00",
+          "body": "Some users may be experiencing issues with drafting their messages and seeing unexpected character replacements when links with quotes are used.\r\n\r\nWe’re actively looking into this, and we’ll report back as more information becomes available. We apologize for the disruption."
+        }
+      ]
+    },
     {
       "id": 1136,
       "date_created": "2022-09-05T08:09:43-07:00",
