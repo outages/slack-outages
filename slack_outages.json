@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-09-08T15:09:38-07:00",
-  "date_updated": "2022-09-08T15:09:38-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-09-12T14:24:40-07:00",
+  "date_updated": "2022-09-12T14:24:40-07:00",
+  "active_incidents": [
+    {
+      "id": 1140,
+      "date_created": "2022-09-12T14:24:40-07:00",
+      "date_updated": "2022-09-12T14:24:40-07:00",
+      "title": "Some users might have trouble with Posts",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/29f29ddbaf35791a",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-12T14:24:40-07:00",
+          "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
+        }
+      ]
+    }
+  ]
 }
