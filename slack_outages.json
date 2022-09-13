@@ -1,8 +1,34 @@
 {
   "status": "active",
-  "date_created": "2022-09-13T15:55:10-07:00",
-  "date_updated": "2022-09-13T15:55:10-07:00",
+  "date_created": "2022-09-13T16:15:14-07:00",
+  "date_updated": "2022-09-13T16:15:14-07:00",
   "active_incidents": [
+    {
+      "id": 1140,
+      "date_created": "2022-09-12T14:24:40-07:00",
+      "date_updated": "2022-09-13T16:15:14-07:00",
+      "title": "Some users might have trouble with posts",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/29f29ddbaf35791a",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-13T16:15:14-07:00",
+          "body": "We're still investigating this issue impacting creating and editing posts. We appreciate your continued patience as we work towards a solution."
+        },
+        {
+          "date_created": "2022-09-13T01:46:34-07:00",
+          "body": "We are continuing to investigate this issue. Apologies for any disruption caused by this - we'll let you know as soon as we find out more."
+        },
+        {
+          "date_created": "2022-09-12T14:24:40-07:00",
+          "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
+        }
+      ]
+    },
     {
       "id": 1141,
       "date_created": "2022-09-13T15:55:10-07:00",
@@ -18,28 +44,6 @@
         {
           "date_created": "2022-09-13T15:55:10-07:00",
           "body": "Direct Messages with three or more people are missing from the Direct Message list for all workspaces. We are currently investigating the cause and will update here. We apologize for the inconvenience!"
-        }
-      ]
-    },
-    {
-      "id": 1140,
-      "date_created": "2022-09-12T14:24:40-07:00",
-      "date_updated": "2022-09-13T01:46:34-07:00",
-      "title": "Some users might have trouble with posts",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-09/29f29ddbaf35791a",
-      "services": [
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-09-13T01:46:34-07:00",
-          "body": "We are continuing to investigate this issue. Apologies for any disruption caused by this - we'll let you know as soon as we find out more."
-        },
-        {
-          "date_created": "2022-09-12T14:24:40-07:00",
-          "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
         }
       ]
     }
