@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-09-12T14:24:40-07:00",
-  "date_updated": "2022-09-12T14:24:40-07:00",
+  "date_created": "2022-09-13T01:46:34-07:00",
+  "date_updated": "2022-09-13T01:46:34-07:00",
   "active_incidents": [
     {
       "id": 1140,
       "date_created": "2022-09-12T14:24:40-07:00",
-      "date_updated": "2022-09-12T14:24:40-07:00",
+      "date_updated": "2022-09-13T01:46:34-07:00",
       "title": "Some users might have trouble with posts",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-09-13T01:46:34-07:00",
+          "body": "We're still investigating the problem some people are having with delays when creating and editing posts. \r\nAgain, we're so sorry for the interruption! We'll let you know as soon as we find out more."
+        },
         {
           "date_created": "2022-09-12T14:24:40-07:00",
           "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
