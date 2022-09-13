@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-09-13T01:46:34-07:00",
-  "date_updated": "2022-09-13T01:46:34-07:00",
+  "date_created": "2022-09-13T15:55:10-07:00",
+  "date_updated": "2022-09-13T15:55:10-07:00",
   "active_incidents": [
+    {
+      "id": 1141,
+      "date_created": "2022-09-13T15:55:10-07:00",
+      "date_updated": "2022-09-13T15:55:10-07:00",
+      "title": "Direct Messages with three or more people are missing from the Direct Message list for all workspaces",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/abdf34f4cfab096e",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-13T15:55:10-07:00",
+          "body": "Direct Messages with three or more people are missing from the Direct Message list for all workspaces. We are currently investigating the cause and will update here. We apologize for the inconvenience!"
+        }
+      ]
+    },
     {
       "id": 1140,
       "date_created": "2022-09-12T14:24:40-07:00",
