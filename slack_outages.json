@@ -28,24 +28,6 @@
           "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
         }
       ]
-    },
-    {
-      "id": 1141,
-      "date_created": "2022-09-13T15:55:10-07:00",
-      "date_updated": "2022-09-13T15:55:10-07:00",
-      "title": "Direct Messages with three or more people are missing from the Direct Message list for all workspaces",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-09/abdf34f4cfab096e",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-09-13T15:55:10-07:00",
-          "body": "Direct Messages with three or more people are missing from the Direct Message list for all workspaces. We are currently investigating the cause and will update here. We apologize for the inconvenience!"
-        }
-      ]
     }
   ]
 }
