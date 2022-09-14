@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-09-13T16:15:14-07:00",
-  "date_updated": "2022-09-13T16:15:14-07:00",
+  "date_created": "2022-09-13T19:29:59-07:00",
+  "date_updated": "2022-09-13T19:29:59-07:00",
   "active_incidents": [
+    {
+      "id": 1142,
+      "date_created": "2022-09-13T19:29:59-07:00",
+      "date_updated": "2022-09-13T19:29:59-07:00",
+      "title": "Spreadsheet data added using workflows may be incorrect",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/c3bf22ba48b2930b",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-13T19:29:59-07:00",
+          "body": "We’ve identified an issue where using the workflow tool to add a row to a spreadsheet is mistakenly inserting incorrect time information, causing errors when attempting to retrieve spreadsheet data. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
+        }
+      ]
+    },
     {
       "id": 1140,
       "date_created": "2022-09-12T14:24:40-07:00",
