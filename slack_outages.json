@@ -32,28 +32,6 @@
           "body": "Some users may be experiencing long delays when creating and editing posts. \r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
         }
       ]
-    },
-    {
-      "id": 1142,
-      "date_created": "2022-09-13T19:29:59-07:00",
-      "date_updated": "2022-09-14T07:20:00-07:00",
-      "title": "Spreadsheet data added using workflows may be incorrect",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-09/c3bf22ba48b2930b",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-09-14T07:20:00-07:00",
-          "body": "We are still investigating an issue where using the workflow tool to add a row to a spreadsheet is mistakenly inserting incorrect time information, causing errors when attempting to retrieve spreadsheet data. We will let you know as soon as we have any updates. Thank you for your patience while we look into this."
-        },
-        {
-          "date_created": "2022-09-13T19:29:59-07:00",
-          "body": "We’ve identified an issue where using the workflow tool to add a row to a spreadsheet is mistakenly inserting incorrect time information, causing errors when attempting to retrieve spreadsheet data. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
-        }
-      ]
     }
   ]
 }
