@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-09-15T10:32:19-07:00",
-  "date_updated": "2022-09-15T10:32:19-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-09-24T06:29:11-07:00",
+  "date_updated": "2022-09-24T06:29:11-07:00",
+  "active_incidents": [
+    {
+      "id": 1144,
+      "date_created": "2022-09-24T06:29:11-07:00",
+      "date_updated": "2022-09-24T06:29:11-07:00",
+      "title": "Issues downloading files on Slack Android app version 22.09.30",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/1858cb1fccf03b42",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-24T06:29:11-07:00",
+          "body": "Some users may experience trouble downloading files on Slack Android app, latest version: 22.09.30. To check your current version, go to \"You\" tab in your Slack app > \"Preferences\" > Scroll to the bottom of the page. We apologize for the inconvenience. We're investigating and will let you know as soon as we know more. Thank you for your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
