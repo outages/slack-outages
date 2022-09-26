@@ -1,8 +1,27 @@
 {
   "status": "active",
-  "date_created": "2022-09-24T07:00:00-07:00",
-  "date_updated": "2022-09-24T07:00:00-07:00",
+  "date_created": "2022-09-25T21:44:01-07:00",
+  "date_updated": "2022-09-25T21:44:01-07:00",
   "active_incidents": [
+    {
+      "id": 1145,
+      "date_created": "2022-09-25T21:44:01-07:00",
+      "date_updated": "2022-09-25T21:44:01-07:00",
+      "title": "Some customers may not be receiving notifications via the Salesforce for Slack app.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/5c0916c535d67cec",
+      "services": [
+        "Notifications",
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-25T21:44:01-07:00",
+          "body": "We’re investigating an issue where some customers are unable to receive notifications via the Salesforce for Slack app. We’ll be back with another update as soon as we have more information to share."
+        }
+      ]
+    },
     {
       "id": 1144,
       "date_created": "2022-09-24T06:29:11-07:00",
