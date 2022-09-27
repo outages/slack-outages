@@ -1,38 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-09-27T00:24:32-07:00",
-  "date_updated": "2022-09-27T00:24:32-07:00",
-  "active_incidents": [
-    {
-      "id": 1146,
-      "date_created": "2022-09-26T22:32:45-07:00",
-      "date_updated": "2022-09-27T00:24:32-07:00",
-      "title": "Issues with legacy message attachments",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-09/ca18055bcf82c232",
-      "services": [
-        "Messaging",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-09-27T00:24:32-07:00",
-          "body": "We’re still investigating issues with legacy message attachments. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
-        },
-        {
-          "date_created": "2022-09-26T23:32:49-07:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2022-09-26T23:02:17-07:00",
-          "body": "We’re continuing to investigate this issue, but we don’t have new information to share currently. Thank you for your patience, we'll be back with an update in 30 minutes time."
-        },
-        {
-          "date_created": "2022-09-26T22:32:45-07:00",
-          "body": "Some customers may be encountering issues with legacy message attachments on version 4.28.182 of the Slack desktop app. Some messages are being rendered with URLs instead of links. \r\n\r\nWe are investigating the problem and we apologise for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-09-27T00:54:19-07:00",
+  "date_updated": "2022-09-27T00:54:19-07:00",
+  "active_incidents": []
 }
