@@ -1,45 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2022-09-27T14:51:01-07:00",
   "date_updated": "2022-09-27T14:51:01-07:00",
-  "active_incidents": [
-    {
-      "id": 1147,
-      "date_created": "2022-09-27T10:01:27-07:00",
-      "date_updated": "2022-09-27T14:51:01-07:00",
-      "title": "Some Enterprise Grid users are unable to retrieve channel lists when building workflows and webhooks",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-09/0555cbd5e9833fe3",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-09-27T14:51:01-07:00",
-          "body": "Enterprise Grid users should no longer be experiencing any trouble using workflows or webhooks. Apologies for the trouble today and thank you for your patience."
-        },
-        {
-          "date_created": "2022-09-27T13:52:27-07:00",
-          "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue with workflows and webhooks is fully resolved or we have another update to share."
-        },
-        {
-          "date_created": "2022-09-27T11:44:00-07:00",
-          "body": "We’re still looking into the cause of the issue, and we’ll provide new information as soon as it’s available. Thanks for your continued patience."
-        },
-        {
-          "date_created": "2022-09-27T11:09:11-07:00",
-          "body": "We're continuing to investigate this issue, but we don't have any new information to share at this time. Thanks for your patience as we continue to work towards a fix"
-        },
-        {
-          "date_created": "2022-09-27T10:35:00-07:00",
-          "body": "Our team is still investigating this issue and we will post another update once we have more information to share."
-        },
-        {
-          "date_created": "2022-09-27T10:01:27-07:00",
-          "body": "Some Enterprise Grid users have reported that they’re unable to set up workflows and webhooks as their channel list isn’t populating."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
