@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-09-27T13:52:27-07:00",
-  "date_updated": "2022-09-27T13:52:27-07:00",
+  "date_created": "2022-09-27T14:51:01-07:00",
+  "date_updated": "2022-09-27T14:51:01-07:00",
   "active_incidents": [
     {
       "id": 1147,
       "date_created": "2022-09-27T10:01:27-07:00",
-      "date_updated": "2022-09-27T13:52:27-07:00",
+      "date_updated": "2022-09-27T14:51:01-07:00",
       "title": "Some Enterprise Grid users are unable to retrieve channel lists when building workflows and webhooks",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2022-09-27T14:51:01-07:00",
+          "body": "Enterprise Grid users should no longer be experiencing any trouble using workflows or webhooks. Apologies for the trouble today and thank you for your patience."
+        },
         {
           "date_created": "2022-09-27T13:52:27-07:00",
           "body": "We’re seeing signs of improvement, but we’re still monitoring the situation. We’ll confirm once the issue with workflows and webhooks is fully resolved or we have another update to share."
