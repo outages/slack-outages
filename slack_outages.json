@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-09-27T00:54:19-07:00",
-  "date_updated": "2022-09-27T00:54:19-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-09-27T10:01:27-07:00",
+  "date_updated": "2022-09-27T10:01:27-07:00",
+  "active_incidents": [
+    {
+      "id": 1147,
+      "date_created": "2022-09-27T10:01:27-07:00",
+      "date_updated": "2022-09-27T10:01:27-07:00",
+      "title": "Some Grid users are unable to retrieve channel lists when building workflows and webhooks",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-09/0555cbd5e9833fe3",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-09-27T10:01:27-07:00",
+          "body": "Some grid users have reported that they’re unable to set up workflows and webhooks as their channel list isn’t populating."
+        }
+      ]
+    }
+  ]
 }
