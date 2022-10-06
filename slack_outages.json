@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2022-09-28T15:57:00-07:00",
-  "date_updated": "2022-09-28T15:57:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-10-06T07:10:06-07:00",
+  "date_updated": "2022-10-06T07:10:06-07:00",
+  "active_incidents": [
+    {
+      "id": 1148,
+      "date_created": "2022-10-06T07:10:06-07:00",
+      "date_updated": "2022-10-06T07:10:06-07:00",
+      "title": "Issues with login confirmation codes",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-10/1513a84ae9c9749e",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-10-06T07:10:06-07:00",
+          "body": "We are currently investigating issues with validating login confirmation codes. We'll share updates as we have more information and apologize for the disruption."
+        }
+      ]
+    }
+  ]
 }
