@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-10-10T20:42:07-07:00",
-  "date_updated": "2022-10-10T20:42:07-07:00",
-  "active_incidents": [
-    {
-      "id": 1149,
-      "date_created": "2022-10-10T20:42:07-07:00",
-      "date_updated": "2022-10-10T20:42:07-07:00",
-      "title": "When switching channels, items that open on the right-hand side including threads, mentions & reactions, and saved items hide immediately.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-10/e5df1fba8fa56e17",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-10-10T20:42:07-07:00",
-          "body": "Some customers may be experiencing issues when switching channels. Items that open on the right-hand side, including threads, mentions & reactions, and saved items, may hide immediately. \r\n\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. We apologize for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-10-10T23:09:41-07:00",
+  "date_updated": "2022-10-10T23:09:41-07:00",
+  "active_incidents": []
 }
