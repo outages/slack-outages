@@ -5,15 +5,15 @@
   "active_incidents": [
     {
       "id": 1150,
-      "date_created": "2022-10-12T02:31:00-07:00",
+      "date_created": "2022-10-12T00:41:36-07:00",
       "date_updated": "2022-10-12T02:54:00-07:00",
       "title": "Some users may be experiencing issues with loading Slack.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-10/ef8d8376c14b9414",
       "services": [
-        "Login/SSO",
-        "Connections"
+        "Connections",
+        "Login/SSO"
       ],
       "notes": [
         {
@@ -21,7 +21,7 @@
           "body": "Some users may be having trouble with loading Slack, including threads. We are sorry for this inconvenience and are actively investigating. We will continue to share more details as we know more."
         },
         {
-          "date_created": "2022-10-12T02:31:00-07:00",
+          "date_created": "2022-10-12T00:41:36-07:00",
           "body": "Some users may be experiencing connectivity issues. We're investigating and will provide an update as soon as we have more"
         }
       ]
