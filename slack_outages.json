@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-10-12T03:27:06-07:00",
-  "date_updated": "2022-10-12T03:27:06-07:00",
+  "date_created": "2022-10-12T03:57:02-07:00",
+  "date_updated": "2022-10-12T03:57:02-07:00",
   "active_incidents": [
     {
       "id": 1150,
       "date_created": "2022-10-12T00:41:36-07:00",
-      "date_updated": "2022-10-12T03:27:06-07:00",
+      "date_updated": "2022-10-12T03:57:02-07:00",
       "title": "Some users may be experiencing issues with loading Slack.",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-10-12T03:57:02-07:00",
+          "body": "Though we don’t anticipate any further interruptions, this issue is still under investigation. We will share an update here when we have more information."
+        },
         {
           "date_created": "2022-10-12T03:27:06-07:00",
           "body": "While we have seen some signs of improvement, we’re still investigating the issue and don’t have any new information to share at this time. We’ll be back with another update in 30 minutes."
