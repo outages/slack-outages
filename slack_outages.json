@@ -1,22 +1,26 @@
 {
   "status": "active",
-  "date_created": "2022-10-13T08:01:31-07:00",
-  "date_updated": "2022-10-13T08:01:31-07:00",
+  "date_created": "2022-10-13T08:53:54-07:00",
+  "date_updated": "2022-10-13T08:53:54-07:00",
   "active_incidents": [
     {
       "id": 1151,
       "date_created": "2022-10-13T06:39:53-07:00",
-      "date_updated": "2022-10-13T08:01:31-07:00",
-      "title": "Some users may be experiencing issues with loading Threads, API hyperlinks, adding users to group DMs, loading some channels and also seeing their saved section empty.",
+      "date_updated": "2022-10-13T08:53:54-07:00",
+      "title": "Some users may be experiencing issues with loading Threads and Saved items, API hyperlinks, as well as interacting with group DMs/channels",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-10/d2fb7d99fe53f228",
       "services": [
-        "Connections",
         "Messaging",
-        "Apps/Integrations/APIs"
+        "Apps/Integrations/APIs",
+        "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2022-10-13T08:53:54-07:00",
+          "body": "We're still actively investigating this issue. We'll provide another update as soon as we have more information to share."
+        },
         {
           "date_created": "2022-10-13T08:01:31-07:00",
           "body": "We're still actively investigating this issue. In addition to threads, some users are experiencing issues loading some channels, adding users to group DMs and also seeing their Saved section empty. We'll provide another update as soon as we have more information to share."
