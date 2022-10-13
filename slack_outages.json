@@ -7,7 +7,7 @@
       "id": 1151,
       "date_created": "2022-10-13T06:39:53-07:00",
       "date_updated": "2022-10-13T08:53:54-07:00",
-      "title": "Some users may be experiencing issues with loading Threads and Saved items, API hyperlinks, as well as interacting with group DMs/channels",
+      "title": "Some users are experiencing issues with Threads, Saved items, API hyperlinks, and group DMs/channels",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-10/d2fb7d99fe53f228",
