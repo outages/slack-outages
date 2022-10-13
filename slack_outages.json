@@ -1,6 +1,31 @@
 {
-  "status": "ok",
-  "date_created": "2022-10-12T16:54:03-07:00",
-  "date_updated": "2022-10-12T16:54:03-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-10-13T07:03:11-07:00",
+  "date_updated": "2022-10-13T07:03:11-07:00",
+  "active_incidents": [
+    {
+      "id": 1151,
+      "date_created": "2022-10-13T06:39:53-07:00",
+      "date_updated": "2022-10-13T07:03:11-07:00",
+      "title": "Some users may be experiencing issues with loading Threads and API hyperlinks",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-10/d2fb7d99fe53f228",
+      "services": [
+        "Messaging",
+        "Apps/Integrations/APIs",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-10-13T07:03:11-07:00",
+          "body": "We are currently seeing issues with hyperlinks posted by APIs not rendering on the Desktop app. We will continue to investigate this further and we’ll share any additional information as we know more. We appreciate your patience in the meantime."
+        },
+        {
+          "date_created": "2022-10-13T06:39:53-07:00",
+          "body": "Some users may be having trouble with loading Slack Threads. Additionally, some users may experience their Thread badge notifications not clearing correctly. We are sorry for this inconvenience and are actively investigating. We will continue to share additional details as we know more."
+        }
+      ]
+    }
+  ]
 }
