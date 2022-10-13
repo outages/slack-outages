@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-10-13T13:34:28-07:00",
-  "date_updated": "2022-10-13T13:34:28-07:00",
+  "date_created": "2022-10-13T14:03:03-07:00",
+  "date_updated": "2022-10-13T14:03:03-07:00",
   "active_incidents": [
     {
       "id": 1151,
       "date_created": "2022-10-13T06:39:53-07:00",
-      "date_updated": "2022-10-13T13:34:28-07:00",
+      "date_updated": "2022-10-13T14:03:03-07:00",
       "title": "Some users are experiencing issues loading Slack, including Threads, Saved items, notifications, API hyperlinks, and group DMs/channels",
       "type": "incident",
       "status": "active",
@@ -18,6 +18,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2022-10-13T14:03:03-07:00",
+          "body": "We've identified the cause of this issue and we're currently rolling out a fix for the Threads view. Users should start seeing improvement soon. We'll be back once we have more news to share."
+        },
         {
           "date_created": "2022-10-13T13:34:28-07:00",
           "body": "We continue investigating this issue. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
