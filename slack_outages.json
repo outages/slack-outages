@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-10-19T09:59:25-07:00",
-  "date_updated": "2022-10-19T09:59:25-07:00",
-  "active_incidents": [
-    {
-      "id": 1152,
-      "date_created": "2022-10-19T09:59:25-07:00",
-      "date_updated": "2022-10-19T09:59:25-07:00",
-      "title": "Some users are having issues searching in Slack, seeing the \"Something went wrong\" message.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-10/98da79c75137b53e",
-      "services": [
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-10-19T09:59:25-07:00",
-          "body": "Some users may be having trouble with searching in Slack. Additionally, some users may be receiving a \"Something went wrong\" error when loading searches. We are sorry for this inconvenience and are actively working on a fix. We will continue to share additional details as we know more."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-10-19T11:07:29-07:00",
+  "date_updated": "2022-10-19T11:07:29-07:00",
+  "active_incidents": []
 }
