@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-10-28T13:33:26-07:00",
-  "date_updated": "2022-10-28T13:33:26-07:00",
+  "date_created": "2022-10-28T13:54:20-07:00",
+  "date_updated": "2022-10-28T13:54:20-07:00",
   "active_incidents": [
     {
       "id": 1154,
       "date_created": "2022-10-28T13:33:26-07:00",
-      "date_updated": "2022-10-28T13:33:26-07:00",
+      "date_updated": "2022-10-28T13:54:20-07:00",
       "title": "Some users may be experiencing issues sending messages, loading threads, and saving bookmarks",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-10-28T13:54:20-07:00",
+          "body": "We’ve identified the likely cause of this issue and we're noticing signs of recovery. We’re actively monitoring the situation and we’ll be back once we have another update to share."
+        },
         {
           "date_created": "2022-10-28T13:33:26-07:00",
           "body": "Users may be experiencing trouble loading threads, sending messages, and saving bookmarks. We’re investigating the issue and will let you know as soon as we know more. We appreciate your patience in the meantime."
