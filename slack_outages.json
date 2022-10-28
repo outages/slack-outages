@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-10-28T06:31:24-07:00",
-  "date_updated": "2022-10-28T06:31:24-07:00",
-  "active_incidents": [
-    {
-      "id": 1153,
-      "date_created": "2022-10-28T06:31:24-07:00",
-      "date_updated": "2022-10-28T06:31:24-07:00",
-      "title": "For an emoji sent as a standalone message, the emoji code is not displayed on hover",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-10/b9c4899413601fcc",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-10-28T06:31:24-07:00",
-          "body": "Some customers are currently not seeing emoji codes when hovering over an emoji sent as a standalone message. Hovering over an emoji reaction and or an emoji included within a message still works as expected. Apologies for the disruption. We are working to resolve this issue."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-10-28T09:56:33-07:00",
+  "date_updated": "2022-10-28T09:56:33-07:00",
+  "active_incidents": []
 }
