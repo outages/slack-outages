@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-11-14T13:36:01-08:00",
-  "date_updated": "2022-11-14T13:36:01-08:00",
-  "active_incidents": [
-    {
-      "id": 1156,
-      "date_created": "2022-11-14T13:36:01-08:00",
-      "date_updated": "2022-11-14T13:36:01-08:00",
-      "title": "Some users are unable to post messages",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-11/4ba7a48b3f81f509",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-11-14T13:36:01-08:00",
-          "body": "Some users are experiencing issues posting messages and are seeing the error message \"Slack couldn’t send this message\". We're investigating and will post an update as soon as possible."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-11-14T14:35:30-08:00",
+  "date_updated": "2022-11-14T14:35:30-08:00",
+  "active_incidents": []
 }
