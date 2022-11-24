@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T07:59:24-08:00",
-  "date_updated": "2022-11-24T07:59:24-08:00",
+  "date_created": "2022-11-24T08:28:44-08:00",
+  "date_updated": "2022-11-24T08:28:44-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T07:59:24-08:00",
+      "date_updated": "2022-11-24T08:28:44-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T08:28:44-08:00",
+          "body": "While we don't have additional news to share, we are continuing to work through this issue and making progress. Our apologies for the ongoing disruption. We are working hard to fix this as soon as we can."
+        },
         {
           "date_created": "2022-11-24T07:59:24-08:00",
           "body": "As part of the ongoing issue users are experiencing with search, we've found that users may also experience difficulty when trying to view their sent messages in the \"Drafts & sent\" tab. We're still actively working towards a solution, and we'll have another update for you in 30 minutes. Thank you for your patience."
