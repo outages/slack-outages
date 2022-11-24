@@ -1,23 +1,28 @@
 {
   "status": "active",
-  "date_created": "2022-11-23T20:28:40-08:00",
-  "date_updated": "2022-11-23T20:28:40-08:00",
+  "date_created": "2022-11-23T20:51:59-08:00",
+  "date_updated": "2022-11-23T20:51:59-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-23T20:28:40-08:00",
+      "date_updated": "2022-11-23T20:51:59-08:00",
       "title": "Issues loading and sending messages in Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-11/66b446a099f855d7",
       "services": [
-        "Messaging",
         "Calls",
+        "Search",
         "Apps/Integrations/APIs",
-        "Connections"
+        "Connections",
+        "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-23T20:51:59-08:00",
+          "body": "We are seeing further signs of improvement, but we are still monitoring the situation and working to completely restore all affected functionality. \r\n\r\nWe'll share another update in 30 minutes or as soon as we can confirm the issue has been fully resolved, whichever is soonest."
+        },
         {
           "date_created": "2022-11-23T20:28:40-08:00",
           "body": "Customers may also be experiencing trouble with huddles and workflows. However, we are beginning to see steady improvements as we work to resolve this issue.\r\n\r\nWe’ll continue to provide updates every 30 minutes."
