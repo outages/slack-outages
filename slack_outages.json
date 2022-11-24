@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T01:48:50-08:00",
-  "date_updated": "2022-11-24T01:48:50-08:00",
+  "date_created": "2022-11-24T02:29:10-08:00",
+  "date_updated": "2022-11-24T02:29:10-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T01:48:50-08:00",
+      "date_updated": "2022-11-24T02:29:10-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T02:29:10-08:00",
+          "body": "Message search is slow for all customers, and returning incomplete/partial data for EKM customers. Files search is not working for most customers. We're still working to fix this as fast as we can. Apologies for the disruption to your work."
+        },
         {
           "date_created": "2022-11-24T01:48:50-08:00",
           "body": "Message search is slow for all customers, and returning partial data for EKM customers. Files search is not working for most customers. We're working to fix this as fast as we can. Apologies for the disruption to your work."
