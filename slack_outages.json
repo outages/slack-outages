@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-23T21:56:41-08:00",
-  "date_updated": "2022-11-23T21:56:41-08:00",
+  "date_created": "2022-11-23T22:26:22-08:00",
+  "date_updated": "2022-11-23T22:26:22-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-23T21:56:41-08:00",
+      "date_updated": "2022-11-23T22:26:22-08:00",
       "title": "Issues loading and sending messages in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-23T22:26:22-08:00",
+          "body": "Our work on the search issue is still ongoing at this time. We’ll be back with another update in 30 minutes."
+        },
         {
           "date_created": "2022-11-23T21:56:41-08:00",
           "body": "We're still working to resolve the issues with search. We don't have any new information to share at this stage, but we'll provide another update in 30 minutes."
