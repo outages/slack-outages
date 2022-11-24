@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T09:55:11-08:00",
-  "date_updated": "2022-11-24T09:55:11-08:00",
+  "date_created": "2022-11-24T10:25:14-08:00",
+  "date_updated": "2022-11-24T10:25:14-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T09:55:11-08:00",
+      "date_updated": "2022-11-24T10:25:14-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T10:25:14-08:00",
+          "body": "We're continuing to make progress however no new updates to share at this time. We appreciate your patience and apologize for the ongoing disruption."
+        },
         {
           "date_created": "2022-11-24T09:55:11-08:00",
           "body": "Progress is looking good, but we’re not quite at the finish line. The work continues as we get closer to resolving this issue for you. Stay tuned, we’ll post another update in 30 minutes. Thanks for your patience."
