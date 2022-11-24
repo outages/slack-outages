@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T06:25:35-08:00",
-  "date_updated": "2022-11-24T06:25:35-08:00",
+  "date_created": "2022-11-24T06:54:12-08:00",
+  "date_updated": "2022-11-24T06:54:12-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T06:25:35-08:00",
+      "date_updated": "2022-11-24T06:54:12-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T06:54:12-08:00",
+          "body": "While we don't have any new information to share about the ongoing search issues since our last update, we are still actively working on addressing this issue and will continue to provide updates every 30 minutes as we investigate further. Thank you for your patience."
+        },
         {
           "date_created": "2022-11-24T06:25:35-08:00",
           "body": "We've found that searching for messages and files may be slow, and searching for members/groups may fail. Additionally, any recent changes (~7 hours) to channels/files will not appear in searches or the Admin Dashboard. We'll continue to keep you posted every 30 minutes as we continue our investigation."
