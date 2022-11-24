@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2022-11-23T22:26:22-08:00",
-  "date_updated": "2022-11-23T22:26:22-08:00",
+  "date_created": "2022-11-23T23:09:57-08:00",
+  "date_updated": "2022-11-23T23:09:57-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-23T22:26:22-08:00",
-      "title": "Issues loading and sending messages in Slack",
+      "date_updated": "2022-11-23T23:09:57-08:00",
+      "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2022-11/66b446a099f855d7",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-23T23:09:57-08:00",
+          "body": "We're still working to resolve the search issues. We'll share another update as soon as we have more information. Thank you for bearing with us."
+        },
         {
           "date_created": "2022-11-23T22:26:22-08:00",
           "body": "Our work on the search issue is still ongoing at this time. We’ll be back with another update in 30 minutes."
