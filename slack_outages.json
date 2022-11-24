@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-23T23:46:47-08:00",
-  "date_updated": "2022-11-23T23:46:47-08:00",
+  "date_created": "2022-11-24T00:18:47-08:00",
+  "date_updated": "2022-11-24T00:18:47-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-23T23:46:47-08:00",
+      "date_updated": "2022-11-24T00:18:47-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T00:18:47-08:00",
+          "body": "Some customers may be experiencing issues with the search in Slack. We're working to fix this as fast as we can. Apologies for the disruption to your work."
+        },
         {
           "date_created": "2022-11-23T23:46:47-08:00",
           "body": "Some customers may be experiencing search issues in Slack. We're very sorry for the disruption, and we're working to resolve this as fast as we can."
