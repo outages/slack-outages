@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T05:21:58-08:00",
-  "date_updated": "2022-11-24T05:21:58-08:00",
+  "date_created": "2022-11-24T05:51:48-08:00",
+  "date_updated": "2022-11-24T05:51:48-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T05:21:58-08:00",
+      "date_updated": "2022-11-24T05:51:48-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T05:51:48-08:00",
+          "body": "Our investigation is still ongoing but we're focused on getting message, file and recently added member searches back to normal. We'll continue to share updates every 30 minutes. We apologise for the continued trouble."
+        },
         {
           "date_created": "2022-11-24T05:21:58-08:00",
           "body": "No additional news to share just yet regarding searching messages, files and recently added members, but we're focused on getting things back to normal as quickly as we can. We will share an update in the next 30 minutes. Thank you again for your patience as we work towards a fix."
