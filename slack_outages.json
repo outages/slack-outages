@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-24T13:40:20-08:00",
-  "date_updated": "2022-11-24T13:40:20-08:00",
+  "date_created": "2022-11-24T18:53:02-08:00",
+  "date_updated": "2022-11-24T18:53:02-08:00",
   "active_incidents": [
     {
       "id": 1157,
       "date_created": "2022-11-23T19:58:17-08:00",
-      "date_updated": "2022-11-24T13:40:20-08:00",
+      "date_updated": "2022-11-24T18:53:02-08:00",
       "title": "Issues with search in Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2022-11-24T18:53:02-08:00",
+          "body": "We’ve resolved the issue with search for all impacted users. We’re sorry for the disruption caused, and thank you for your patience."
+        },
         {
           "date_created": "2022-11-24T13:40:20-08:00",
           "body": "All users should now be able to search for messages that were created prior to 12 hours ago. We anticipate continued improvement over the next few hours for searching messages created within the last 12 hours. Some users may continue to experience issues when searching for files and we're continuing our investigation in this area. We will provide an update once we have additional details to share. We want to sincerely thank everyone for their patience."
