@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-11-25T06:10:17-08:00",
-  "date_updated": "2022-11-25T06:10:17-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-11-29T11:37:31-08:00",
+  "date_updated": "2022-11-29T11:37:31-08:00",
+  "active_incidents": [
+    {
+      "id": 1158,
+      "date_created": "2022-11-29T11:37:31-08:00",
+      "date_updated": "2022-11-29T11:37:31-08:00",
+      "title": "Some users may be experiencing connectivity issues.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-11/200ea3461302d4c7",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-11-29T11:37:31-08:00",
+          "body": "Some customers are experiencing connectivity issues. We're investigating these reports and will post an update as soon as possible."
+        }
+      ]
+    }
+  ]
 }
