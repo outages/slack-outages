@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-11-29T12:02:16-08:00",
-  "date_updated": "2022-11-29T12:02:16-08:00",
+  "date_created": "2022-11-29T12:25:22-08:00",
+  "date_updated": "2022-11-29T12:25:22-08:00",
   "active_incidents": [
     {
       "id": 1158,
       "date_created": "2022-11-29T11:37:31-08:00",
-      "date_updated": "2022-11-29T12:02:16-08:00",
+      "date_updated": "2022-11-29T12:25:22-08:00",
       "title": "Some users may be experiencing connectivity issues.",
       "type": "incident",
       "status": "active",
