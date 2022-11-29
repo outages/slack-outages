@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-11-29T12:25:22-08:00",
-  "date_updated": "2022-11-29T12:25:22-08:00",
-  "active_incidents": [
-    {
-      "id": 1158,
-      "date_created": "2022-11-29T11:37:31-08:00",
-      "date_updated": "2022-11-29T12:25:22-08:00",
-      "title": "Some users may be experiencing connectivity issues.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-11/200ea3461302d4c7",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-11-29T12:02:16-08:00",
-          "body": "After investigation, a small percentage of customers may be experiencing connectivity issues. \r\n\r\nWe have identified that this issue is with an upstream DNS provider. Impacted customers should reach out to their Internet Service Provider or IT Department for further guidance on their DNS settings."
-        },
-        {
-          "date_created": "2022-11-29T11:37:31-08:00",
-          "body": "Some customers are experiencing connectivity issues. We're investigating these reports and will post an update as soon as possible."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-11-29T15:16:30-08:00",
+  "date_updated": "2022-11-29T15:16:30-08:00",
+  "active_incidents": []
 }
