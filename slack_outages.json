@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-12-01T16:32:34-08:00",
-  "date_updated": "2022-12-01T16:32:34-08:00",
-  "active_incidents": [
-    {
-      "id": 1159,
-      "date_created": "2022-12-01T16:32:34-08:00",
-      "date_updated": "2022-12-01T16:32:34-08:00",
-      "title": "Some customers may be experiencing issues with custom emoji reactions disappearing",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-12/aae7084154197246",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-12-01T16:32:34-08:00",
-          "body": "Some customers may be experiencing issues with custom emoji disappearing after adding a reaction. \r\n\r\nWe're investigating and will post an update as soon as possible."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-12-01T18:49:28-08:00",
+  "date_updated": "2022-12-01T18:49:28-08:00",
+  "active_incidents": []
 }
