@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-04T17:53:01-08:00",
-  "date_updated": "2022-12-04T17:53:01-08:00",
+  "date_created": "2022-12-04T19:23:01-08:00",
+  "date_updated": "2022-12-04T19:23:01-08:00",
   "active_incidents": [
     {
       "id": 1160,
       "date_created": "2022-12-04T17:53:01-08:00",
-      "date_updated": "2022-12-04T17:53:01-08:00",
+      "date_updated": "2022-12-04T19:23:01-08:00",
       "title": "Issues with SMS two-factor authentication for some customers",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-04T19:23:01-08:00",
+          "body": "We are still actively investigating the issues with SMS two-factor authentication. We’ll be back with another update in 30 minutes."
+        },
         {
           "date_created": "2022-12-04T17:53:01-08:00",
           "body": "We're investigating issues with SMS two-factor authentication. Some customers may be unable to login to Slack. \r\n\r\nYou should still be able to login using your backup codes. We apologise for the disruption, we'll be back with an update as soon as we have more information."
