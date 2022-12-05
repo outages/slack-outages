@@ -1,49 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2022-12-04T22:34:59-08:00",
-  "date_updated": "2022-12-04T22:34:59-08:00",
-  "active_incidents": [
-    {
-      "id": 1160,
-      "date_created": "2022-12-04T17:53:01-08:00",
-      "date_updated": "2022-12-04T22:34:59-08:00",
-      "title": "Issues with SMS two-factor authentication for some customers",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-12/7244800af93122ba",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2022-12-04T22:34:59-08:00",
-          "body": "We're sorry for the inconvenience, but we are continuing to experience the issue with login functionality. We're working hard to resolve the issue as quickly as possible and we'll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-12-04T21:48:33-08:00",
-          "body": "While we don't have additional news to share, we are still working away to get things back in order for you. Stay tuned, we'll post another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-12-04T21:17:38-08:00",
-          "body": "We're continuing to make progress, but we have no new information to share at this stage. We apologise for the ongoing disruption — please stand by for another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-12-04T20:40:31-08:00",
-          "body": "We’ve identified what’s causing the SMS two-factor authentication issues. We are continuing to work towards a fix. We’ll provide another update in 30 minutes. Thank you for your patience!"
-        },
-        {
-          "date_created": "2022-12-04T19:56:01-08:00",
-          "body": "We’re still working to resolve the issues with SMS two-factor authentication. We’ll continue to provide updates every 30 minutes."
-        },
-        {
-          "date_created": "2022-12-04T19:23:01-08:00",
-          "body": "We are still actively investigating the issues with SMS two-factor authentication. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2022-12-04T17:53:01-08:00",
-          "body": "We're investigating issues with SMS two-factor authentication. Some customers may be unable to login to Slack. \r\n\r\nYou should still be able to login using your backup codes. We apologise for the disruption, we'll be back with an update as soon as we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2022-12-04T23:46:54-08:00",
+  "date_updated": "2022-12-04T23:46:54-08:00",
+  "active_incidents": []
 }
