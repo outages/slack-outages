@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-12-05T02:02:02-08:00",
-  "date_updated": "2022-12-05T02:02:02-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-12-05T13:13:00-08:00",
+  "date_updated": "2022-12-05T13:13:00-08:00",
+  "active_incidents": [
+    {
+      "id": 1161,
+      "date_created": "2022-12-05T13:13:00-08:00",
+      "date_updated": "2022-12-05T13:13:00-08:00",
+      "title": "Some users may be experiencing issues loading DMs or channels",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-12/825fec838eaeb4cf",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-12-05T13:13:00-08:00",
+          "body": "Some users may be experiencing issues loading DMs or channels, resulting in a white screen. \r\n\r\nWe're investigating and will post an update as soon as possible."
+        }
+      ]
+    }
+  ]
 }
