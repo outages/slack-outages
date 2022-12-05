@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-05T13:42:37-08:00",
-  "date_updated": "2022-12-05T13:42:37-08:00",
+  "date_created": "2022-12-05T14:13:35-08:00",
+  "date_updated": "2022-12-05T14:13:35-08:00",
   "active_incidents": [
     {
       "id": 1161,
       "date_created": "2022-12-05T13:13:00-08:00",
-      "date_updated": "2022-12-05T13:42:37-08:00",
+      "date_updated": "2022-12-05T14:13:35-08:00",
       "title": "Some users may be experiencing issues loading DMs or channels",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2022-12-05T14:13:35-08:00",
+          "body": "We've confirmed that this issue is isolated to Slack in desktop. We continue to work on a fix and we're hoping to see signs of improvement shortly."
+        },
+        {
           "date_created": "2022-12-05T13:42:37-08:00",
-          "body": "We've identified the issue and are working on a fix. We'll continue to share updates when we have more information."
+          "body": "We've identified the issue and are working on a fix.  We're continuing to work on a fix and hoping to see signs of improvement shortly."
         },
         {
           "date_created": "2022-12-05T13:13:00-08:00",
