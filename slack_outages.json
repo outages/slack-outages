@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-04T19:56:01-08:00",
-  "date_updated": "2022-12-04T19:56:01-08:00",
+  "date_created": "2022-12-04T20:40:31-08:00",
+  "date_updated": "2022-12-04T20:40:31-08:00",
   "active_incidents": [
     {
       "id": 1160,
       "date_created": "2022-12-04T17:53:01-08:00",
-      "date_updated": "2022-12-04T19:56:01-08:00",
+      "date_updated": "2022-12-04T20:40:31-08:00",
       "title": "Issues with SMS two-factor authentication for some customers",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-04T20:40:31-08:00",
+          "body": "We’ve identified what’s causing the SMS two-factor authentication issues. We are continuing to work towards a fix. We’ll provide another update in 30 minutes. Thank you for your patience!"
+        },
         {
           "date_created": "2022-12-04T19:56:01-08:00",
           "body": "We’re still working to resolve the issues with SMS two-factor authentication. We’ll continue to provide updates every 30 minutes."
