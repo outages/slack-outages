@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2022-12-05T18:47:25-08:00",
-  "date_updated": "2022-12-05T18:47:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-12-08T04:58:21-08:00",
+  "date_updated": "2022-12-08T04:58:21-08:00",
+  "active_incidents": [
+    {
+      "id": 1162,
+      "date_created": "2022-12-08T04:58:21-08:00",
+      "date_updated": "2022-12-08T04:58:21-08:00",
+      "title": "Trouble with exports",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-12/a709513bd336365f",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-12-08T04:58:21-08:00",
+          "body": "Some users have reported issues with exports failing to complete at this time. We're working to resolve the issue and will share more information as soon as it's available. Thank you for your patience."
+        }
+      ]
+    }
+  ]
 }
