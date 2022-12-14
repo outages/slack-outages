@@ -17,11 +17,11 @@
       "notes": [
         {
           "date_created": "2022-12-14T10:02:11-08:00",
-          "body": "We are still working on a full fix. In the meantime, customers might still notice a degraded experience when playing videos in Slack.\r\n\r\nWe will be sharing more updates as they become available."
+          "body": "We are still working to restore full video quality. In the meantime, customers might still notice a degraded experience when playing videos in Slack.\r\n\r\nWe will be sharing more updates as they become available."
         },
         {
           "date_created": "2022-12-14T08:49:47-08:00",
-          "body": "A fix was deployed and customers should no longer be completely unable to play videos. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux). \r\n\r\nSome users may still see a degraded experience and we're still working on fully restoring video streaming. Please allow for some extended buffering time and videos will be played. We'll continue our investigation and will be monitoring this closely.\r\n\r\nWe'll be back with another update in an hour, unless new information becomes available before then. Thank you for your continued patience."
+          "body": "A partial fix was deployed and customers should be able to play videos. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux). \r\n\r\nSome users may still see a degraded experience and we're still working on fully restoring video streaming. Please allow for some extended buffering time and videos will be played. We'll continue our investigation and will be monitoring this closely.\r\n\r\nWe'll be back with another update in an hour, unless new information becomes available before then. Thank you for your continued patience."
         },
         {
           "date_created": "2022-12-14T08:06:33-08:00",
