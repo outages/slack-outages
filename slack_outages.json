@@ -1,32 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-14T08:53:03-08:00",
-  "date_updated": "2022-12-14T08:53:03-08:00",
+  "date_created": "2022-12-14T10:02:11-08:00",
+  "date_updated": "2022-12-14T10:02:11-08:00",
   "active_incidents": [
-    {
-      "id": 1164,
-      "date_created": "2022-12-14T07:48:03-08:00",
-      "date_updated": "2022-12-14T08:53:03-08:00",
-      "title": "Some users not receiving 2FA codes via SMS",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-12/7e95e869e43429ae",
-      "services": [],
-      "notes": [
-        {
-          "date_created": "2022-12-14T08:53:03-08:00",
-          "body": "We're still investigating the issue with users being unable to receive two-factor authentication codes via SMS. We don't have additional information to share just yet. We'll be back shortly with another update."
-        },
-        {
-          "date_created": "2022-12-14T07:48:03-08:00",
-          "body": "Some users are currently unable to receive two-factor authentication codes via SMS. We're looking into this with our service provider and hoping to restore functionality again soon.\r\n\r\nWe apologize for the disruption and we'll share more updates once we have additional information."
-        }
-      ]
-    },
     {
       "id": 1163,
       "date_created": "2022-12-14T00:35:09-08:00",
-      "date_updated": "2022-12-14T08:49:47-08:00",
+      "date_updated": "2022-12-14T10:02:11-08:00",
       "title": "Some users having trouble playing videos",
       "type": "incident",
       "status": "active",
@@ -35,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-14T10:02:11-08:00",
+          "body": "We are still working on a full fix. In the meantime, customers might still notice a degraded experience when playing videos in Slack.\r\n\r\nWe will be sharing more updates as they become available."
+        },
         {
           "date_created": "2022-12-14T08:49:47-08:00",
           "body": "A fix was deployed and customers should no longer be completely unable to play videos. If you're still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux). \r\n\r\nSome users may still see a degraded experience and we're still working on fully restoring video streaming. Please allow for some extended buffering time and videos will be played. We'll continue our investigation and will be monitoring this closely.\r\n\r\nWe'll be back with another update in an hour, unless new information becomes available before then. Thank you for your continued patience."
@@ -90,6 +74,26 @@
         {
           "date_created": "2022-12-14T00:35:09-08:00",
           "body": "We’re receiving reports around trouble playing videos. We’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
+        }
+      ]
+    },
+    {
+      "id": 1164,
+      "date_created": "2022-12-14T07:48:03-08:00",
+      "date_updated": "2022-12-14T08:53:03-08:00",
+      "title": "Some users not receiving 2FA codes via SMS",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-12/7e95e869e43429ae",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2022-12-14T08:53:03-08:00",
+          "body": "We're still investigating the issue with users being unable to receive two-factor authentication codes via SMS. We don't have additional information to share just yet. We'll be back shortly with another update."
+        },
+        {
+          "date_created": "2022-12-14T07:48:03-08:00",
+          "body": "Some users are currently unable to receive two-factor authentication codes via SMS. We're looking into this with our service provider and hoping to restore functionality again soon.\r\n\r\nWe apologize for the disruption and we'll share more updates once we have additional information."
         }
       ]
     }
