@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-14T10:27:47-08:00",
-  "date_updated": "2022-12-14T10:27:47-08:00",
+  "date_created": "2022-12-14T10:42:21-08:00",
+  "date_updated": "2022-12-14T10:42:21-08:00",
   "active_incidents": [
     {
       "id": 1165,
       "date_created": "2022-12-14T10:27:47-08:00",
-      "date_updated": "2022-12-14T10:27:47-08:00",
+      "date_updated": "2022-12-14T10:42:21-08:00",
       "title": "Trouble connecting in Slack",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-14T10:42:21-08:00",
+          "body": "We've implemented a change and we're seeing signs of recovery. We will continue closely monitoring and sharing news as it becomes available."
+        },
         {
           "date_created": "2022-12-14T10:27:47-08:00",
           "body": "Some users may be experiencing trouble loading Slack workspaces, sending messages, and uploading files. We're investigating the situation and we'll let you know once we have more information to share."
