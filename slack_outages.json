@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-14T02:07:31-08:00",
-  "date_updated": "2022-12-14T02:07:31-08:00",
+  "date_created": "2022-12-14T02:50:48-08:00",
+  "date_updated": "2022-12-14T02:50:48-08:00",
   "active_incidents": [
     {
       "id": 1163,
       "date_created": "2022-12-14T00:35:09-08:00",
-      "date_updated": "2022-12-14T02:07:31-08:00",
+      "date_updated": "2022-12-14T02:50:48-08:00",
       "title": "Some users having trouble playing videos",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-14T02:50:48-08:00",
+          "body": "Some customers are hitting issues with playing videos at the moment. Our engineers are working to resolve this issue as quickly as possible. For now, you should be able to download videos, in order to play them. Sorry for the disruption."
+        },
         {
           "date_created": "2022-12-14T02:07:31-08:00",
           "body": "Some customers are having trouble playing videos currently. Our team is continuing to investigate this issue. As a workaround in the meantime, you can download videos and play them locally."
