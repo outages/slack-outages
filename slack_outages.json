@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-14T05:58:07-08:00",
-  "date_updated": "2022-12-14T05:58:07-08:00",
+  "date_created": "2022-12-14T06:28:11-08:00",
+  "date_updated": "2022-12-14T06:28:11-08:00",
   "active_incidents": [
     {
       "id": 1163,
       "date_created": "2022-12-14T00:35:09-08:00",
-      "date_updated": "2022-12-14T05:58:07-08:00",
+      "date_updated": "2022-12-14T06:28:11-08:00",
       "title": "Some users having trouble playing videos",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-14T06:28:11-08:00",
+          "body": "We're still looking into the cause of the issue that some customers are experiencing when trying to play videos. For now, you can click on the three dots beside the video to open it in a new window or you can download videos directly to your device to play them. Thanks for sticking with us as we continue to work towards a fix."
+        },
         {
           "date_created": "2022-12-14T05:58:07-08:00",
           "body": "Our team is working hard to resolve the issue that some customers are experiencing when trying to play videos. In the meantime, downloading videos to your device will enable them to be played locally, or you can click the three dots beside the video to open it in a new window. Sorry for any inconvenience."
