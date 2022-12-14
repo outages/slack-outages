@@ -76,26 +76,6 @@
           "body": "We’re receiving reports around trouble playing videos. We’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
         }
       ]
-    },
-    {
-      "id": 1164,
-      "date_created": "2022-12-14T07:48:03-08:00",
-      "date_updated": "2022-12-14T08:53:03-08:00",
-      "title": "Some users not receiving 2FA codes via SMS",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2022-12/7e95e869e43429ae",
-      "services": [],
-      "notes": [
-        {
-          "date_created": "2022-12-14T08:53:03-08:00",
-          "body": "We're still investigating the issue with users being unable to receive two-factor authentication codes via SMS. We don't have additional information to share just yet. We'll be back shortly with another update."
-        },
-        {
-          "date_created": "2022-12-14T07:48:03-08:00",
-          "body": "Some users are currently unable to receive two-factor authentication codes via SMS. We're looking into this with our service provider and hoping to restore functionality again soon.\r\n\r\nWe apologize for the disruption and we'll share more updates once we have additional information."
-        }
-      ]
     }
   ]
 }
