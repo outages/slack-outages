@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-14T00:35:09-08:00",
-  "date_updated": "2022-12-14T00:35:09-08:00",
+  "date_created": "2022-12-14T01:36:02-08:00",
+  "date_updated": "2022-12-14T01:36:02-08:00",
   "active_incidents": [
     {
       "id": 1163,
       "date_created": "2022-12-14T00:35:09-08:00",
-      "date_updated": "2022-12-14T00:35:09-08:00",
+      "date_updated": "2022-12-14T01:36:02-08:00",
       "title": "Some users having trouble playing videos",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Posts/Files"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-14T01:36:02-08:00",
+          "body": "Unfortunately some of our customers are currently experiencing problems while playing videos. Our team is investigating and as soon as we have an update we will keep you posted. Apologies for the disruption in the meantime."
+        },
         {
           "date_created": "2022-12-14T00:35:09-08:00",
           "body": "We’re receiving reports around trouble playing videos. We’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
