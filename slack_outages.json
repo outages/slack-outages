@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2022-12-08T07:45:35-08:00",
-  "date_updated": "2022-12-08T07:45:35-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2022-12-14T00:35:09-08:00",
+  "date_updated": "2022-12-14T00:35:09-08:00",
+  "active_incidents": [
+    {
+      "id": 1163,
+      "date_created": "2022-12-14T00:35:09-08:00",
+      "date_updated": "2022-12-14T00:35:09-08:00",
+      "title": "Some users having trouble playing videos",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2022-12/ddd9879de59fd9d1",
+      "services": [
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2022-12-14T00:35:09-08:00",
+          "body": "We’re receiving reports around trouble playing videos. We’re on the case and will provide another update once we have more details to share. We’re sorry for the inconvenience."
+        }
+      ]
+    }
+  ]
 }
