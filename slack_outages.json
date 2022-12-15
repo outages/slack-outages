@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-15T11:01:01-08:00",
-  "date_updated": "2022-12-15T11:01:01-08:00",
+  "date_created": "2022-12-15T11:28:40-08:00",
+  "date_updated": "2022-12-15T11:28:40-08:00",
   "active_incidents": [
     {
       "id": 1166,
       "date_created": "2022-12-15T11:01:01-08:00",
-      "date_updated": "2022-12-15T11:01:01-08:00",
+      "date_updated": "2022-12-15T11:28:40-08:00",
       "title": "Messages on iOS are automatically marked as read",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-15T11:28:40-08:00",
+          "body": "We're still investigating the issue with users experiencing some messages marked as read before reading them. While this is impacting the iOS Slack app, users will still receive unread message notifications but may not see the activity in other sessions of Slack. We don't have additional information to share just yet but we'll be back shortly with another update."
+        },
         {
           "date_created": "2022-12-15T11:01:01-08:00",
           "body": "Some users may be noticing that their messages are being marked as read automatically without reading them. We're investigating the situation but have confirmed this is only impacting the iOS Slack app. We'll let you know once we have more information to share."
