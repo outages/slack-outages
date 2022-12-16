@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-15T16:17:54-08:00",
-  "date_updated": "2022-12-15T16:17:54-08:00",
+  "date_created": "2022-12-16T11:33:54-08:00",
+  "date_updated": "2022-12-16T11:33:54-08:00",
   "active_incidents": [
     {
       "id": 1166,
       "date_created": "2022-12-15T11:01:01-08:00",
-      "date_updated": "2022-12-15T16:17:54-08:00",
+      "date_updated": "2022-12-16T11:33:54-08:00",
       "title": "Messages on iOS are automatically marked as read",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-16T11:33:54-08:00",
+          "body": "We're continuing to work towards a fix.  We apologize for the disruption caused by this issue, and appreciate your continued patience. Please expect an update from us early next week."
+        },
         {
           "date_created": "2022-12-15T16:17:54-08:00",
           "body": "We are working on a permanent fix for this issue. In the meantime, as a workaround, we've found that affected users can avoid this issue by switching back to the channel list in their iOS app prior to exiting the app. We'll be back with another update as soon as possible."
