@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2022-12-16T11:33:54-08:00",
-  "date_updated": "2022-12-16T11:33:54-08:00",
+  "date_created": "2022-12-19T14:53:13-08:00",
+  "date_updated": "2022-12-19T14:53:13-08:00",
   "active_incidents": [
     {
       "id": 1166,
       "date_created": "2022-12-15T11:01:01-08:00",
-      "date_updated": "2022-12-16T11:33:54-08:00",
+      "date_updated": "2022-12-19T14:53:13-08:00",
       "title": "Messages on iOS are automatically marked as read",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2022-12-19T14:53:13-08:00",
+          "body": "We've identified the cause of this issue and we're rolling out a fix to all as quickly as possible. We'll report back once it is fully released."
+        },
         {
           "date_created": "2022-12-16T11:33:54-08:00",
           "body": "We're continuing to work towards a fix.  We apologize for the disruption caused by this issue, and appreciate your continued patience. Please expect an update from us early next week."
