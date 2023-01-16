@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-16T01:47:49-08:00",
-  "date_updated": "2023-01-16T01:47:49-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-16T08:43:26-08:00",
+  "date_updated": "2023-01-16T08:43:26-08:00",
+  "active_incidents": [
+    {
+      "id": 1168,
+      "date_created": "2023-01-16T08:43:26-08:00",
+      "date_updated": "2023-01-16T08:43:26-08:00",
+      "title": "Users may experience issues accessing or loading slack, have trouble creating posts, and using Workflow Builder.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/592b7776e9a7fdfa",
+      "services": [
+        "Apps/Integrations/APIs",
+        "Posts/Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-16T08:43:26-08:00",
+          "body": "Users may have trouble signing-in to their workspaces. Users may also have trouble creating and viewing posts. Users may also not be able to use workflows, or see duplicated output from workflows."
+        }
+      ]
+    }
+  ]
 }
