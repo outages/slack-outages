@@ -7,7 +7,7 @@
       "id": 1168,
       "date_created": "2023-01-16T08:43:26-08:00",
       "date_updated": "2023-01-16T08:43:26-08:00",
-      "title": "Users may experience issues accessing or loading slack, have trouble creating posts, and using Workflow Builder.",
+      "title": "Users may experience issues accessing or loading Slack, have trouble creating posts, and using Workflow Builder.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-01/592b7776e9a7fdfa",
