@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-01-15T21:08:13-08:00",
-  "date_updated": "2023-01-15T21:08:13-08:00",
+  "date_created": "2023-01-15T21:35:24-08:00",
+  "date_updated": "2023-01-15T21:35:24-08:00",
   "active_incidents": [
     {
       "id": 1167,
       "date_created": "2023-01-15T18:54:18-08:00",
-      "date_updated": "2023-01-15T21:08:13-08:00",
+      "date_updated": "2023-01-15T21:35:24-08:00",
       "title": "Some customers may be unable to complete SSO configuration",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2023-01-15T21:35:24-08:00",
+          "body": "We have a fix in place, but we're still monitoring closely. We'll be back once functionality is fully restored or in 30 minutes — whichever is sooner."
+        },
         {
           "date_created": "2023-01-15T21:08:13-08:00",
           "body": "While we don't have additional news to share at this time, we are continuing to work towards a fix. We'll post another update in 30 minutes."
