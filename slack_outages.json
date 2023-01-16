@@ -1,54 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-01-15T22:38:33-08:00",
-  "date_updated": "2023-01-15T22:38:33-08:00",
-  "active_incidents": [
-    {
-      "id": 1167,
-      "date_created": "2023-01-15T18:54:18-08:00",
-      "date_updated": "2023-01-15T22:38:33-08:00",
-      "title": "Some customers may be unable to complete SSO configuration",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-01/86830b419c5578aa",
-      "services": [
-        "Login/SSO",
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-01-15T22:38:33-08:00",
-          "body": "We're continuing to monitor the situation and verify the fix. We'll be back once the functionality is restored or in 30 minutes."
-        },
-        {
-          "date_created": "2023-01-15T22:07:26-08:00",
-          "body": "We're still monitoring this issue and verifying the fix. We'll post again in 30 minutes or as soon as we have confirmation that functionality is fully restored."
-        },
-        {
-          "date_created": "2023-01-15T21:35:24-08:00",
-          "body": "We have a fix in place, but we're still monitoring closely. We'll be back once functionality is fully restored or in 30 minutes — whichever is sooner."
-        },
-        {
-          "date_created": "2023-01-15T21:08:13-08:00",
-          "body": "While we don't have additional news to share at this time, we are continuing to work towards a fix. We'll post another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-01-15T20:38:12-08:00",
-          "body": "We have a potential fix lined up as we continue working to restore full SSO configuration functionality, but we still have some work to do. We'll be back with more news in 30 minutes or as soon as we have an update to share."
-        },
-        {
-          "date_created": "2023-01-15T19:58:19-08:00",
-          "body": "We are still working to identify what’s causing this issue. We'll be back as soon as we have more information to share."
-        },
-        {
-          "date_created": "2023-01-15T19:24:32-08:00",
-          "body": "We’re still investigating this issue, but we don’t have additional information at this time. We’ll be back in 30 minutes or as soon as we have news to share."
-        },
-        {
-          "date_created": "2023-01-15T18:54:18-08:00",
-          "body": "Some customers may be unable to complete their SSO configuration due to an issue with the testing phase. We apologize for any disruption. We're currently working to resolve this."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-01-15T23:12:18-08:00",
+  "date_updated": "2023-01-15T23:12:18-08:00",
+  "active_incidents": []
 }
