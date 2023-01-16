@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-16T10:40:19-08:00",
-  "date_updated": "2023-01-16T10:40:19-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-16T12:46:24-08:00",
+  "date_updated": "2023-01-16T12:46:24-08:00",
+  "active_incidents": [
+    {
+      "id": 1169,
+      "date_created": "2023-01-16T12:46:24-08:00",
+      "date_updated": "2023-01-16T12:46:24-08:00",
+      "title": "Some Android users may be experiencing issues when trying to access a workspace",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/61694d1ccb108116",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-16T12:46:24-08:00",
+          "body": "Some Android user maybe experiencing issues accessing their workspace from the mobile app. Users may be getting an error message stating \"workspace can't be found\". For now they can restart their Slack app as a workaround.  \r\nWe're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
