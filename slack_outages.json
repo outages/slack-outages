@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-17T15:06:59-08:00",
-  "date_updated": "2023-01-17T15:06:59-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-18T19:45:30-08:00",
+  "date_updated": "2023-01-18T19:45:30-08:00",
+  "active_incidents": [
+    {
+      "id": 1170,
+      "date_created": "2023-01-18T19:45:30-08:00",
+      "date_updated": "2023-01-18T19:45:30-08:00",
+      "title": "Some customers may be missing channels and DMs in their sidebar",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/e7a6c99fb49d6b09",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-18T19:45:30-08:00",
+          "body": "Some customers may be missing channels and DMs in their sidebar. We apologize for any disruption. We’re currently working to resolve this."
+        }
+      ]
+    }
+  ]
 }
