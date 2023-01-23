@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-01-23T14:38:50-08:00",
-  "date_updated": "2023-01-23T14:38:50-08:00",
-  "active_incidents": [
-    {
-      "id": 1171,
-      "date_created": "2023-01-23T13:35:19-08:00",
-      "date_updated": "2023-01-23T14:38:50-08:00",
-      "title": "Some users may be experiencing issues with workflows",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-01/9090b27a5ea06bce",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-01-23T14:38:50-08:00",
-          "body": "While we're still investigating, users may see signs of recovery and should be able to use workflows again. We will post the next update once we have more information to share. We apologize for the disruption."
-        },
-        {
-          "date_created": "2023-01-23T14:04:33-08:00",
-          "body": "We're investigating the root cause and will continue to post updates every 30 minutes."
-        },
-        {
-          "date_created": "2023-01-23T13:35:19-08:00",
-          "body": "Some users may be having issues loading workflows or having connection issues resulting in multiple workflow entries or failure to submit. We're investigating and will post an update shortly."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-01-23T15:12:20-08:00",
+  "date_updated": "2023-01-23T15:12:20-08:00",
+  "active_incidents": []
 }
