@@ -28,25 +28,6 @@
           "body": "Some users may be having issues loading workflows or having connection issues resulting in multiple workflow entries or failure to submit. We're investigating and will post an update shortly."
         }
       ]
-    },
-    {
-      "id": 1172,
-      "date_created": "2023-01-23T14:34:44-08:00",
-      "date_updated": "2023-01-23T14:34:44-08:00",
-      "title": "A small percentage of users may see a delayed response when loading channels and threads",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-01/bd2fc67bb1474e78",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-01-23T14:34:44-08:00",
-          "body": "A small percentage of users may notice a delayed response when loading channels and threads. We're currently investigating and will post updates as soon as possible."
-        }
-      ]
     }
   ]
 }
