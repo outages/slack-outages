@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-19T06:35:00-08:00",
-  "date_updated": "2023-01-19T06:35:00-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-23T13:35:19-08:00",
+  "date_updated": "2023-01-23T13:35:19-08:00",
+  "active_incidents": [
+    {
+      "id": 1171,
+      "date_created": "2023-01-23T13:35:19-08:00",
+      "date_updated": "2023-01-23T13:35:19-08:00",
+      "title": "Some users may be experiencing issues with workflows",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/9090b27a5ea06bce",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-23T13:35:19-08:00",
+          "body": "Some users may be having issues loading workflows or having connection issues resulting in multiple workflow entries or failure to submit. We're investigating and will post an update shortly."
+        }
+      ]
+    }
+  ]
 }
