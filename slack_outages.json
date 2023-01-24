@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-23T18:34:29-08:00",
-  "date_updated": "2023-01-23T18:34:29-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-23T20:28:16-08:00",
+  "date_updated": "2023-01-23T20:28:16-08:00",
+  "active_incidents": [
+    {
+      "id": 1173,
+      "date_created": "2023-01-23T20:28:16-08:00",
+      "date_updated": "2023-01-23T20:28:16-08:00",
+      "title": "Some customers may be encountering an error code when opening a workflow in a new window",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/b5ecc9f98de10873",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-23T20:28:16-08:00",
+          "body": "Some users may be noticing an error code when attempting to open a workflow in a pop out window. We're investigating the situation and we'll let you know once we have more information to share."
+        }
+      ]
+    }
+  ]
 }
