@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-01-23T21:06:32-08:00",
-  "date_updated": "2023-01-23T21:06:32-08:00",
+  "date_created": "2023-01-23T21:43:30-08:00",
+  "date_updated": "2023-01-23T21:43:30-08:00",
   "active_incidents": [
     {
       "id": 1173,
       "date_created": "2023-01-23T20:28:16-08:00",
-      "date_updated": "2023-01-23T21:06:32-08:00",
+      "date_updated": "2023-01-23T21:43:30-08:00",
       "title": "Some customers may be encountering an error code when opening a workflow in a new window",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-01-23T21:43:30-08:00",
+          "body": "We are continuing to investigate, but we don’t have any new information to share at this time. We'll be back with another update soon."
+        },
         {
           "date_created": "2023-01-23T21:06:32-08:00",
           "body": "We’re still actively investigating this issue. Thank you for your patience as we continue to work towards a resolution."
