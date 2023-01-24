@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-01-24T09:22:12-08:00",
-  "date_updated": "2023-01-24T09:22:12-08:00",
-  "active_incidents": [
-    {
-      "id": 1174,
-      "date_created": "2023-01-24T08:15:09-08:00",
-      "date_updated": "2023-01-24T09:22:12-08:00",
-      "title": "Threads, direct messages, and channels are currently not loading",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-01/70633bef2f8b2fd1",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-01-24T09:22:12-08:00",
-          "body": "We're still actively investigating the issue impacting threads, direct messages, and channels. We don't have any new updates to share at this time. Thanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-01-24T08:48:45-08:00",
-          "body": "Our investigation is still ongoing at this time. This is impacting threads, direct messages, and channels. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-01-24T08:15:09-08:00",
-          "body": "We’re investigating a problem with threads. We’ll be back with another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-01-24T09:44:17-08:00",
+  "date_updated": "2023-01-24T09:44:17-08:00",
+  "active_incidents": []
 }
