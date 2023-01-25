@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-24T14:37:25-08:00",
-  "date_updated": "2023-01-24T14:37:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-24T18:55:34-08:00",
+  "date_updated": "2023-01-24T18:55:34-08:00",
+  "active_incidents": [
+    {
+      "id": 1175,
+      "date_created": "2023-01-24T18:55:34-08:00",
+      "date_updated": "2023-01-24T18:55:34-08:00",
+      "title": "Workflows using 'Message thread' are failing for Japanese users.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/a3aa541342db6be3",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-24T18:55:34-08:00",
+          "body": "We’re investigating a problem with workflows using'Message thread' failing for Japanese users. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
