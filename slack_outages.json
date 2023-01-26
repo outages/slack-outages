@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-25T09:00:35-08:00",
-  "date_updated": "2023-01-25T09:00:35-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-25T16:38:09-08:00",
+  "date_updated": "2023-01-25T16:38:09-08:00",
+  "active_incidents": [
+    {
+      "id": 1177,
+      "date_created": "2023-01-25T16:38:09-08:00",
+      "date_updated": "2023-01-25T16:38:09-08:00",
+      "title": "Some users having trouble with custom emoji.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/c9f36143337b1368",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-01-25T16:38:09-08:00",
+          "body": "Some users may be experiencing issues with rendering custom emoji. \r\n\r\nWe’re investigating and we’ll post an update as soon as possible."
+        }
+      ]
+    }
+  ]
 }
