@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-01-31T14:38:37-08:00",
-  "date_updated": "2023-01-31T14:38:37-08:00",
-  "active_incidents": [
-    {
-      "id": 1179,
-      "date_created": "2023-01-31T14:06:47-08:00",
-      "date_updated": "2023-01-31T14:38:37-08:00",
-      "title": "Users unable to enter team name when creating a workspace",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-01/603fea25b24ecd52",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-01-31T14:38:37-08:00",
-          "body": "We've identified the cause of this issue and are working on a fix. We'll provide another update once we have more details to share."
-        },
-        {
-          "date_created": "2023-01-31T14:06:47-08:00",
-          "body": "Users are experiencing trouble naming a new Workspace upon sign up. This isn't affecting Workspaces created on Enterprise Grid plans. We're investigating and will let you know as soon as we know more."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-01-31T15:24:06-08:00",
+  "date_updated": "2023-01-31T15:24:06-08:00",
+  "active_incidents": []
 }
