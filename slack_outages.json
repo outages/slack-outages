@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-01-25T20:19:21-08:00",
-  "date_updated": "2023-01-25T20:19:21-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-01-31T12:08:35-08:00",
+  "date_updated": "2023-01-31T12:08:35-08:00",
+  "active_incidents": [
+    {
+      "id": 1178,
+      "date_created": "2023-01-31T12:08:35-08:00",
+      "date_updated": "2023-01-31T12:08:35-08:00",
+      "title": "Errors running workflows",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-01/ebf9da8220a6b05c",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-01-31T12:08:35-08:00",
+          "body": "We’re receiving reports around trouble with workflows. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
