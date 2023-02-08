@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-02-08T14:06:34-08:00",
-  "date_updated": "2023-02-08T14:06:34-08:00",
+  "date_created": "2023-02-08T15:15:00-08:00",
+  "date_updated": "2023-02-08T15:15:00-08:00",
   "active_incidents": [
     {
       "id": 1181,
       "date_created": "2023-02-08T13:34:47-08:00",
-      "date_updated": "2023-02-08T14:06:34-08:00",
+      "date_updated": "2023-02-08T15:15:00-08:00",
       "title": "Searches are failing for some users",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2023-02-08T15:15:00-08:00",
+          "body": "We are continuing to work towards a fix for this issue. As a workaround, users have been able to successfully search by excluding bots from their search results. Here’s how to do it:\r\n\r\n1. Search for a message in Slack\r\n2. Click on the “More filters” option\r\n3. Check the box that reads “Exclude apps, bots, and workflows”\r\n\r\nThank you for your continued patience."
+        },
         {
           "date_created": "2023-02-08T14:06:34-08:00",
           "body": "Thank you for your continued patience while we work on a fix. As a potential workaround, some users have been able to search successfully by excluding bots from their search results. We’ll continue to provide updates as we make progress on this."
