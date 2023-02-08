@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-02-02T19:18:45-08:00",
-  "date_updated": "2023-02-02T19:18:45-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-02-08T13:34:47-08:00",
+  "date_updated": "2023-02-08T13:34:47-08:00",
+  "active_incidents": [
+    {
+      "id": 1181,
+      "date_created": "2023-02-08T13:34:47-08:00",
+      "date_updated": "2023-02-08T13:34:47-08:00",
+      "title": "Searches are failing for some users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-02/afc6a0fd015ea625",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-02-08T13:34:47-08:00",
+          "body": "Some users are experiencing issues when searching for messages in Slack. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption here."
+        }
+      ]
+    }
+  ]
 }
