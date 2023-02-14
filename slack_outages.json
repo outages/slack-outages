@@ -1,25 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2023-02-13T23:00:47-08:00",
   "date_updated": "2023-02-13T23:00:47-08:00",
-  "active_incidents": [
-    {
-      "id": 1182,
-      "date_created": "2023-02-13T23:00:47-08:00",
-      "date_updated": "2023-02-13T23:00:47-08:00",
-      "title": "Threads are currently not loading for some users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-02/763887674ded2cde",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-02-13T23:00:47-08:00",
-          "body": "We’re receiving reports around trouble loading threads in channels that users have not joined yet. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
