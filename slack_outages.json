@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-02-19T21:44:02-08:00",
-  "date_updated": "2023-02-19T21:44:02-08:00",
+  "date_created": "2023-02-20T02:08:04-08:00",
+  "date_updated": "2023-02-20T02:08:04-08:00",
   "active_incidents": [
     {
       "id": 1184,
       "date_created": "2023-02-19T21:44:02-08:00",
-      "date_updated": "2023-02-19T21:44:02-08:00",
+      "date_updated": "2023-02-20T02:08:04-08:00",
       "title": "Some customers are having issues loading the admin page",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2023-02-20T02:08:04-08:00",
+          "body": "Our engineers have now found the cause of this issue and have implemented a remedy. You should be able to log into the admin page as normal again."
+        },
         {
           "date_created": "2023-02-19T21:44:02-08:00",
           "body": "Some customers are encountering issues loading the admin page. We’re actively looking into this, and we’ll report back as more information becomes available.\r\n\r\nIn the meantime, you may be able to open the admin page with the following workaround:\r\n\r\n1. Sign in to your workspace in a web browser (https://slack.com/signin).\r\n2. Click your workspace name to open the menu, then click ‘Settings & administration’ > ‘Manage members’.\r\n\r\nNote: Our original understanding was that this only affected Enterprise Grid customers. It seems like this is not the case, and we've updated the title and description to reflect that."
