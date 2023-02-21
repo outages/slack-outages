@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-02-20T18:02:32-08:00",
-  "date_updated": "2023-02-20T18:02:32-08:00",
+  "date_created": "2023-02-20T18:32:01-08:00",
+  "date_updated": "2023-02-20T18:32:01-08:00",
   "active_incidents": [
     {
       "id": 1185,
       "date_created": "2023-02-20T18:02:32-08:00",
-      "date_updated": "2023-02-20T18:02:32-08:00",
+      "date_updated": "2023-02-20T18:32:01-08:00",
       "title": "Issues with mobile notifications for Enterprise Grid customers",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Notifications"
       ],
       "notes": [
+        {
+          "date_created": "2023-02-20T18:32:01-08:00",
+          "body": "We are still working to investigate and resolve the notification problem. We'll be back with an update as soon as we have news to share."
+        },
         {
           "date_created": "2023-02-20T18:02:32-08:00",
           "body": "Some Enterprise Grid customers may be experiencing issues with the delivery of mobile notifications. We are investigating, and we apologise for the disruption to your work. \r\n\r\nWe'll be back with more information in 30 minutes. Thank you for bearing with us."
