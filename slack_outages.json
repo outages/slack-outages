@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-02-21T11:41:06-08:00",
-  "date_updated": "2023-02-21T11:41:06-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-02-21T20:05:07-08:00",
+  "date_updated": "2023-02-21T20:05:07-08:00",
+  "active_incidents": [
+    {
+      "id": 1186,
+      "date_created": "2023-02-21T20:05:07-08:00",
+      "date_updated": "2023-02-21T20:05:07-08:00",
+      "title": "Some customers are experiencing server errors with the GitHub Enterprise Server app",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-02/8bc92fb069ee6b8a",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-02-21T20:05:07-08:00",
+          "body": "A few customers have reported that GitHub Enterprise Server app (App ID: A0F7YS2SX) are getting HTTP 500 error response."
+        }
+      ]
+    }
+  ]
 }
