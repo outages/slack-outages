@@ -1,26 +1,8 @@
 {
   "status": "active",
-  "date_created": "2023-02-23T20:06:59-08:00",
-  "date_updated": "2023-02-23T20:06:59-08:00",
+  "date_created": "2023-02-23T15:43:57-08:00",
+  "date_updated": "2023-02-23T15:43:57-08:00",
   "active_incidents": [
-    {
-      "id": 1190,
-      "date_created": "2023-02-23T20:06:59-08:00",
-      "date_updated": "2023-02-23T20:06:59-08:00",
-      "title": "Some customers may be experiencing issues with several apps.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-02/7979b0cca971d61d",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-02-23T20:06:59-08:00",
-          "body": "Some customers may have trouble accessing several apps within the workspace. We're very sorry for the trouble, and we're working to resolve this as fast as we can. We'll be back with an update as soon as we have news to share."
-        }
-      ]
-    },
     {
       "id": 1188,
       "date_created": "2023-02-23T15:43:57-08:00",
