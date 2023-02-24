@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-02-24T03:55:58-08:00",
-  "date_updated": "2023-02-24T03:55:58-08:00",
-  "active_incidents": [
-    {
-      "id": 1188,
-      "date_created": "2023-02-23T15:43:57-08:00",
-      "date_updated": "2023-02-24T03:55:58-08:00",
-      "title": "Audio files not loading on iOS",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-02/02601159ddfe8926",
-      "services": [
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-02-24T03:55:58-08:00",
-          "body": "We're still actively investigating, but we don't have any new information to share just yet. We'll provide another update shortly.\r\n\r\nThank you for bearing with us while we are getting to the bottom of this issue."
-        },
-        {
-          "date_created": "2023-02-23T15:43:57-08:00",
-          "body": "Some customers are experiencing Audio files not loading on iOS. We're actively looking into this, and we'll report back as more information becomes available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-02-24T14:18:12-08:00",
+  "date_updated": "2023-02-24T14:18:12-08:00",
+  "active_incidents": []
 }
