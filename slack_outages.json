@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-02-23T18:46:55-08:00",
-  "date_updated": "2023-02-23T18:46:55-08:00",
+  "date_created": "2023-02-23T19:17:42-08:00",
+  "date_updated": "2023-02-23T19:17:42-08:00",
   "active_incidents": [
     {
       "id": 1189,
       "date_created": "2023-02-23T18:15:34-08:00",
-      "date_updated": "2023-02-23T18:46:55-08:00",
+      "date_updated": "2023-02-23T19:17:42-08:00",
       "title": "Some customers in the Phillipines may not be able to connect to Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-02-23T19:17:42-08:00",
+          "body": "We're still actively investigating, but we don't have any new information to share just yet. We'll provide another update in 30 minutes. \r\n\r\nThank you for bearing with us as we tackle this."
+        },
         {
           "date_created": "2023-02-23T18:46:55-08:00",
           "body": "We currently have all hands on deck as we investigate the connectivity issues some customers are facing. We'll return with another update in 30 minutes."
