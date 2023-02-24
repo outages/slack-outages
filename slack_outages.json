@@ -1,8 +1,30 @@
 {
   "status": "active",
-  "date_created": "2023-02-23T15:43:57-08:00",
-  "date_updated": "2023-02-23T15:43:57-08:00",
+  "date_created": "2023-02-23T18:46:55-08:00",
+  "date_updated": "2023-02-23T18:46:55-08:00",
   "active_incidents": [
+    {
+      "id": 1189,
+      "date_created": "2023-02-23T18:15:34-08:00",
+      "date_updated": "2023-02-23T18:46:55-08:00",
+      "title": "Some customers in the Phillipines may not be able to connect to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-02/af03df0d823385ea",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-02-23T18:46:55-08:00",
+          "body": "We currently have all hands on deck as we investigate the connectivity issues some customers are facing. We'll return with another update in 30 minutes."
+        },
+        {
+          "date_created": "2023-02-23T18:15:34-08:00",
+          "body": "Some customers in the Phillipines may not be able to connect to Slack. Some parts of the Slack interface may also be failing to load. We're very sorry for the trouble, and we're working to resolve this as fast as we can. \r\n\r\nWe'll be back with an update in 30 minutes or as soon as we have news to share."
+        }
+      ]
+    },
     {
       "id": 1188,
       "date_created": "2023-02-23T15:43:57-08:00",
