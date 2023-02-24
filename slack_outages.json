@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-02-23T23:55:35-08:00",
-  "date_updated": "2023-02-23T23:55:35-08:00",
+  "date_created": "2023-02-24T00:26:28-08:00",
+  "date_updated": "2023-02-24T00:26:28-08:00",
   "active_incidents": [
     {
       "id": 1190,
       "date_created": "2023-02-23T20:06:59-08:00",
-      "date_updated": "2023-02-23T23:55:35-08:00",
+      "date_updated": "2023-02-24T00:26:28-08:00",
       "title": "Some customers may be experiencing issues with several apps",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-02-24T00:26:28-08:00",
+          "body": "We’re investigating the issue now and will be back with more information as soon as it’s available, or in 30 minutes. Thank you for bearing with us while we look into this."
+        },
         {
           "date_created": "2023-02-23T23:55:35-08:00",
           "body": "We're still investigating and working to resolve this as fast as we can. We’re keeping a close eye on this, and we’ll keep you posted as soon as we have more information."
