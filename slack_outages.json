@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-03-06T11:39:29-08:00",
-  "date_updated": "2023-03-06T11:39:29-08:00",
+  "date_created": "2023-03-06T13:50:00-08:00",
+  "date_updated": "2023-03-06T13:50:00-08:00",
   "active_incidents": [
     {
       "id": 1193,
       "date_created": "2023-03-06T04:03:59-08:00",
-      "date_updated": "2023-03-06T11:39:29-08:00",
+      "date_updated": "2023-03-06T13:50:00-08:00",
       "title": "Some users are not receiving emails from Slack",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,14 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-03-06T13:50:00-08:00",
+          "body": "We've identified a workaround that involves whitelisting Slack domains through your email provider's settings. Please contact feedback@slack.com for next steps if you’re still experiencing the issue."
+        },
+        {
+          "date_created": "2023-03-06T13:48:00-08:00",
+          "body": "We've identified a workaround that involves whitelisting Slack domains through your email provider's settings. Please contact feedback@slack.com for next steps if you’re still experiencing the issue."
+        },
         {
           "date_created": "2023-03-06T11:39:29-08:00",
           "body": "We're still investigating this issue, but as of now, we don't have any new updates to share. We'll report back within 1 hour, unless there are any new developments in our investigation sooner."
