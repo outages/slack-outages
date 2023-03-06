@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-03-06T05:02:41-08:00",
-  "date_updated": "2023-03-06T05:02:41-08:00",
+  "date_created": "2023-03-06T05:40:26-08:00",
+  "date_updated": "2023-03-06T05:40:26-08:00",
   "active_incidents": [
     {
       "id": 1193,
       "date_created": "2023-03-06T04:03:59-08:00",
-      "date_updated": "2023-03-06T05:02:41-08:00",
+      "date_updated": "2023-03-06T05:40:26-08:00",
       "title": "Some Users are not receiving Emails from Slack.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-03-06T05:40:26-08:00",
+          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
+        },
         {
           "date_created": "2023-03-06T05:02:41-08:00",
           "body": "We’re still investigating this issue, but we don’t have additional information just yet. We’ll be back in 30 minutes with another update."
