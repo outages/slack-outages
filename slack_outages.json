@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-03-07T12:46:11-08:00",
-  "date_updated": "2023-03-07T12:46:11-08:00",
-  "active_incidents": [
-    {
-      "id": 1194,
-      "date_created": "2023-03-07T12:46:11-08:00",
-      "date_updated": "2023-03-07T12:46:11-08:00",
-      "title": "Slowness searching in Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-03/95e9c4b099d9b5bc",
-      "services": [
-        "Search"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-03-07T12:46:11-08:00",
-          "body": "We’re looking into an issue that's causing searching in Slack to have missing results and slower response times. In the case of a search timeout, users see an error and are prompted to reload the app."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-03-07T18:53:30-08:00",
+  "date_updated": "2023-03-07T18:53:30-08:00",
+  "active_incidents": []
 }
