@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-03-08T16:40:09-08:00",
-  "date_updated": "2023-03-08T16:40:09-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-03-09T10:06:09-08:00",
+  "date_updated": "2023-03-09T10:06:09-08:00",
+  "active_incidents": [
+    {
+      "id": 1196,
+      "date_created": "2023-03-09T10:06:09-08:00",
+      "date_updated": "2023-03-09T10:06:09-08:00",
+      "title": "Service degradation in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-03/dd0ae32c5786a66f",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-03-09T10:06:09-08:00",
+          "body": "Users may be encountering degraded service in Slack and various API calls are being impacted"
+        }
+      ]
+    }
+  ]
 }
