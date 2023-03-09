@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-03-09T10:06:09-08:00",
-  "date_updated": "2023-03-09T10:06:09-08:00",
+  "date_created": "2023-03-09T10:27:52-08:00",
+  "date_updated": "2023-03-09T10:27:52-08:00",
   "active_incidents": [
     {
       "id": 1196,
       "date_created": "2023-03-09T10:06:09-08:00",
-      "date_updated": "2023-03-09T10:06:09-08:00",
+      "date_updated": "2023-03-09T10:27:52-08:00",
       "title": "Service degradation in Slack",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2023-03-09T10:27:52-08:00",
+          "body": "We’re still actively investigating this issue. In particular, users may be experiencing  trouble with adding bookmarks to channels, using workflows, connecting to Slack, or sending Slack Connect invites. We’ll provide another update as soon as we have more information to share."
+        },
+        {
           "date_created": "2023-03-09T10:06:09-08:00",
-          "body": "Users may be encountering degraded service in Slack and various API calls are being impacted"
+          "body": "Users may be encountering degraded service in Slack and various API calls are being impacted."
         }
       ]
     }
