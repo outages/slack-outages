@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-03-13T14:54:32-07:00",
-  "date_updated": "2023-03-13T14:54:32-07:00",
+  "date_created": "2023-03-13T15:28:53-07:00",
+  "date_updated": "2023-03-13T15:28:53-07:00",
   "active_incidents": [
     {
       "id": 1198,
       "date_created": "2023-03-13T14:54:32-07:00",
-      "date_updated": "2023-03-13T14:54:32-07:00",
+      "date_updated": "2023-03-13T15:28:53-07:00",
       "title": "Enterprise users see slowness or error messages when signing in on mobile",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-03-13T15:28:53-07:00",
+          "body": "We've identified that the login issue is impacting users with Mobile Device Management. We'll let you know as soon as we have more details to share."
+        },
         {
           "date_created": "2023-03-13T14:54:32-07:00",
           "body": "Some mobile users on Enterprise Grid workspaces are experiencing slowness, or seeing the error message \"Device approval required\" when signing into their Slack accounts."
