@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-03-10T12:12:45-08:00",
-  "date_updated": "2023-03-10T12:12:45-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-03-13T14:54:32-07:00",
+  "date_updated": "2023-03-13T14:54:32-07:00",
+  "active_incidents": [
+    {
+      "id": 1198,
+      "date_created": "2023-03-13T14:54:32-07:00",
+      "date_updated": "2023-03-13T14:54:32-07:00",
+      "title": "Grid users see slowness or error messages when signing",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-03/1da534dc3612b14f",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-03-13T14:54:32-07:00",
+          "body": "Some mobile users on Enterprise Grid workspaces are experiencing slowness, or seeing the error message \"Device approval required\" when signing into their Slack accounts."
+        }
+      ]
+    }
+  ]
 }
