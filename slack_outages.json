@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-03-14T08:40:00-07:00",
-  "date_updated": "2023-03-14T08:40:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1199,
-      "date_created": "2023-03-14T02:08:40-07:00",
-      "date_updated": "2023-03-14T08:40:00-07:00",
-      "title": "Some users may experience issues accessing api.slack.com",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-03/9011b8a984a74042",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-03-14T08:40:00-07:00",
-          "body": "Some users have reported SSL errors due to our SSL certificates rotating. \r\nThese can be due to using an outdated client, operating system, or a misconfigured system clock.\r\n\r\nPlease reach out to our team at feedback@slack.com for support with this issue."
-        },
-        {
-          "date_created": "2023-03-14T02:08:40-07:00",
-          "body": "Some users may be experiencing trouble with accessing api.slack.com due to an expired SSL cert. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-03-14T09:57:07-07:00",
+  "date_updated": "2023-03-14T09:57:07-07:00",
+  "active_incidents": []
 }
