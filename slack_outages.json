@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-03-22T06:25:03-07:00",
-  "date_updated": "2023-03-22T06:25:03-07:00",
+  "date_created": "2023-03-22T06:55:02-07:00",
+  "date_updated": "2023-03-22T06:55:02-07:00",
   "active_incidents": [
     {
       "id": 1200,
       "date_created": "2023-03-22T04:45:12-07:00",
-      "date_updated": "2023-03-22T06:25:03-07:00",
+      "date_updated": "2023-03-22T06:55:02-07:00",
       "title": "“Time when workflow started” variable is missing from Workflow Builder steps",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-03-22T06:55:02-07:00",
+          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We’ll provide new information as soon as it’s available."
+        },
         {
           "date_created": "2023-03-22T06:25:03-07:00",
           "body": "We’ve identified the cause of this issue with this Workflow Builder variable and we’re working on getting a fix out as soon as possible. We appreciate you bearing with us in the meantime."
