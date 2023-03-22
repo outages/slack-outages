@@ -1,53 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-03-22T08:59:10-07:00",
-  "date_updated": "2023-03-22T08:59:10-07:00",
-  "active_incidents": [
-    {
-      "id": 1200,
-      "date_created": "2023-03-22T04:45:12-07:00",
-      "date_updated": "2023-03-22T08:59:10-07:00",
-      "title": "“Time when workflow started” variable is missing from Workflow Builder steps",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-03/851ee18978dd79cc",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-03-22T08:59:10-07:00",
-          "body": "We’re seeing signs of improvement, but we are still monitoring the situation. We’ll confirm once the issue is fully resolved or we have another update to share."
-        },
-        {
-          "date_created": "2023-03-22T07:50:14-07:00",
-          "body": "A fix to the recent issue with the Workflow Builder is currently being deployed; we will provide an update once functionality has been fully restored. Thank you for your patience."
-        },
-        {
-          "date_created": "2023-03-22T07:23:22-07:00",
-          "body": "We're in the process of putting together a fix for the recent issue with the Workflow Builder. We'll provide new information as soon as it's available."
-        },
-        {
-          "date_created": "2023-03-22T06:55:02-07:00",
-          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We’ll provide new information as soon as it’s available."
-        },
-        {
-          "date_created": "2023-03-22T06:25:03-07:00",
-          "body": "We’ve identified the cause of this issue with this Workflow Builder variable and we’re working on getting a fix out as soon as possible. We appreciate you bearing with us in the meantime."
-        },
-        {
-          "date_created": "2023-03-22T05:55:23-07:00",
-          "body": "We’re working to fix this issue with this Workflow Builder variable and will post an update here when we have more to share. Thanks for your patience."
-        },
-        {
-          "date_created": "2023-03-22T05:20:54-07:00",
-          "body": "We're still investigating this issue but don't have anything further to share at this time. We'll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-03-22T04:45:12-07:00",
-          "body": "The “Time when workflow started” variable is missing from all steps of the Workflow Builder. It is missing for new workflow configurations, and existing workflows using “Time when workflow started” are still running but may have incomplete data for this variable. We are currently investigating this and apologize for any inconvenience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-03-22T09:54:15-07:00",
+  "date_updated": "2023-03-22T09:54:15-07:00",
+  "active_incidents": []
 }
