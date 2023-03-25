@@ -1,23 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-03-23T18:23:01-07:00",
-  "date_updated": "2023-03-23T18:23:01-07:00",
-  "active_incidents": [
-    {
-      "id": 1201,
-      "date_created": "2023-03-23T18:23:01-07:00",
-      "date_updated": "2023-03-23T18:23:01-07:00",
-      "title": "Some users may experience issues with using the back/forward in history functionality",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-03/c91b6fbe5d4397cd",
-      "services": [],
-      "notes": [
-        {
-          "date_created": "2023-03-23T18:23:01-07:00",
-          "body": "Some users may be experiencing issues with navigation of the back/forward in history functionality. We’re investigating, and will share an update as soon as we know more. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-03-24T16:33:44-07:00",
+  "date_updated": "2023-03-24T16:33:44-07:00",
+  "active_incidents": []
 }
