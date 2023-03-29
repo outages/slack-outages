@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-03-28T15:38:21-07:00",
-  "date_updated": "2023-03-28T15:38:21-07:00",
-  "active_incidents": [
-    {
-      "id": 1203,
-      "date_created": "2023-03-28T15:38:21-07:00",
-      "date_updated": "2023-03-28T15:38:21-07:00",
-      "title": "Some users may be unable to edit messages",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-03/a207156392d94ca4",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-03-28T15:38:21-07:00",
-          "body": "Some users might be having difficulties editing messages due to a recent code change. We have identified the issue and have reverted the code. Once we are satisfied the fix is working we will confirm that things are working as normal."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-03-28T16:50:00-07:00",
+  "date_updated": "2023-03-28T16:50:00-07:00",
+  "active_incidents": []
 }
