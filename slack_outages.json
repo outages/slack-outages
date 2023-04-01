@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-04-01T11:38:37-07:00",
-  "date_updated": "2023-04-01T11:38:37-07:00",
-  "active_incidents": [
-    {
-      "id": 1204,
-      "date_created": "2023-04-01T09:49:24-07:00",
-      "date_updated": "2023-04-01T11:38:37-07:00",
-      "title": "Some users are unable to sign-in using the Continue with Google feature on the Android and iOS app",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-04/7c6ac904c99e5234",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-04-01T11:38:37-07:00",
-          "body": "We've temporarily disabled `Continue with Google` feature on the iOS app. Android users will still see this option but it is currently not working. We'll be back with another update as soon as we have more information to share."
-        },
-        {
-          "date_created": "2023-04-01T09:49:24-07:00",
-          "body": "We're looking into an issue impacting sign-in with `Continue with Google` feature on the Android and iOS app. We'll be back with another update as soon as we have more information to share. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-04-01T12:22:15-07:00",
+  "date_updated": "2023-04-01T12:22:15-07:00",
+  "active_incidents": []
 }
