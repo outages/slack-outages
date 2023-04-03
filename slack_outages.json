@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-04-03T11:16:33-07:00",
-  "date_updated": "2023-04-03T11:16:33-07:00",
+  "date_created": "2023-04-03T11:47:17-07:00",
+  "date_updated": "2023-04-03T11:47:17-07:00",
   "active_incidents": [
     {
       "id": 1205,
       "date_created": "2023-04-03T11:16:33-07:00",
-      "date_updated": "2023-04-03T11:16:33-07:00",
+      "date_updated": "2023-04-03T11:47:17-07:00",
       "title": "Some users have trouble receiving 2FA code via SMS",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-04-03T11:47:17-07:00",
+          "body": "We're seeing signs of improvement, but we're still monitoring the situation. We'll confirm once the issue with SMS 2FA codes is fully resolved or we have another update to share."
+        },
         {
           "date_created": "2023-04-03T11:16:33-07:00",
           "body": "We’re receiving reports around trouble receiving 2FA codes via SMS. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
