@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-04-11T07:36:53-07:00",
-  "date_updated": "2023-04-11T07:36:53-07:00",
-  "active_incidents": [
-    {
-      "id": 1206,
-      "date_created": "2023-04-11T07:36:53-07:00",
-      "date_updated": "2023-04-11T07:36:53-07:00",
-      "title": "Images slow to upload",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-04/d105ce7854fc93d2",
-      "services": [
-        "Posts/Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-04-11T07:36:53-07:00",
-          "body": "We have reports from some customers that images are slow to upload. We are working hard to resolve this issue. We'll be in touch as soon as it is fixed or we have next steps to share. Thank you for your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-04-11T08:16:05-07:00",
+  "date_updated": "2023-04-11T08:16:05-07:00",
+  "active_incidents": []
 }
