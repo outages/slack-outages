@@ -1,33 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2023-04-12T15:55:00-07:00",
   "date_updated": "2023-04-12T15:55:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1207,
-      "date_created": "2023-04-12T13:54:22-07:00",
-      "date_updated": "2023-04-12T15:55:00-07:00",
-      "title": "Direct messages view failing to load",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-04/ac28ceabd64fe276",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-04-12T15:55:00-07:00",
-          "body": "This issue has now been resolved, please reload Slack to restore functionality to the direct messages view. Thank you for your patience while we worked on this."
-        },
-        {
-          "date_created": "2023-04-12T14:28:41-07:00",
-          "body": "We’ve identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
-        },
-        {
-          "date_created": "2023-04-12T13:54:22-07:00",
-          "body": "The Direct messages view is failing to load for some users. In the meantime, direct messages are still accessible in the sidebar and via search. We’re very sorry for the trouble, and we’re working to resolve this as fast as we can."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
