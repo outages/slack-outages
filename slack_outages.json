@@ -1,29 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2023-04-16T14:42:00-07:00",
   "date_updated": "2023-04-16T14:42:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1208,
-      "date_created": "2023-04-16T14:25:32-07:00",
-      "date_updated": "2023-04-16T14:42:00-07:00",
-      "title": "Channels are missing for Android users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-04/6091d7559163f33c",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-04-16T14:42:00-07:00",
-          "body": "A small number of customers reported issues with loading channels in the Android App.  We've identified the cause of this issue and users should no longer be experiencing any trouble.  Apologies for the trouble today and thank you for your patience.\r\n\r\nYou may need to fully close the Slack mobile app multiple times by opening your device's app switcher and swiping up on Slack. \r\n\r\nPlease send a note to feedback@slack.com if you continue to have any trouble upon relaunching Slack."
-        },
-        {
-          "date_created": "2023-04-16T14:25:32-07:00",
-          "body": "A small number of customers reported issues with loading channels in the Android App.  We've identified the cause of this issue and we're actively working to restore Slack for all affected users. We'll be back as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
