@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2023-04-16T16:40:54-07:00",
-  "date_updated": "2023-04-16T16:40:54-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-04-20T07:09:44-07:00",
+  "date_updated": "2023-04-20T07:09:44-07:00",
+  "active_incidents": [
+    {
+      "id": 1209,
+      "date_created": "2023-04-20T07:09:44-07:00",
+      "date_updated": "2023-04-20T07:09:44-07:00",
+      "title": "A small percentage of users may be experiencing slowness in Slack.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-04/9a270de38235b921",
+      "services": [
+        "Apps/Integrations/APIs",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-04-20T07:09:44-07:00",
+          "body": "Some customers may be experiencing latency issues in Slack. Latency may appear as a delay in loading threads, channels and direct Messages, as well as executing workflows. We’re very sorry for any issue experienced, and we’re working to resolve this as fast as we can."
+        }
+      ]
+    }
+  ]
 }
