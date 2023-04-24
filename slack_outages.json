@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-04-24T13:01:58-07:00",
-  "date_updated": "2023-04-24T13:01:58-07:00",
+  "date_created": "2023-04-24T13:40:27-07:00",
+  "date_updated": "2023-04-24T13:40:27-07:00",
   "active_incidents": [
     {
       "id": 1210,
       "date_created": "2023-04-24T13:01:58-07:00",
-      "date_updated": "2023-04-24T13:01:58-07:00",
+      "date_updated": "2023-04-24T13:40:27-07:00",
       "title": "Users are not able to send, shuffle or cancel gifs with Giphy.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-04-24T13:40:27-07:00",
+          "body": "We've identified the root cause of this issue, and our engineering team is currently working on rolling out a fix. We will let you know as soon as we have any further updates. Thank you for continuing to bear with us!"
+        },
         {
           "date_created": "2023-04-24T13:01:58-07:00",
           "body": "Users may be experiencing trouble with sending, shuffling, and cancelling gifs with Giphy. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
