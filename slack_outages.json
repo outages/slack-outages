@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-04-24T16:29:34-07:00",
-  "date_updated": "2023-04-24T16:29:34-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-04-28T17:01:32-07:00",
+  "date_updated": "2023-04-28T17:01:32-07:00",
+  "active_incidents": [
+    {
+      "id": 1211,
+      "date_created": "2023-04-28T17:01:32-07:00",
+      "date_updated": "2023-04-28T17:01:32-07:00",
+      "title": "Slack.com links are broken for some users on Enterprise Grid",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-04/aacc14003e92c232",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-04-28T17:01:32-07:00",
+          "body": "Some users on Enterprise Grid are reporting incorrect routing when accessing https://slack.com/ links. Users are finding themselves at an incorrect landing page. We're looking into this and will share an update once we have more information.\r\n\r\nThank you for your patience."
+        }
+      ]
+    }
+  ]
 }
