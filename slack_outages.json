@@ -1,6 +1,29 @@
 {
-  "status": "ok",
-  "date_created": "2023-05-01T20:25:35-07:00",
-  "date_updated": "2023-05-01T20:25:35-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-05-16T16:19:50-07:00",
+  "date_updated": "2023-05-16T16:19:50-07:00",
+  "active_incidents": [
+    {
+      "id": 1213,
+      "date_created": "2023-05-16T16:10:03-07:00",
+      "date_updated": "2023-05-16T16:19:50-07:00",
+      "title": "Custom reminders are not working",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/f8fb9eb17b590a12",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-16T16:19:50-07:00",
+          "body": "We've identified the issue and are working on a fix. We will update you when we know things are working properly once more."
+        },
+        {
+          "date_created": "2023-05-16T16:10:03-07:00",
+          "body": "Some users are reporting that they are not able to set custom reminders from the \"remind me about this message\" prompt on desktop and mobile. We are currently investigating and will provide updates as we know more. Thanks for your patience!"
+        }
+      ]
+    }
+  ]
 }
