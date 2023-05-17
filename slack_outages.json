@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-05-17T07:58:25-07:00",
-  "date_updated": "2023-05-17T07:58:25-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-05-17T12:05:02-07:00",
+  "date_updated": "2023-05-17T12:05:02-07:00",
+  "active_incidents": [
+    {
+      "id": 1215,
+      "date_created": "2023-05-17T12:05:02-07:00",
+      "date_updated": "2023-05-17T12:05:02-07:00",
+      "title": "Slack is not loading properly for some users",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/72e5e8644f160e6a",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-17T12:05:02-07:00",
+          "body": "Some users are reporting an error page when trying to connect to Slack. We're working on this and will share an update within the next 30 minutes."
+        }
+      ]
+    }
+  ]
 }
