@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-05-17T15:40:00-07:00",
-  "date_updated": "2023-05-17T15:40:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-05-21T18:43:56-07:00",
+  "date_updated": "2023-05-21T18:43:56-07:00",
+  "active_incidents": [
+    {
+      "id": 1216,
+      "date_created": "2023-05-21T18:43:56-07:00",
+      "date_updated": "2023-05-21T18:43:56-07:00",
+      "title": "Some users unable to post reminders with custom emoji",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/8e89e3e3b313b225",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-21T18:43:56-07:00",
+          "body": "Some users may be experiencing issues with posting reminders when custom emoji is included in the text. We’re investigating, and will let you know as soon as we have an update to share. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
