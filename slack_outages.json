@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-05-22T22:15:43-07:00",
-  "date_updated": "2023-05-22T22:15:43-07:00",
-  "active_incidents": [
-    {
-      "id": 1217,
-      "date_created": "2023-05-22T22:15:43-07:00",
-      "date_updated": "2023-05-22T22:15:43-07:00",
-      "title": "Some users from Indonesia are having trouble connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-05/df664b4db7d12627",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-05-22T22:15:43-07:00",
-          "body": "Some users from Indonesia may have trouble connecting to Slack at this time. \r\n\r\nOur team is investigating, and we'll follow up with more information as soon as we have it. We apologize for any disruption to your work."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-05-22T23:16:18-07:00",
+  "date_updated": "2023-05-22T23:16:18-07:00",
+  "active_incidents": []
 }
