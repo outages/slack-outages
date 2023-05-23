@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-05-23T03:55:59-07:00",
-  "date_updated": "2023-05-23T03:55:59-07:00",
+  "date_created": "2023-05-23T05:23:03-07:00",
+  "date_updated": "2023-05-23T05:23:03-07:00",
   "active_incidents": [
     {
       "id": 1218,
       "date_created": "2023-05-23T03:55:59-07:00",
-      "date_updated": "2023-05-23T03:55:59-07:00",
+      "date_updated": "2023-05-23T05:23:03-07:00",
       "title": "Some users are reporting issues triggering shortcut Workflows",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workflows"
       ],
       "notes": [
+        {
+          "date_created": "2023-05-23T05:23:03-07:00",
+          "body": "We’re still looking into the cause of the executing workflows issue, and we’ll provide new information as soon as it’s available. We apologize for the continued trouble."
+        },
         {
           "date_created": "2023-05-23T03:55:59-07:00",
           "body": "Some users are reporting issues triggering shortcut Workflows at the moment. The team are currently working hard to fix this. We're very sorry for any inconvenience caused in the meantime."
