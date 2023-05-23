@@ -1,8 +1,28 @@
 {
   "status": "active",
-  "date_created": "2023-05-23T05:23:03-07:00",
-  "date_updated": "2023-05-23T05:23:03-07:00",
+  "date_created": "2023-05-23T09:02:19-07:00",
+  "date_updated": "2023-05-23T09:02:19-07:00",
   "active_incidents": [
+    {
+      "id": 1219,
+      "date_created": "2023-05-23T09:02:19-07:00",
+      "date_updated": "2023-05-23T09:02:19-07:00",
+      "title": "Users experiencing issues loading channels and adding users to channel",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/f1df0cac8d8d8d68",
+      "services": [
+        "Connections",
+        "Messaging",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-23T09:02:19-07:00",
+          "body": "We're receiving reports that a small percentage of users are experiencing issues with loading and sending messages. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    },
     {
       "id": 1218,
       "date_created": "2023-05-23T03:55:59-07:00",
