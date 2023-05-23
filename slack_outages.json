@@ -7,7 +7,7 @@
       "id": 1219,
       "date_created": "2023-05-23T09:02:19-07:00",
       "date_updated": "2023-05-23T09:32:40-07:00",
-      "title": "Users experiencing issues loading channels and adding users to channel",
+      "title": "A small percentage of users are experiencing issues with Slack.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-05/f1df0cac8d8d8d68",
