@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2023-05-23T05:23:03-07:00",
-  "date_updated": "2023-05-23T05:23:03-07:00",
+  "date_created": "2023-05-23T19:57:08-07:00",
+  "date_updated": "2023-05-23T19:57:08-07:00",
   "active_incidents": [
+    {
+      "id": 1220,
+      "date_created": "2023-05-23T19:57:08-07:00",
+      "date_updated": "2023-05-23T19:57:08-07:00",
+      "title": "Users reporting trouble loading profile information",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/b98bebfae64a9007",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-23T19:57:08-07:00",
+          "body": "We are currently investigating an issue where profile information is failing to load for some users, resulting in blank profile pictures, display names and emojis. \r\n\r\nWe apologise for the disruption and please stay tuned for updates as we work to resolve this."
+        }
+      ]
+    },
     {
       "id": 1218,
       "date_created": "2023-05-23T03:55:59-07:00",
