@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-05-30T08:35:22-07:00",
-  "date_updated": "2023-05-30T08:35:22-07:00",
+  "date_created": "2023-05-30T09:56:30-07:00",
+  "date_updated": "2023-05-30T09:56:30-07:00",
   "active_incidents": [
     {
       "id": 1221,
       "date_created": "2023-05-30T08:35:22-07:00",
-      "date_updated": "2023-05-30T08:35:22-07:00",
+      "date_updated": "2023-05-30T09:56:30-07:00",
       "title": "Autocomplete results ranking in search degraded",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Search"
       ],
       "notes": [
+        {
+          "date_created": "2023-05-30T09:56:30-07:00",
+          "body": "We've figured out the cause of the autocomplete results in search, and we're working to get things back to normal as quickly as possible. We appreciate you bearing with us in the meantime."
+        },
         {
           "date_created": "2023-05-30T08:35:22-07:00",
           "body": "We’re investigating a problem with the ranking of autocomplete suggestions in search. We’ll be back with another update as soon as we have more information to share."
