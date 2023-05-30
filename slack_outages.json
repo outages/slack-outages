@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-05-25T08:36:20-07:00",
-  "date_updated": "2023-05-25T08:36:20-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-05-30T08:35:22-07:00",
+  "date_updated": "2023-05-30T08:35:22-07:00",
+  "active_incidents": [
+    {
+      "id": 1221,
+      "date_created": "2023-05-30T08:35:22-07:00",
+      "date_updated": "2023-05-30T08:35:22-07:00",
+      "title": "Autocomplete results ranking in search degraded",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-05/aa025f4aef896b16",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-05-30T08:35:22-07:00",
+          "body": "We’re investigating a problem with the ranking of autocomplete suggestions in search. We’ll be back with another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
