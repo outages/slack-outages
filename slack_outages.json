@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-05-31T08:27:09-07:00",
-  "date_updated": "2023-05-31T08:27:09-07:00",
+  "date_created": "2023-05-31T09:01:09-07:00",
+  "date_updated": "2023-05-31T09:01:09-07:00",
   "active_incidents": [
     {
       "id": 1222,
       "date_created": "2023-05-31T08:27:09-07:00",
-      "date_updated": "2023-05-31T08:27:09-07:00",
+      "date_updated": "2023-05-31T09:01:09-07:00",
       "title": "Reacji Channeler app is failing for some users",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-05-31T09:01:09-07:00",
+          "body": "We're still investigating issues with the Reacji Channeler app. No additional information to share just yet, but we'll keep you posted as soon we have an update."
+        },
         {
           "date_created": "2023-05-31T08:27:09-07:00",
           "body": "We're investigating a problem with the Reacji Channeler app. We'll be back with another update as soon as we have more information to share."
