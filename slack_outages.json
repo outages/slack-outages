@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-02T16:27:49-07:00",
-  "date_updated": "2023-06-02T16:27:49-07:00",
-  "active_incidents": [
-    {
-      "id": 1224,
-      "date_created": "2023-06-02T16:27:49-07:00",
-      "date_updated": "2023-06-02T16:27:49-07:00",
-      "title": "Issues with Workflow Builder",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/f7c5d1e455e95466",
-      "services": [
-        "Workflows"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-02T16:27:49-07:00",
-          "body": "Some users are reporting large empty spaces in the Workflow Builder UI and issues with publishing/adding or editing steps in a workflow. We're actively looking into this, and we'll report back as more information becomes available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-04T20:52:36-07:00",
+  "date_updated": "2023-06-04T20:52:36-07:00",
+  "active_incidents": []
 }
