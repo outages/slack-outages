@@ -1,18 +1,22 @@
 {
   "status": "active",
-  "date_created": "2023-06-05T05:06:33-07:00",
-  "date_updated": "2023-06-05T05:06:33-07:00",
+  "date_created": "2023-06-05T08:51:54-07:00",
+  "date_updated": "2023-06-05T08:51:54-07:00",
   "active_incidents": [
     {
       "id": 1225,
       "date_created": "2023-06-05T00:18:47-07:00",
-      "date_updated": "2023-06-05T05:06:33-07:00",
+      "date_updated": "2023-06-05T08:51:54-07:00",
       "title": "Some files may not be unfurling as expected",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-06/6cb0bb4f227a82e8",
       "services": [],
       "notes": [
+        {
+          "date_created": "2023-06-05T08:51:54-07:00",
+          "body": "We are still investigating issues that some users may experience with unfurling when uploading files to Slack. We'll provide another update as soon as we have more details to share."
+        },
         {
           "date_created": "2023-06-05T05:06:33-07:00",
           "body": "We’re still investigating issues some users may experience with unfurling when uploading files to Slack. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
