@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-11T12:11:23-07:00",
-  "date_updated": "2023-06-11T12:11:23-07:00",
-  "active_incidents": [
-    {
-      "id": 1226,
-      "date_created": "2023-06-11T12:11:23-07:00",
-      "date_updated": "2023-06-11T12:11:23-07:00",
-      "title": "Some users are experiencing connectivity issues",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/1bd97a73cb7874f1",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-11T12:11:23-07:00",
-          "body": "Some users might be experiencing connectivity issues when trying to access Slack. We're actively investigating this issue and will provide another update once we have more details to share. We’re sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-11T13:02:32-07:00",
+  "date_updated": "2023-06-11T13:02:32-07:00",
+  "active_incidents": []
 }
