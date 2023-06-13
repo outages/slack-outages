@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-12T07:56:48-07:00",
-  "date_updated": "2023-06-12T07:56:48-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-13T12:46:08-07:00",
+  "date_updated": "2023-06-13T12:46:08-07:00",
+  "active_incidents": [
+    {
+      "id": 1227,
+      "date_created": "2023-06-13T12:46:08-07:00",
+      "date_updated": "2023-06-13T12:46:08-07:00",
+      "title": "Trouble with workflows and clips transcripts",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/a0c185e5ad5eac55",
+      "services": [
+        "Workflows"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-13T12:46:08-07:00",
+          "body": "Some users are experiencing issues with workflows and clips transcriptions. We are looking into this and will provide another update as soon as we have more details to share. Thank you for bearing with us in the meantime."
+        }
+      ]
+    }
+  ]
 }
