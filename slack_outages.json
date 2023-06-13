@@ -1,46 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-13T15:25:13-07:00",
-  "date_updated": "2023-06-13T15:25:13-07:00",
-  "active_incidents": [
-    {
-      "id": 1227,
-      "date_created": "2023-06-13T12:46:08-07:00",
-      "date_updated": "2023-06-13T15:25:13-07:00",
-      "title": "Trouble with workflows and clips transcripts",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/a0c185e5ad5eac55",
-      "services": [
-        "Huddles",
-        "Apps/Integrations/APIs",
-        "Workflows",
-        "Connections",
-        "Canvases",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-13T15:25:13-07:00",
-          "body": "We are holding steady and waiting for upstream confirmation that the issue is resolved. Thank you for your patience!"
-        },
-        {
-          "date_created": "2023-06-13T14:51:07-07:00",
-          "body": "Most impacted features are showing continued signs of improvement. We’ll share another update once the upstream provider confirms they’ve fully remediated their issues."
-        },
-        {
-          "date_created": "2023-06-13T14:13:06-07:00",
-          "body": "We’re seeing signs of improvement, but we’re still monitoring the situation as the upstream provider continues to fully remediate their issues."
-        },
-        {
-          "date_created": "2023-06-13T13:24:37-07:00",
-          "body": "A small number of users may still be experiencing trouble in Slack, specifically with clips transcribing and transcoding, execution of workflows with custom functions, new deployments of apps with hosted functions, and some latency when using canvases.\r\n\r\nThis partial service degradation is due to an upstream service provider issue.\r\n\r\nThat provider is actively working to rectify those issues and we’ll let you know as soon as we have another update to share."
-        },
-        {
-          "date_created": "2023-06-13T12:46:08-07:00",
-          "body": "Some users are experiencing issues with workflows and clips transcriptions. We are looking into this and will provide another update as soon as we have more details to share. Thank you for bearing with us in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-13T16:01:41-07:00",
+  "date_updated": "2023-06-13T16:01:41-07:00",
+  "active_incidents": []
 }
