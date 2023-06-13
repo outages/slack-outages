@@ -1,20 +1,27 @@
 {
   "status": "active",
-  "date_created": "2023-06-13T12:46:08-07:00",
-  "date_updated": "2023-06-13T12:46:08-07:00",
+  "date_created": "2023-06-13T13:27:52-07:00",
+  "date_updated": "2023-06-13T13:27:52-07:00",
   "active_incidents": [
     {
       "id": 1227,
       "date_created": "2023-06-13T12:46:08-07:00",
-      "date_updated": "2023-06-13T12:46:08-07:00",
+      "date_updated": "2023-06-13T13:27:52-07:00",
       "title": "Trouble with workflows and clips transcripts",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-06/a0c185e5ad5eac55",
       "services": [
-        "Workflows"
+        "Workflows",
+        "Canvases",
+        "Huddles",
+        "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-06-13T13:24:37-07:00",
+          "body": "A small number of users may still be experiencing trouble in Slack, specifically with clips transcribing and transcoding, execution of workflows with custom functions, new deployments of apps with hosted functions, and some latency when using canvases.\r\n\r\nThis partial service degradation is due to an upstream service provider issue.\r\n\r\nThat provider is actively working to rectify those issues and we’ll let you know as soon as we have another update to share."
+        },
         {
           "date_created": "2023-06-13T12:46:08-07:00",
           "body": "Some users are experiencing issues with workflows and clips transcriptions. We are looking into this and will provide another update as soon as we have more details to share. Thank you for bearing with us in the meantime."
