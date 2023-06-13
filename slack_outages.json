@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-06-13T14:13:06-07:00",
-  "date_updated": "2023-06-13T14:13:06-07:00",
+  "date_created": "2023-06-13T15:25:13-07:00",
+  "date_updated": "2023-06-13T15:25:13-07:00",
   "active_incidents": [
     {
       "id": 1227,
       "date_created": "2023-06-13T12:46:08-07:00",
-      "date_updated": "2023-06-13T14:13:06-07:00",
+      "date_updated": "2023-06-13T15:25:13-07:00",
       "title": "Trouble with workflows and clips transcripts",
       "type": "incident",
       "status": "active",
@@ -20,6 +20,14 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-06-13T15:25:13-07:00",
+          "body": "We are holding steady and waiting for upstream confirmation that the issue is resolved. Thank you for your patience!"
+        },
+        {
+          "date_created": "2023-06-13T14:51:07-07:00",
+          "body": "Most impacted features are showing continued signs of improvement. We’ll share another update once the upstream provider confirms they’ve fully remediated their issues."
+        },
         {
           "date_created": "2023-06-13T14:13:06-07:00",
           "body": "We’re seeing signs of improvement, but we’re still monitoring the situation as the upstream provider continues to fully remediate their issues."
