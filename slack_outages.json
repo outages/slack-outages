@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-06-15T02:13:29-07:00",
-  "date_updated": "2023-06-15T02:13:29-07:00",
+  "date_created": "2023-06-15T03:45:28-07:00",
+  "date_updated": "2023-06-15T03:45:28-07:00",
   "active_incidents": [
     {
       "id": 1228,
       "date_created": "2023-06-14T16:01:54-07:00",
-      "date_updated": "2023-06-15T02:13:29-07:00",
+      "date_updated": "2023-06-15T03:45:28-07:00",
       "title": "Trouble with workflows, loading channels and accessing Slack",
       "type": "incident",
       "status": "active",
@@ -19,8 +19,8 @@
       ],
       "notes": [
         {
-          "date_created": "2023-06-15T02:13:29-07:00",
-          "body": "We're still actively looking into issues with running workflows, loading channels and accessing Slack. Thank you for your patience as we work towards resolving this as quickly as possible."
+          "date_created": "2023-06-15T03:45:28-07:00",
+          "body": "Thank you for your patience. We believe we have identified the root cause of issues with running workflows, loading channels and accessing Slack. Our team is actively working towards a fix for this issue and we will share another update shortly."
         },
         {
           "date_created": "2023-06-15T02:12:29-07:00",
