@@ -12,10 +12,10 @@
       "status": "active",
       "url": "https://status.slack.com/2023-06/7363f55dbcde89c1",
       "services": [
+        "Search",
         "Connections",
         "Messaging",
-        "Files",
-        "Search"
+        "Files"
       ],
       "notes": [
         {
