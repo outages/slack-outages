@@ -1,6 +1,28 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-15T04:58:47-07:00",
-  "date_updated": "2023-06-15T04:58:47-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-15T08:59:33-07:00",
+  "date_updated": "2023-06-15T08:59:33-07:00",
+  "active_incidents": [
+    {
+      "id": 1229,
+      "date_created": "2023-06-15T08:59:33-07:00",
+      "date_updated": "2023-06-15T08:59:33-07:00",
+      "title": "Some users may notice slow performance throughout Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/7363f55dbcde89c1",
+      "services": [
+        "Connections",
+        "Messaging",
+        "Files",
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-15T08:59:33-07:00",
+          "body": "Some users may experience slow performance throughout Slack which may affect their ability to load channels, amongst other features. We’re investigating and we’ll provide another update as soon as we have more information to share. Apologies for the disruption in the meantime."
+        }
+      ]
+    }
+  ]
 }
