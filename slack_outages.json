@@ -1,48 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-15T03:45:28-07:00",
-  "date_updated": "2023-06-15T03:45:28-07:00",
-  "active_incidents": [
-    {
-      "id": 1228,
-      "date_created": "2023-06-14T16:01:54-07:00",
-      "date_updated": "2023-06-15T03:45:28-07:00",
-      "title": "Trouble with workflows, loading channels and accessing Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/20df18536cc9524b",
-      "services": [
-        "Apps/Integrations/APIs",
-        "Workflows",
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-15T03:45:28-07:00",
-          "body": "Thank you for your patience. We believe we have identified the root cause of issues with running workflows, loading channels and accessing Slack. Our team is actively working towards a fix for this issue and we will share another update shortly."
-        },
-        {
-          "date_created": "2023-06-15T02:12:29-07:00",
-          "body": "We're still actively looking into issues with running workflows, loading channels and accessing Slack. Thank you for your patience as we work towards resolving this as quickly as possible."
-        },
-        {
-          "date_created": "2023-06-14T19:43:35-07:00",
-          "body": "We're still receiving reports of users with issues running workflows, loading channels and accessing Slack. We're very sorry for the disruption and we're working to resolve this as fast as we can."
-        },
-        {
-          "date_created": "2023-06-14T16:52:00-07:00",
-          "body": "We have resolved the issue and all affected functionality should be restored for users. Thank you for your patience while we worked on fixing this."
-        },
-        {
-          "date_created": "2023-06-14T16:20:00-07:00",
-          "body": "We've identified that this issue relates to trouble with several API calls, in addition, sending messages and workflows have been affected by this. We are seeing signs of recovery, but we continue to investigate. We'll share an update on our progress as soon as possible. Thank you for your continued patience."
-        },
-        {
-          "date_created": "2023-06-14T16:01:54-07:00",
-          "body": "Some users are reporting issues with running workflows, loading channels and accessing Slack. We are looking into this and will provide another update as soon as we have more details to share. Thank you for bearing with us in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-15T04:58:47-07:00",
+  "date_updated": "2023-06-15T04:58:47-07:00",
+  "active_incidents": []
 }
