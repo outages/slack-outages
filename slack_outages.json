@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-15T21:41:44-07:00",
-  "date_updated": "2023-06-15T21:41:44-07:00",
-  "active_incidents": [
-    {
-      "id": 1230,
-      "date_created": "2023-06-15T21:41:44-07:00",
-      "date_updated": "2023-06-15T21:41:44-07:00",
-      "title": "Trouble with Google Calendar and Outlook Calendar App",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/4edd40b2f4290679",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-15T21:41:44-07:00",
-          "body": "Some users may be experiencing issues with the Google Calendar and Outlook Calendar App not status syncing and event reminders not working. \r\nWe’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption caused."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-16T03:48:26-07:00",
+  "date_updated": "2023-06-16T03:48:26-07:00",
+  "active_incidents": []
 }
