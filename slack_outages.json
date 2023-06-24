@@ -1,45 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-23T12:57:03-07:00",
-  "date_updated": "2023-06-23T12:57:03-07:00",
-  "active_incidents": [
-    {
-      "id": 1231,
-      "date_created": "2023-06-23T09:40:56-07:00",
-      "date_updated": "2023-06-23T12:57:03-07:00",
-      "title": "Users may be experiencing increased loading time or delays when switching between channels",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/a8931305c8cbcf0e",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-23T12:57:03-07:00",
-          "body": "Our investigation into this issue is still ongoing at this time. We can confirm that any latency users experience when loading channels, conversations or Threads is low. Our engineering team is working hard to resolve this issue, and we will return with an update as soon as we have more information to share. Thank you for bearing with us!"
-        },
-        {
-          "date_created": "2023-06-23T12:00:02-07:00",
-          "body": "No additional news to share just yet, but we're focused on getting things back to normal as quickly as we can. We are still looking into the issue where some users are experiencing delays when loading or switching channels, conversation history or the Threads view. Some users may also experience trouble with sending messages. We apologize for the continued trouble and appreciate your patience today."
-        },
-        {
-          "date_created": "2023-06-23T11:25:00-07:00",
-          "body": "We are continuing to investigate the issue where some users are experiencing delays when loading or switching channels, conversation history or the Threads view. Users have also reported trouble with sending messages.  We'll continue to provide updates on a regular basis.  Thank you for your patience!"
-        },
-        {
-          "date_created": "2023-06-23T10:55:00-07:00",
-          "body": "We are still investigating the issue where some users are experiencing delays when loading or switching channels, conversation history or the Threads view. We'll let you know as soon as we have more details to share."
-        },
-        {
-          "date_created": "2023-06-23T10:17:00-07:00",
-          "body": "Users are experiencing delays when loading or switching channels, conversation history or the Threads view.  We're continuing to investigate, and will let you know as soon as we have more information. We appreciate your patience in the meantime."
-        },
-        {
-          "date_created": "2023-06-23T09:40:56-07:00",
-          "body": "Users may experience delays when loading channels, conversation history or when switching channels. We're investigating and will let you know as soon as we have more information. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-23T17:09:02-07:00",
+  "date_updated": "2023-06-23T17:09:02-07:00",
+  "active_incidents": []
 }
