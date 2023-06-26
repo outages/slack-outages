@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-06-26T08:56:31-07:00",
-  "date_updated": "2023-06-26T08:56:31-07:00",
+  "date_created": "2023-06-26T09:46:57-07:00",
+  "date_updated": "2023-06-26T09:46:57-07:00",
   "active_incidents": [
     {
       "id": 1233,
       "date_created": "2023-06-26T08:23:51-07:00",
-      "date_updated": "2023-06-26T08:56:31-07:00",
+      "date_updated": "2023-06-26T09:46:57-07:00",
       "title": "Users unable to create user groups",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2023-06-26T09:46:57-07:00",
+          "body": "We're still investigating this issue, but we don't have additional information quite yet. We'll be back with another update as more information becomes available. In the meantime admins can still create user groups via workspace settings: https://my.slack.com/admin/user_groups."
+        },
         {
           "date_created": "2023-06-26T08:56:31-07:00",
           "body": "We're still investigating users being unable to create user groups from within Slack. As we continue to investigate, admins can still create user groups in workspace settings: https://my.slack.com/admin/user_groups. We’ll let you know as soon as we have another update to share."
