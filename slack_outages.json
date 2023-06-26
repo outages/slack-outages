@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-26T02:36:50-07:00",
-  "date_updated": "2023-06-26T02:36:50-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-26T08:23:51-07:00",
+  "date_updated": "2023-06-26T08:23:51-07:00",
+  "active_incidents": [
+    {
+      "id": 1233,
+      "date_created": "2023-06-26T08:23:51-07:00",
+      "date_updated": "2023-06-26T08:23:51-07:00",
+      "title": "Users unable to create user groups",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/e9d38ae3f06e5cfe",
+      "services": [
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-26T08:23:51-07:00",
+          "body": "Users may be unable to create user groups. We're currently investigating, and we'll share updates as we have more information. We're sorry for any disruption."
+        }
+      ]
+    }
+  ]
 }
