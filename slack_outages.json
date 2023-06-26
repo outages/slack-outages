@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-23T17:09:02-07:00",
-  "date_updated": "2023-06-23T17:09:02-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-25T20:36:04-07:00",
+  "date_updated": "2023-06-25T20:36:04-07:00",
+  "active_incidents": [
+    {
+      "id": 1232,
+      "date_created": "2023-06-25T20:36:04-07:00",
+      "date_updated": "2023-06-25T20:36:04-07:00",
+      "title": "Issues sending messages with files",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/40f7ccc7ae160447",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-25T20:36:04-07:00",
+          "body": "Some customers are experiencing issues sending messages with attached files. We are currently working on to fix this. We’re very sorry for any inconvenience caused in the meantime."
+        }
+      ]
+    }
+  ]
 }
