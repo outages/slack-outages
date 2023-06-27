@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-27T02:03:32-07:00",
-  "date_updated": "2023-06-27T02:03:32-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-27T12:56:57-07:00",
+  "date_updated": "2023-06-27T12:56:57-07:00",
+  "active_incidents": [
+    {
+      "id": 1234,
+      "date_created": "2023-06-27T12:56:57-07:00",
+      "date_updated": "2023-06-27T12:56:57-07:00",
+      "title": "Some users may be experiencing issues loading threads or connecting to Slack.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/511f645055892966",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-27T12:56:57-07:00",
+          "body": "Some users might be experiencing connectivity issues when trying to connect to Slack or load threads.\r\n\r\nWe're currently investigating this issue and will provide another update once we have more details to share. We’re sorry for any disruption this may have caused."
+        }
+      ]
+    }
+  ]
 }
