@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-06-28T12:57:51-07:00",
-  "date_updated": "2023-06-28T12:57:51-07:00",
-  "active_incidents": [
-    {
-      "id": 1235,
-      "date_created": "2023-06-28T12:57:51-07:00",
-      "date_updated": "2023-06-28T12:57:51-07:00",
-      "title": "Users may experience slow-to-load threads",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-06/838a7ee19a81940e",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-06-28T12:57:51-07:00",
-          "body": "Some users might be experiencing a delay in loading threads. \r\n\r\nWe're currently investigating this issue and will provide another update once we have more details to share. We’re sorry for any disruption this may have caused."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-06-28T13:57:28-07:00",
+  "date_updated": "2023-06-28T13:57:28-07:00",
+  "active_incidents": []
 }
