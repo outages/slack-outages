@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-28T13:57:28-07:00",
-  "date_updated": "2023-06-28T13:57:28-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-29T12:40:20-07:00",
+  "date_updated": "2023-06-29T12:40:20-07:00",
+  "active_incidents": [
+    {
+      "id": 1236,
+      "date_created": "2023-06-29T12:40:20-07:00",
+      "date_updated": "2023-06-29T12:40:20-07:00",
+      "title": "Trouble with Slack API Website",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/469a7534a9fd990a",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-29T12:40:20-07:00",
+          "body": "We have received reports of users experiencing trouble loading our api.slack.com website. API calls should still function as normal in Slack. We're investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
