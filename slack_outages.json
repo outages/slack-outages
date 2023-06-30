@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-06-30T12:23:01-07:00",
-  "date_updated": "2023-06-30T12:23:01-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-06-30T14:25:48-07:00",
+  "date_updated": "2023-06-30T14:25:48-07:00",
+  "active_incidents": [
+    {
+      "id": 1238,
+      "date_created": "2023-06-30T14:25:48-07:00",
+      "date_updated": "2023-06-30T14:25:48-07:00",
+      "title": "Some users may still be experiencing trouble logging in",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-06/e4f9c32806cc233f",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-06-30T14:25:48-07:00",
+          "body": "Some users may be still be experiencing trouble logging in with magic link codes. As a workaround, users may login using their email address and password. We apologize for the disruption and will share updates as we have more information."
+        }
+      ]
+    }
+  ]
 }
