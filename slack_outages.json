@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-07-06T09:52:33-07:00",
-  "date_updated": "2023-07-06T09:52:33-07:00",
-  "active_incidents": [
-    {
-      "id": 1239,
-      "date_created": "2023-07-06T09:52:33-07:00",
-      "date_updated": "2023-07-06T09:52:33-07:00",
-      "title": "Users may be experiencing issues with text previews.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-07/b0781e1094d3cd69",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-07-06T09:52:33-07:00",
-          "body": "Some users may be receiving notifications with the preview \"This message contains interactive elements\" instead of the actual preview text.\r\n\r\nWe're currently investigating the issue and will provide another update once we have more details to share. We’re sorry for any disruption this may have caused."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-07-06T12:26:42-07:00",
+  "date_updated": "2023-07-06T12:26:42-07:00",
+  "active_incidents": []
 }
