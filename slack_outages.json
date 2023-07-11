@@ -1,32 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-07-10T20:05:21-07:00",
-  "date_updated": "2023-07-10T20:05:21-07:00",
-  "active_incidents": [
-    {
-      "id": 1240,
-      "date_created": "2023-07-10T19:35:38-07:00",
-      "date_updated": "2023-07-10T20:05:21-07:00",
-      "title": "Trouble connecting to Slack and performing some actions",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-07/0f34cdaa00a02b51",
-      "services": [
-        "Files",
-        "Search",
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-07-10T20:05:21-07:00",
-          "body": "We have identified the issue and taken steps to mitigate the impact to customers. We're seeing steady improvements, but we still have some work to do. \r\n\r\nWe'll provide another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-07-10T19:35:38-07:00",
-          "body": "Customers may be running into errors when connecting to Slack or trying to perform some actions within Slack. We have all hands on deck investigating, and we'll be back with more information in 30 minutes or as soon as we have news to share.\r\n\r\nWe apologize for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-07-10T20:18:38-07:00",
+  "date_updated": "2023-07-10T20:18:38-07:00",
+  "active_incidents": []
 }
