@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-07-21T15:07:14-07:00",
-  "date_updated": "2023-07-21T15:07:14-07:00",
+  "date_created": "2023-07-21T16:04:07-07:00",
+  "date_updated": "2023-07-21T16:04:07-07:00",
   "active_incidents": [
     {
       "id": 1243,
       "date_created": "2023-07-21T15:07:14-07:00",
-      "date_updated": "2023-07-21T15:07:14-07:00",
+      "date_updated": "2023-07-21T16:04:07-07:00",
       "title": "Option to unarchive private channels is missing",
       "type": "incident",
       "status": "active",
@@ -17,6 +17,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2023-07-21T16:04:07-07:00",
+          "body": "We have identified a possible cause for the missing unarchive option for channels. We are pushing a fix and will update once we have confirmation that this option is working again."
+        },
         {
           "date_created": "2023-07-21T15:07:14-07:00",
           "body": "Some users are missing the option to unarchive private channels. We're actively looking into this, and we'll report back as more information becomes available."
