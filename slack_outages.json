@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-07-24T02:44:34-07:00",
-  "date_updated": "2023-07-24T02:44:34-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-07-24T08:35:12-07:00",
+  "date_updated": "2023-07-24T08:35:12-07:00",
+  "active_incidents": [
+    {
+      "id": 1244,
+      "date_created": "2023-07-24T08:35:12-07:00",
+      "date_updated": "2023-07-24T08:35:12-07:00",
+      "title": "Thread search results may be returning as blank for users.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-07/6f8189e691513b85",
+      "services": [
+        "Search"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-07-24T08:35:12-07:00",
+          "body": "Thread search results may be returning as blank for users. \r\n\r\nWe're currently investigating the issue and will share more information as soon as possible. We apologize for any disruptions this may have caused."
+        }
+      ]
+    }
+  ]
 }
