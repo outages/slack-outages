@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-07-24T10:38:02-07:00",
-  "date_updated": "2023-07-24T10:38:02-07:00",
+  "date_created": "2023-07-24T11:06:49-07:00",
+  "date_updated": "2023-07-24T11:06:49-07:00",
   "active_incidents": [
     {
       "id": 1245,
       "date_created": "2023-07-24T10:38:02-07:00",
-      "date_updated": "2023-07-24T10:38:02-07:00",
+      "date_updated": "2023-07-24T11:06:49-07:00",
       "title": "Users may be experiencing issues loading threads and sending messages.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-07-24T11:06:49-07:00",
+          "body": "Users should no longer be experiencing any trouble loading threads or sending messages. Apologies for the trouble today and thank you for your patience."
+        },
         {
           "date_created": "2023-07-24T10:38:02-07:00",
           "body": "Some users may be experiencing issues loading threads and sending messages.\r\n\r\nWe're seeing improvements and we're actively monitoring to ensure user impact is fully resolved. We'll share more updates as we have more information. \r\n\r\nWe're sorry for the disruption this may have caused."
