@@ -1,20 +1,25 @@
 {
   "status": "active",
-  "date_created": "2023-07-25T15:56:35-07:00",
-  "date_updated": "2023-07-25T15:56:35-07:00",
+  "date_created": "2023-07-25T16:23:27-07:00",
+  "date_updated": "2023-07-25T16:23:27-07:00",
   "active_incidents": [
     {
       "id": 1246,
       "date_created": "2023-07-25T15:56:35-07:00",
-      "date_updated": "2023-07-25T15:56:35-07:00",
-      "title": "Some users are unable to invite new members",
+      "date_updated": "2023-07-25T16:23:27-07:00",
+      "title": "Email service is failing across Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-07/1633ff35517d83b8",
       "services": [
-        "Workspace/Org Administration"
+        "Workspace/Org Administration",
+        "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-07-25T16:23:27-07:00",
+          "body": "We’re continuing to investigate this issue, and have determined that email services are failing across Slack. This may impact users ability to sign in. \r\n\r\nAs a workaround, users can sign in manually by following these steps:\r\n1. Open a web browser and enter your workspace URL (example.slack.com).\r\n2. Click Sign in with a password instead.\r\n3. Enter your Email Address and Password.\r\n\r\n\r\nWe’ll be back in 30 minutes with an update."
+        },
         {
           "date_created": "2023-07-25T15:56:35-07:00",
           "body": "Some users are receiving an error message when sending workspace invites. We're actively looking into this, and we'll report back as more information becomes available."
