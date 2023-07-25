@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-07-24T15:19:41-07:00",
-  "date_updated": "2023-07-24T15:19:41-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-07-25T15:56:35-07:00",
+  "date_updated": "2023-07-25T15:56:35-07:00",
+  "active_incidents": [
+    {
+      "id": 1246,
+      "date_created": "2023-07-25T15:56:35-07:00",
+      "date_updated": "2023-07-25T15:56:35-07:00",
+      "title": "Some users are unable to invite new members",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-07/1633ff35517d83b8",
+      "services": [
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-07-25T15:56:35-07:00",
+          "body": "Some users are receiving an error message when sending workspace invites. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
