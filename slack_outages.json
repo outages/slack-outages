@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-07-25T23:46:27-07:00",
-  "date_updated": "2023-07-25T23:46:27-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-07-27T02:35:49-07:00",
+  "date_updated": "2023-07-27T02:35:49-07:00",
+  "active_incidents": [
+    {
+      "id": 1247,
+      "date_created": "2023-07-27T02:35:49-07:00",
+      "date_updated": "2023-07-27T02:35:49-07:00",
+      "title": "Customers having issues with sending messages in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-07/08e3781ccbef33d5",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-07-27T02:35:49-07:00",
+          "body": "Users may be experiencing trouble with sending messages in Slack. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
+        }
+      ]
+    }
+  ]
 }
