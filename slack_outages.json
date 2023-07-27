@@ -1,36 +1,6 @@
 {
-  "status": "active",
+  "status": "ok",
   "date_created": "2023-07-27T03:13:49-07:00",
   "date_updated": "2023-07-27T03:13:49-07:00",
-  "active_incidents": [
-    {
-      "id": 1247,
-      "date_created": "2023-07-27T02:35:49-07:00",
-      "date_updated": "2023-07-27T03:13:49-07:00",
-      "title": "Customers experiencing outages in Slack",
-      "type": "outage",
-      "status": "active",
-      "url": "https://status.slack.com/2023-07/08e3781ccbef33d5",
-      "services": [
-        "Messaging",
-        "Search",
-        "Workflows",
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-07-27T03:13:49-07:00",
-          "body": "Slack is now back up. Users may need to reload their apps to see this restoration. \r\nWe appreciate your patience during our investigation of this outage."
-        },
-        {
-          "date_created": "2023-07-27T02:57:49-07:00",
-          "body": "Slack experiencing an outage across the app. Users may be experiencing trouble with sending messages, using workflows and various other actions in Slack. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
-        },
-        {
-          "date_created": "2023-07-27T02:35:49-07:00",
-          "body": "Users may be experiencing trouble with sending messages in Slack. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "active_incidents": []
 }
