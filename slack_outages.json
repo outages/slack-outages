@@ -11,7 +11,9 @@
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-07/4a00e5109815910b",
-      "services": [],
+      "services": [
+        "Canvases"
+      ],
       "notes": [
         {
           "date_created": "2023-07-28T12:17:13-07:00",
