@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2023-07-27T07:32:50-07:00",
-  "date_updated": "2023-07-27T07:32:50-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-07-28T11:29:44-07:00",
+  "date_updated": "2023-07-28T11:29:44-07:00",
+  "active_incidents": [
+    {
+      "id": 1248,
+      "date_created": "2023-07-28T11:29:44-07:00",
+      "date_updated": "2023-07-28T11:29:44-07:00",
+      "title": "Channel canvases not loading correctly.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-07/4a00e5109815910b",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-07-28T11:29:44-07:00",
+          "body": "We’re looking into an issue impacting canvases loading in channels. We’ll let you know as we learn more. Thank you for bearing with us in the meantime."
+        }
+      ]
+    }
+  ]
 }
