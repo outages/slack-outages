@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-02T11:14:22-07:00",
-  "date_updated": "2023-08-02T11:14:22-07:00",
+  "date_created": "2023-08-02T11:32:24-07:00",
+  "date_updated": "2023-08-02T11:32:24-07:00",
   "active_incidents": [
     {
       "id": 1249,
       "date_created": "2023-08-02T09:21:14-07:00",
-      "date_updated": "2023-08-02T11:14:22-07:00",
+      "date_updated": "2023-08-02T11:32:24-07:00",
       "title": "Users may be experiencing issues connecting to Slack",
       "type": "incident",
       "status": "active",
@@ -19,6 +19,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-02T11:32:24-07:00",
+          "body": "Based on all metrics we're monitoring, there is no remaining impact to users at this time, and Slack should be operating as expected. \r\n\r\nWith this said, we are actively working on reversing mitigative changes implemented during our investigation to bring our systems to their previous state, and we're continuing to monitor to ensure issues do not reoccur. \r\n\r\nWe will be back with an update when we have more information to share. Thank you for sticking with us."
+        },
         {
           "date_created": "2023-08-02T11:14:22-07:00",
           "body": "We’re continuing to see signs of improvement and are still monitoring the situation. \r\n\r\nWe’ll confirm once the issue is fully resolved or we have another update to share.\r\n\r\nThank you for your continued patience."
