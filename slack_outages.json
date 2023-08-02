@@ -12,13 +12,15 @@
       "status": "active",
       "url": "https://status.slack.com/2023-08/8ec13e4962a9bf43",
       "services": [
+        "Messaging",
         "Files",
-        "Messaging"
+        "Workflows",
+        "Connections"
       ],
       "notes": [
         {
           "date_created": "2023-08-02T09:21:14-07:00",
-          "body": "Users may be experiencing issues loading threads, admin pages and images. There may also be issues sending messages.\r\n\r\nWe're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
+          "body": "Users may be experiencing issues loading threads, admin pages and images. There may also be issues sending messages and running workflows.\r\n\r\nWe're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
         }
       ]
     }
