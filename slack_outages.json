@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-02T09:42:17-07:00",
-  "date_updated": "2023-08-02T09:42:17-07:00",
+  "date_created": "2023-08-02T10:14:07-07:00",
+  "date_updated": "2023-08-02T10:14:07-07:00",
   "active_incidents": [
     {
       "id": 1249,
       "date_created": "2023-08-02T09:21:14-07:00",
-      "date_updated": "2023-08-02T09:42:17-07:00",
+      "date_updated": "2023-08-02T10:14:07-07:00",
       "title": "Users may be experiencing issues connecting to Slack",
       "type": "incident",
       "status": "active",
@@ -19,6 +19,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-02T10:14:07-07:00",
+          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. \r\n\r\nThanks for sticking with us as we continue to work towards a fix."
+        },
         {
           "date_created": "2023-08-02T09:42:17-07:00",
           "body": "There are systemwide issues across Slack that may result in users being unable to connect to Slack. \r\n\r\nUsers may be experiencing issues loading threads, admin pages, images, running workflows and sending messages. \r\n\r\nWe're still investigating, and we'll share updates as we have more information. We're sorry for the disruption this may cause."
