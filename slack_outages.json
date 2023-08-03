@@ -1,49 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-08-02T11:32:24-07:00",
-  "date_updated": "2023-08-02T11:32:24-07:00",
-  "active_incidents": [
-    {
-      "id": 1249,
-      "date_created": "2023-08-02T09:21:14-07:00",
-      "date_updated": "2023-08-02T11:32:24-07:00",
-      "title": "Users may be experiencing issues connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/8ec13e4962a9bf43",
-      "services": [
-        "Connections",
-        "Messaging",
-        "Files",
-        "Workflows",
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-02T11:32:24-07:00",
-          "body": "Based on all metrics we're monitoring, there is no remaining impact to users at this time, and Slack should be operating as expected. \r\n\r\nWith this said, we are actively working on reversing mitigative changes implemented during our investigation to bring our systems to their previous state, and we're continuing to monitor to ensure issues do not reoccur. \r\n\r\nWe will be back with an update when we have more information to share. Thank you for sticking with us."
-        },
-        {
-          "date_created": "2023-08-02T11:14:22-07:00",
-          "body": "We’re continuing to see signs of improvement and are still monitoring the situation. \r\n\r\nWe’ll confirm once the issue is fully resolved or we have another update to share.\r\n\r\nThank you for your continued patience."
-        },
-        {
-          "date_created": "2023-08-02T10:44:44-07:00",
-          "body": "We have taken steps to mitigate impact to users and are seeing signs of improvement.\r\n\r\nWe will be back once we have another update to share. \r\n\r\nWe apologize for the disruption and appreciate you bearing with us in the meantime."
-        },
-        {
-          "date_created": "2023-08-02T10:14:07-07:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. \r\n\r\nThanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-08-02T09:42:17-07:00",
-          "body": "There are systemwide issues across Slack that may result in users being unable to connect to Slack. \r\n\r\nUsers may be experiencing issues loading threads, admin pages, images, running workflows and sending messages. \r\n\r\nWe're still investigating, and we'll share updates as we have more information. We're sorry for the disruption this may cause."
-        },
-        {
-          "date_created": "2023-08-02T09:21:14-07:00",
-          "body": "Users may be experiencing issues loading threads, admin pages and images. There may also be issues sending messages and running workflows.\r\n\r\nWe're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-08-02T16:47:40-07:00",
+  "date_updated": "2023-08-02T16:47:40-07:00",
+  "active_incidents": []
 }
