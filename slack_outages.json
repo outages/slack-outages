@@ -1,37 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-08-04T11:22:43-07:00",
-  "date_updated": "2023-08-04T11:22:43-07:00",
-  "active_incidents": [
-    {
-      "id": 1250,
-      "date_created": "2023-08-04T09:23:57-07:00",
-      "date_updated": "2023-08-04T11:22:43-07:00",
-      "title": "Some users may be experiencing issues uploading files.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/8fd09ebe40c64df0",
-      "services": [
-        "Files"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-04T11:22:43-07:00",
-          "body": "Some users are seeing signs of improvement, but we're still working towards a full resolution. If you're experiencing any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R. We'll be back with another update as soon as the issue is fully resolved."
-        },
-        {
-          "date_created": "2023-08-04T10:30:36-07:00",
-          "body": "We have determined that less than 1% of customers are experiencing issues with file uploads at this time. We are continuing to investigate this issue as a priority. We’ll continue to provide updates as we know more."
-        },
-        {
-          "date_created": "2023-08-04T10:02:32-07:00",
-          "body": "We’re still actively investigating an issue uploading files. All workspace users may experience trouble uploading files. We’ll provide another update as soon as we have more information to share."
-        },
-        {
-          "date_created": "2023-08-04T09:23:57-07:00",
-          "body": "We’re looking into an issue where Guests in a workspace are unable to upload files and we’ll let you know as we learn more. Thank you for bearing with us in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-08-04T12:19:51-07:00",
+  "date_updated": "2023-08-04T12:19:51-07:00",
+  "active_incidents": []
 }
