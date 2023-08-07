@@ -1,26 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-08-07T07:07:06-07:00",
-  "date_updated": "2023-08-07T07:07:06-07:00",
-  "active_incidents": [
-    {
-      "id": 1251,
-      "date_created": "2023-08-07T07:07:06-07:00",
-      "date_updated": "2023-08-07T07:07:06-07:00",
-      "title": "Users may be experiencing issues uploading images and creating canvases.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/5f97959abbaeeaa1",
-      "services": [
-        "Files",
-        "Canvases"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-07T07:07:06-07:00",
-          "body": "Customers may be experiencing issues uploading images, loading canvases and creating canvases. \r\n\r\nWe're currently investigating, and we'll share updates as we have more information. We're sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-08-07T07:37:34-07:00",
+  "date_updated": "2023-08-07T07:37:34-07:00",
+  "active_incidents": []
 }
