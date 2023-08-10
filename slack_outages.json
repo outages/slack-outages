@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-09T18:41:00-07:00",
-  "date_updated": "2023-08-09T18:41:00-07:00",
+  "date_created": "2023-08-09T21:51:28-07:00",
+  "date_updated": "2023-08-09T21:51:28-07:00",
   "active_incidents": [
     {
       "id": 1252,
       "date_created": "2023-08-09T17:23:56-07:00",
-      "date_updated": "2023-08-09T18:41:00-07:00",
+      "date_updated": "2023-08-09T21:51:28-07:00",
       "title": "Trouble signing into the desktop app for some Enterprise Grid customers",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-09T21:51:28-07:00",
+          "body": "Some users may be seeing signs of improvement, but we’re still working towards a full resolution. We’ll be back with another update as soon as the issue is fully resolved."
+        },
         {
           "date_created": "2023-08-09T18:41:00-07:00",
           "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. \r\n\r\nWe will be back once we have another update to share. Thanks for sticking with us as we continue to work towards a fix."
