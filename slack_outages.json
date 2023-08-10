@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-08-07T10:39:42-07:00",
-  "date_updated": "2023-08-07T10:39:42-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-08-09T17:23:56-07:00",
+  "date_updated": "2023-08-09T17:23:56-07:00",
+  "active_incidents": [
+    {
+      "id": 1252,
+      "date_created": "2023-08-09T17:23:56-07:00",
+      "date_updated": "2023-08-09T17:23:56-07:00",
+      "title": "Trouble signing into the desktop app for some Enterprise Grid customers",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/c68673e38899ac38",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-08-09T17:23:56-07:00",
+          "body": "Some Enterprise Grid users may be experiencing issues signing into the desktop app from web browsers.\r\n\r\nWe are working on it and we will be back with an update in 30 minutes. Thank you for bearing with us."
+        }
+      ]
+    }
+  ]
 }
