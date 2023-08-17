@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-08-10T14:28:27-07:00",
-  "date_updated": "2023-08-10T14:28:27-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-08-16T23:20:33-07:00",
+  "date_updated": "2023-08-16T23:20:33-07:00",
+  "active_incidents": [
+    {
+      "id": 1253,
+      "date_created": "2023-08-16T23:20:33-07:00",
+      "date_updated": "2023-08-16T23:20:33-07:00",
+      "title": "Login issues for Android customers using Intune and Edge",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/cecb6f52bb0ace68",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-08-16T23:20:33-07:00",
+          "body": "Some Android users may be experiencing issues when logging in to Slack via Microsoft Intune and the Edge browser.\r\n\r\nWe're looking into this and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
