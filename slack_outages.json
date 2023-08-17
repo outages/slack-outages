@@ -1,8 +1,24 @@
 {
   "status": "active",
-  "date_created": "2023-08-16T23:20:33-07:00",
-  "date_updated": "2023-08-16T23:20:33-07:00",
+  "date_created": "2023-08-17T09:37:46-07:00",
+  "date_updated": "2023-08-17T09:37:46-07:00",
   "active_incidents": [
+    {
+      "id": 1254,
+      "date_created": "2023-08-17T09:37:46-07:00",
+      "date_updated": "2023-08-17T09:37:46-07:00",
+      "title": "Trouble loading pages in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/56ebd3ce13963c6a",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-08-17T09:37:46-07:00",
+          "body": "Some customers are encountering issue loading pages in Slack. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    },
     {
       "id": 1253,
       "date_created": "2023-08-16T23:20:33-07:00",
