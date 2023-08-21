@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2023-08-18T14:59:32-07:00",
-  "date_updated": "2023-08-18T14:59:32-07:00",
+  "date_created": "2023-08-21T08:03:10-07:00",
+  "date_updated": "2023-08-21T08:03:10-07:00",
   "active_incidents": [
+    {
+      "id": 1255,
+      "date_created": "2023-08-21T08:03:10-07:00",
+      "date_updated": "2023-08-21T08:03:10-07:00",
+      "title": "Users may be having trouble loading Slack on MacOS.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/d67213498dd5cc16",
+      "services": [
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-08-21T08:03:10-07:00",
+          "body": "Users may be having trouble loading Slack on MacOS.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    },
     {
       "id": 1253,
       "date_created": "2023-08-16T23:20:33-07:00",
