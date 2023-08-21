@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-18T14:59:32-07:00",
-  "date_updated": "2023-08-18T14:59:32-07:00",
+  "date_created": "2023-08-21T16:25:23-07:00",
+  "date_updated": "2023-08-21T16:25:23-07:00",
   "active_incidents": [
     {
       "id": 1253,
       "date_created": "2023-08-16T23:20:33-07:00",
-      "date_updated": "2023-08-18T14:59:32-07:00",
+      "date_updated": "2023-08-21T16:25:23-07:00",
       "title": "Login issues for Android customers using Intune and Edge",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-21T16:25:23-07:00",
+          "body": "We're still actively investigating this issue, but we don't have any new information to share at this time. We’ll let you know as soon as we have an update. Thank you for continuing to bear with us in the meantime."
+        },
         {
           "date_created": "2023-08-18T14:59:32-07:00",
           "body": "We’ve identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
