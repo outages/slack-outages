@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-21T08:03:10-07:00",
-  "date_updated": "2023-08-21T08:03:10-07:00",
+  "date_created": "2023-08-21T08:37:43-07:00",
+  "date_updated": "2023-08-21T08:37:43-07:00",
   "active_incidents": [
     {
       "id": 1255,
       "date_created": "2023-08-21T08:03:10-07:00",
-      "date_updated": "2023-08-21T08:03:10-07:00",
+      "date_updated": "2023-08-21T08:37:43-07:00",
       "title": "Users may be having trouble loading Slack.",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-21T08:37:43-07:00",
+          "body": "We have identified that a small number of users may be having trouble loading Slack.\r\n\r\nWe’re still actively investigating this issue, but we don’t have any new information to share at this time.\r\n\r\nThanks for sticking with us as we continue to work towards a fix."
+        },
         {
           "date_created": "2023-08-21T08:03:10-07:00",
           "body": "Users may be having trouble loading Slack.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available."
