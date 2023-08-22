@@ -1,26 +1,8 @@
 {
   "status": "active",
-  "date_created": "2023-08-22T02:24:16-07:00",
-  "date_updated": "2023-08-22T02:24:16-07:00",
+  "date_created": "2023-08-21T16:25:23-07:00",
+  "date_updated": "2023-08-21T16:25:23-07:00",
   "active_incidents": [
-    {
-      "id": 1257,
-      "date_created": "2023-08-22T02:24:16-07:00",
-      "date_updated": "2023-08-22T02:24:16-07:00",
-      "title": "Workspace name appearing next to channel names",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/91459fdf86fd71f7",
-      "services": [
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-22T02:24:16-07:00",
-          "body": "Some users may notice the workspace name appearing next to channel names in the sidebar. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
-        }
-      ]
-    },
     {
       "id": 1253,
       "date_created": "2023-08-16T23:20:33-07:00",
