@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2023-08-22T14:00:44-07:00",
-  "date_updated": "2023-08-22T14:00:44-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-08-24T11:38:18-07:00",
+  "date_updated": "2023-08-24T11:38:18-07:00",
+  "active_incidents": [
+    {
+      "id": 1258,
+      "date_created": "2023-08-24T11:38:18-07:00",
+      "date_updated": "2023-08-24T11:38:18-07:00",
+      "title": "Some users may be missing sidebar sections in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/dd4ce480d5ff7e49",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-08-24T11:38:18-07:00",
+          "body": "Some customers are encountering missing sections on their sidebar in Slack. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
