@@ -1,6 +1,31 @@
 {
-  "status": "ok",
-  "date_created": "2023-08-24T11:57:28-07:00",
-  "date_updated": "2023-08-24T11:57:28-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-08-24T13:17:22-07:00",
+  "date_updated": "2023-08-24T13:17:22-07:00",
+  "active_incidents": [
+    {
+      "id": 1258,
+      "date_created": "2023-08-24T11:38:18-07:00",
+      "date_updated": "2023-08-24T13:17:22-07:00",
+      "title": "Some users may be missing sidebar sections in Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/dd4ce480d5ff7e49",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-08-24T13:17:22-07:00",
+          "body": "We've determined this issue isn't fully resolved, though some users may be seeing signs of improvement. We'll continue to provide updates as they become available.\r\nThank you for your patience while we sort out this issue."
+        },
+        {
+          "date_created": "2023-08-24T11:57:28-07:00",
+          "body": "We’ve resolved the issue and restored missing channel sections for all impacted users. You may need to reload Slack (Command/Ctrl + Shift + R) in order for this fix to be reflected on your end. We’re sorry for the disruption we brought to your day."
+        },
+        {
+          "date_created": "2023-08-24T11:38:18-07:00",
+          "body": "Some customers are encountering missing sections on their sidebar in Slack. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
