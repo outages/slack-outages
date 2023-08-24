@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2023-08-24T13:17:22-07:00",
-  "date_updated": "2023-08-24T13:17:22-07:00",
+  "date_created": "2023-08-24T15:20:46-07:00",
+  "date_updated": "2023-08-24T15:20:46-07:00",
   "active_incidents": [
+    {
+      "id": 1259,
+      "date_created": "2023-08-24T15:20:46-07:00",
+      "date_updated": "2023-08-24T15:20:46-07:00",
+      "title": "Users are unable to post to the #general channel",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/414e590c93cb5636",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-08-24T15:20:46-07:00",
+          "body": "We're currently investigating reports that some users are unable to post to the #general channel. We apologize for the disruption and will provide an update once we have more details to share."
+        }
+      ]
+    },
     {
       "id": 1258,
       "date_created": "2023-08-24T11:38:18-07:00",
