@@ -1,8 +1,27 @@
 {
   "status": "active",
-  "date_created": "2023-08-25T13:20:37-07:00",
-  "date_updated": "2023-08-25T13:20:37-07:00",
+  "date_created": "2023-08-28T09:09:00-07:00",
+  "date_updated": "2023-08-28T09:09:00-07:00",
   "active_incidents": [
+    {
+      "id": 1260,
+      "date_created": "2023-08-28T09:09:00-07:00",
+      "date_updated": "2023-08-28T09:09:00-07:00",
+      "title": "Users may be having trouble loading Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-08/094f489e39b57d9f",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-08-28T09:09:00-07:00",
+          "body": "Users may be experiencing trouble loading their DMs, channels, and sidebar in Slack. We’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
+        }
+      ]
+    },
     {
       "id": 1259,
       "date_created": "2023-08-24T15:20:46-07:00",
