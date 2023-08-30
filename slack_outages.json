@@ -1,34 +1,8 @@
 {
   "status": "active",
-  "date_created": "2023-08-30T01:07:37-07:00",
-  "date_updated": "2023-08-30T01:07:37-07:00",
+  "date_created": "2023-08-25T13:20:37-07:00",
+  "date_updated": "2023-08-25T13:20:37-07:00",
   "active_incidents": [
-    {
-      "id": 1261,
-      "date_created": "2023-08-29T23:54:35-07:00",
-      "date_updated": "2023-08-30T01:07:37-07:00",
-      "title": "Issues with workflows and app modals",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/52eff24d7806f1cf",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-30T01:07:37-07:00",
-          "body": "We believe we've identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
-        },
-        {
-          "date_created": "2023-08-30T00:36:47-07:00",
-          "body": "We’re still investigating issues with workflows & app modals. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
-        },
-        {
-          "date_created": "2023-08-29T23:54:35-07:00",
-          "body": "Some customers may be experiencing connectivity issues or server errors in workflows or app modals. We are investigating and will be back with an update in 30 minutes. \r\n\r\nWe apologize for the disruption to your work."
-        }
-      ]
-    },
     {
       "id": 1259,
       "date_created": "2023-08-24T15:20:46-07:00",
