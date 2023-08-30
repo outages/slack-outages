@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-08-30T00:36:47-07:00",
-  "date_updated": "2023-08-30T00:36:47-07:00",
+  "date_created": "2023-08-30T01:07:37-07:00",
+  "date_updated": "2023-08-30T01:07:37-07:00",
   "active_incidents": [
     {
       "id": 1261,
       "date_created": "2023-08-29T23:54:35-07:00",
-      "date_updated": "2023-08-30T00:36:47-07:00",
+      "date_updated": "2023-08-30T01:07:37-07:00",
       "title": "Issues with workflows and app modals",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
+        {
+          "date_created": "2023-08-30T01:07:37-07:00",
+          "body": "We believe we've identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
+        },
         {
           "date_created": "2023-08-30T00:36:47-07:00",
           "body": "We’re still investigating issues with workflows & app modals. No additional information to share just yet, but we’ll keep you posted as soon we have an update."
