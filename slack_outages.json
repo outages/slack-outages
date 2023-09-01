@@ -1,37 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-08-31T23:52:06-07:00",
-  "date_updated": "2023-08-31T23:52:06-07:00",
-  "active_incidents": [
-    {
-      "id": 1259,
-      "date_created": "2023-08-24T15:20:46-07:00",
-      "date_updated": "2023-08-31T23:52:06-07:00",
-      "title": "Users are unable to post to the #general channel",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-08/414e590c93cb5636",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-08-31T23:52:06-07:00",
-          "body": "We've released a potential fix for this issue, but we're still closely monitoring the situation. Slack will need to be reloaded to fetch this potential fix. \r\n\r\nOn desktop: Please open Slack and press Cmd/Ctrl + Shift + R. Slack will reload but you will not be signed out. \r\n\r\nOn mobile: Please quit the Slack app, then relaunch it.\r\n\r\nWe'll be back with an update as soon as this has been fully resolved."
-        },
-        {
-          "date_created": "2023-08-30T15:38:55-07:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for your patience as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-08-25T13:20:37-07:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-08-24T15:20:46-07:00",
-          "body": "We're currently investigating reports that some users are unable to post to the #general channel. We apologize for the disruption and will provide an update once we have more details to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-01T09:24:02-07:00",
+  "date_updated": "2023-09-01T09:24:02-07:00",
+  "active_incidents": []
 }
