@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-09-02T00:30:04-07:00",
-  "date_updated": "2023-09-02T00:30:04-07:00",
-  "active_incidents": [
-    {
-      "id": 1262,
-      "date_created": "2023-09-02T00:30:04-07:00",
-      "date_updated": "2023-09-02T00:30:04-07:00",
-      "title": "Some users in India are having trouble sending DMs.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/64d234fca6bc1e06",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-02T00:30:04-07:00",
-          "body": "Users in India are having difficulties sending DMs. We're actively investigating this issue and will be back with another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-02T01:32:00-07:00",
+  "date_updated": "2023-09-02T01:32:00-07:00",
+  "active_incidents": []
 }
