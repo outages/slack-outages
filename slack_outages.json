@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-09-02T01:32:00-07:00",
-  "date_updated": "2023-09-02T01:32:00-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-09-03T19:02:15-07:00",
+  "date_updated": "2023-09-03T19:02:15-07:00",
+  "active_incidents": [
+    {
+      "id": 1263,
+      "date_created": "2023-09-03T19:02:15-07:00",
+      "date_updated": "2023-09-03T19:02:15-07:00",
+      "title": "Connectivity issues for some users in Japan",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/a6b0cdff3fbe130e",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-03T19:02:15-07:00",
+          "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
