@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-03T19:02:15-07:00",
-  "date_updated": "2023-09-03T19:02:15-07:00",
+  "date_created": "2023-09-03T19:36:48-07:00",
+  "date_updated": "2023-09-03T19:36:48-07:00",
   "active_incidents": [
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-03T19:02:15-07:00",
+      "date_updated": "2023-09-03T19:36:48-07:00",
       "title": "Connectivity issues for some users in Japan",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-03T19:36:48-07:00",
+          "body": "We are continuing to investigate reports of connection issues for customers in Japan.\r\n\r\nThese issues include loading and reconnection errors for customers using the Slack for Desktop app, and trouble switching between channels for customers using the Slack for Desktop app and some web browsers.\r\n\r\nWe'll let you know as soon as we have another update to share."
+        },
         {
           "date_created": "2023-09-03T19:02:15-07:00",
           "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
