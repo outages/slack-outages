@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-03T20:11:28-07:00",
-  "date_updated": "2023-09-03T20:11:28-07:00",
+  "date_created": "2023-09-03T21:03:32-07:00",
+  "date_updated": "2023-09-03T21:03:32-07:00",
   "active_incidents": [
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-03T20:11:28-07:00",
+      "date_updated": "2023-09-03T21:03:32-07:00",
       "title": "Connectivity issues for some users in Japan",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-03T21:03:32-07:00",
+          "body": "At this time, our investigation indicates that the channel switching issues and the connectivity issues are two separate problems. To get to the bottom of both issues as quickly as we can, we're splitting our investigation into two streams. \r\n\r\nMoving forward, we will provide updates here as new information becomes available about the connectivity issues for some users in Japan. Thank you for your continued patience.\r\n\r\nYou can find more information about the channel switching issues here: https://status.slack.com/2023-09/6bb97b903beac5b6"
+        },
         {
           "date_created": "2023-09-03T20:11:28-07:00",
           "body": "We're still actively investigating this issue, but we don't have any new information to share.\r\n\r\nWe will be back with another update in 30 minutes."
@@ -26,6 +30,24 @@
         {
           "date_created": "2023-09-03T19:02:15-07:00",
           "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
+        }
+      ]
+    },
+    {
+      "id": 1264,
+      "date_created": "2023-09-03T21:00:48-07:00",
+      "date_updated": "2023-09-03T21:00:48-07:00",
+      "title": "Some customers are unable to switch channels",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/6bb97b903beac5b6",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-03T21:00:48-07:00",
+          "body": "We are continuing to investigate reports that some customers are unable to switch between channels when using Slack via a web browser.\r\n\r\nWe appreciate your patience and will be back with an update once we have more news to share."
         }
       ]
     }
