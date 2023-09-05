@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-05T11:23:50-07:00",
-  "date_updated": "2023-09-05T11:23:50-07:00",
+  "date_created": "2023-09-05T11:54:00-07:00",
+  "date_updated": "2023-09-05T11:54:00-07:00",
   "active_incidents": [
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-05T11:23:50-07:00",
+      "date_updated": "2023-09-05T11:54:00-07:00",
       "title": "A small number of users are experiencing issues loading Slack.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-05T11:54:00-07:00",
+          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
+        },
         {
           "date_created": "2023-09-05T11:23:50-07:00",
           "body": "There are indications this issue is only impacting Enterprise Grid users who have been removed by a workspace in their Org. \r\n\r\nWe’ve isolated the problem and we’re focused on getting Slack working again as soon as possible. Thank you for your continued patience."
