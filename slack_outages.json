@@ -1,8 +1,46 @@
 {
   "status": "active",
-  "date_created": "2023-09-05T07:54:55-07:00",
-  "date_updated": "2023-09-05T07:54:55-07:00",
+  "date_created": "2023-09-05T08:28:10-07:00",
+  "date_updated": "2023-09-05T08:28:10-07:00",
   "active_incidents": [
+    {
+      "id": 1263,
+      "date_created": "2023-09-03T19:02:15-07:00",
+      "date_updated": "2023-09-05T08:28:10-07:00",
+      "title": "Connectivity issues for some users in Japan",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/a6b0cdff3fbe130e",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-05T08:28:10-07:00",
+          "body": "We have identified that this issue is not limited to Japan or the Windows app. \r\n\r\nWe can confirm that a small percentage of users globally are having trouble connecting to Slack on both Windows and Mac desktop apps.\r\n\r\nOur team is actively investigating and seeking a resolution for the issue, and we'll continue to update here."
+        },
+        {
+          "date_created": "2023-09-05T08:27:38-07:00",
+          "body": "We have identified that this issue is not limited to Japan or the Windows app. \r\n\r\nWe can confirm that a small percentage of users globally are having trouble connecting to Slack on both Windows and Mac desktop apps.\r\n\r\nOur team is actively investigating and seeking a resolution for the issue, and we'll continue to update here."
+        },
+        {
+          "date_created": "2023-09-03T21:03:32-07:00",
+          "body": "At this time, our investigation indicates that the channel switching issues and the connectivity issues are two separate problems. To get to the bottom of both issues as quickly as we can, we're splitting our investigation into two streams. \r\n\r\nMoving forward, we will provide updates here as new information becomes available about the connectivity issues for some users in Japan. Thank you for your continued patience.\r\n\r\nYou can find more information about the channel switching issues here: https://status.slack.com/2023-09/6bb97b903beac5b6"
+        },
+        {
+          "date_created": "2023-09-03T20:11:28-07:00",
+          "body": "We're still actively investigating this issue, but we don't have any new information to share.\r\n\r\nWe will be back with another update in 30 minutes."
+        },
+        {
+          "date_created": "2023-09-03T19:36:48-07:00",
+          "body": "We are continuing to investigate reports of connection issues for customers in Japan.\r\n\r\nThese issues include loading and reconnection errors for customers using the Slack for Desktop app, and trouble switching between channels for customers using the Slack for Desktop app and some web browsers.\r\n\r\nWe'll let you know as soon as we have another update to share."
+        },
+        {
+          "date_created": "2023-09-03T19:02:15-07:00",
+          "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
+        }
+      ]
+    },
     {
       "id": 1264,
       "date_created": "2023-09-03T21:00:48-07:00",
@@ -22,36 +60,6 @@
         {
           "date_created": "2023-09-03T21:00:48-07:00",
           "body": "We are continuing to investigate reports that some customers are unable to switch between channels when using Slack via a web browser.\r\n\r\nWe appreciate your patience and will be back with an update once we have more news to share."
-        }
-      ]
-    },
-    {
-      "id": 1263,
-      "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-03T21:03:32-07:00",
-      "title": "Connectivity issues for some users in Japan",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/a6b0cdff3fbe130e",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-03T21:03:32-07:00",
-          "body": "At this time, our investigation indicates that the channel switching issues and the connectivity issues are two separate problems. To get to the bottom of both issues as quickly as we can, we're splitting our investigation into two streams. \r\n\r\nMoving forward, we will provide updates here as new information becomes available about the connectivity issues for some users in Japan. Thank you for your continued patience.\r\n\r\nYou can find more information about the channel switching issues here: https://status.slack.com/2023-09/6bb97b903beac5b6"
-        },
-        {
-          "date_created": "2023-09-03T20:11:28-07:00",
-          "body": "We're still actively investigating this issue, but we don't have any new information to share.\r\n\r\nWe will be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-09-03T19:36:48-07:00",
-          "body": "We are continuing to investigate reports of connection issues for customers in Japan.\r\n\r\nThese issues include loading and reconnection errors for customers using the Slack for Desktop app, and trouble switching between channels for customers using the Slack for Desktop app and some web browsers.\r\n\r\nWe'll let you know as soon as we have another update to share."
-        },
-        {
-          "date_created": "2023-09-03T19:02:15-07:00",
-          "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
         }
       ]
     }
