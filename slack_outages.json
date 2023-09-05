@@ -7,7 +7,7 @@
       "id": 1264,
       "date_created": "2023-09-03T21:00:48-07:00",
       "date_updated": "2023-09-05T07:54:55-07:00",
-      "title": "Some customers are unable to switch channels",
+      "title": "Some customers are unable to switch channels in the web browser.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2023-09/6bb97b903beac5b6",
