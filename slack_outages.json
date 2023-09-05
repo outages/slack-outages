@@ -1,8 +1,34 @@
 {
   "status": "active",
-  "date_created": "2023-09-05T10:05:35-07:00",
-  "date_updated": "2023-09-05T10:05:35-07:00",
+  "date_created": "2023-09-05T10:33:40-07:00",
+  "date_updated": "2023-09-05T10:33:40-07:00",
   "active_incidents": [
+    {
+      "id": 1264,
+      "date_created": "2023-09-03T21:00:48-07:00",
+      "date_updated": "2023-09-05T10:33:40-07:00",
+      "title": "Some customers are unable to switch channels in the web browser.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/6bb97b903beac5b6",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-05T10:33:40-07:00",
+          "body": "This issue only appears when accessing an Enterprise Grid workspace via the workspace selector page in the web browser.\r\n\r\nWe’ve identified the cause of this behavior and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
+        },
+        {
+          "date_created": "2023-09-05T07:54:55-07:00",
+          "body": "Some users may be experiencing issues when using Slack via a web browser. Users may be unable to navigate away from a channel or DM, and Slack may appear to freeze. Users can use a mobile or desktop app as a workaround. \r\n\r\nOur team is actively working to resolve this issue as soon as possible. We appreciate your continued patience and will be back with an update once we have more news to share."
+        },
+        {
+          "date_created": "2023-09-03T21:00:48-07:00",
+          "body": "We are continuing to investigate reports that some customers are unable to switch between channels when using Slack via a web browser.\r\n\r\nWe appreciate your patience and will be back with an update once we have more news to share."
+        }
+      ]
+    },
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
@@ -50,28 +76,6 @@
         {
           "date_created": "2023-09-03T19:02:15-07:00",
           "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
-        }
-      ]
-    },
-    {
-      "id": 1264,
-      "date_created": "2023-09-03T21:00:48-07:00",
-      "date_updated": "2023-09-05T07:54:55-07:00",
-      "title": "Some customers are unable to switch channels in the web browser.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/6bb97b903beac5b6",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-05T07:54:55-07:00",
-          "body": "Some users may be experiencing issues when using Slack via a web browser. Users may be unable to navigate away from a channel or DM, and Slack may appear to freeze. Users can use a mobile or desktop app as a workaround. \r\n\r\nOur team is actively working to resolve this issue as soon as possible. We appreciate your continued patience and will be back with an update once we have more news to share."
-        },
-        {
-          "date_created": "2023-09-03T21:00:48-07:00",
-          "body": "We are continuing to investigate reports that some customers are unable to switch between channels when using Slack via a web browser.\r\n\r\nWe appreciate your patience and will be back with an update once we have more news to share."
         }
       ]
     }
