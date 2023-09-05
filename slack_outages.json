@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-05T08:28:10-07:00",
-  "date_updated": "2023-09-05T08:28:10-07:00",
+  "date_created": "2023-09-05T09:26:58-07:00",
+  "date_updated": "2023-09-05T09:26:58-07:00",
   "active_incidents": [
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-05T08:28:10-07:00",
+      "date_updated": "2023-09-05T09:26:58-07:00",
       "title": "A small number of users are experiencing issues loading Slack.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-05T09:26:58-07:00",
+          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
+        },
         {
           "date_created": "2023-09-05T08:28:10-07:00",
           "body": "We have identified that this issue is not limited to Japan or the Windows app. \r\n\r\nWe can confirm that a small percentage of users globally are having trouble connecting to Slack on both Windows and Mac desktop apps.\r\n\r\nOur team is actively investigating and seeking a resolution for the issue, and we'll continue to update here."
