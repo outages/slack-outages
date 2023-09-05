@@ -1,65 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-09-05T11:54:00-07:00",
-  "date_updated": "2023-09-05T11:54:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1263,
-      "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-05T11:54:00-07:00",
-      "title": "A small number of users are experiencing issues loading Slack.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/a6b0cdff3fbe130e",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-05T11:54:00-07:00",
-          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
-        },
-        {
-          "date_created": "2023-09-05T11:23:50-07:00",
-          "body": "There are indications this issue is only impacting Enterprise Grid users who have been removed by a workspace in their Org. \r\n\r\nWe’ve isolated the problem and we’re focused on getting Slack working again as soon as possible. Thank you for your continued patience."
-        },
-        {
-          "date_created": "2023-09-05T10:05:35-07:00",
-          "body": "There are indications this issue is only impacting Enterprise Grid users. Thanks for sticking with us as we continue to work on a fix."
-        },
-        {
-          "date_created": "2023-09-05T09:50:02-07:00",
-          "body": "We've identified that impacted users will likely have deactivated workspaces in their sidebar. \r\n\r\nIn the meantime, resetting app data via Help > Troubleshooting > Reset app data should help as a workaround. Impacted users may also load Slack successfully in the browser app by signing in here: https://slack.com/signin. \r\n\r\nWe'll continue to update as soon as we have more to share."
-        },
-        {
-          "date_created": "2023-09-05T09:26:58-07:00",
-          "body": "We’re still actively investigating this issue, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-09-05T08:28:10-07:00",
-          "body": "We have identified that this issue is not limited to Japan or the Windows app. \r\n\r\nWe can confirm that a small percentage of users globally are having trouble connecting to Slack on both Windows and Mac desktop apps.\r\n\r\nOur team is actively investigating and seeking a resolution for the issue, and we'll continue to update here."
-        },
-        {
-          "date_created": "2023-09-05T08:27:38-07:00",
-          "body": "We have identified that this issue is not limited to Japan or the Windows app. \r\n\r\nWe can confirm that a small percentage of users globally are having trouble connecting to Slack on both Windows and Mac desktop apps.\r\n\r\nOur team is actively investigating and seeking a resolution for the issue, and we'll continue to update here."
-        },
-        {
-          "date_created": "2023-09-03T21:03:32-07:00",
-          "body": "At this time, our investigation indicates that the channel switching issues and the connectivity issues are two separate problems. To get to the bottom of both issues as quickly as we can, we're splitting our investigation into two streams. \r\n\r\nMoving forward, we will provide updates here as new information becomes available about the connectivity issues for some users in Japan. Thank you for your continued patience.\r\n\r\nYou can find more information about the channel switching issues here: https://status.slack.com/2023-09/6bb97b903beac5b6"
-        },
-        {
-          "date_created": "2023-09-03T20:11:28-07:00",
-          "body": "We're still actively investigating this issue, but we don't have any new information to share.\r\n\r\nWe will be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-09-03T19:36:48-07:00",
-          "body": "We are continuing to investigate reports of connection issues for customers in Japan.\r\n\r\nThese issues include loading and reconnection errors for customers using the Slack for Desktop app, and trouble switching between channels for customers using the Slack for Desktop app and some web browsers.\r\n\r\nWe'll let you know as soon as we have another update to share."
-        },
-        {
-          "date_created": "2023-09-03T19:02:15-07:00",
-          "body": "Some users in Japan may be experiencing issues connecting to Slack. We apologize for the disruption and will report back as more information becomes available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-05T13:38:34-07:00",
+  "date_updated": "2023-09-05T13:38:34-07:00",
+  "active_incidents": []
 }
