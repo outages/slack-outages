@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-05T09:50:02-07:00",
-  "date_updated": "2023-09-05T09:50:02-07:00",
+  "date_created": "2023-09-05T10:05:35-07:00",
+  "date_updated": "2023-09-05T10:05:35-07:00",
   "active_incidents": [
     {
       "id": 1263,
       "date_created": "2023-09-03T19:02:15-07:00",
-      "date_updated": "2023-09-05T09:50:02-07:00",
+      "date_updated": "2023-09-05T10:05:35-07:00",
       "title": "A small number of users are experiencing issues loading Slack.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-05T10:05:35-07:00",
+          "body": "There are indications this issue is only impacting Enterprise Grid users. Thanks for sticking with us as we continue to work on a fix."
+        },
         {
           "date_created": "2023-09-05T09:50:02-07:00",
           "body": "We've identified that impacted users will likely have deactivated workspaces in their sidebar. \r\n\r\nIn the meantime, resetting app data via Help > Troubleshooting > Reset app data should help as a workaround. Impacted users may also load Slack successfully in the browser app by signing in here: https://slack.com/signin. \r\n\r\nWe'll continue to update as soon as we have more to share."
