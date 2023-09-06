@@ -1,6 +1,23 @@
 {
-  "status": "ok",
-  "date_created": "2023-09-05T15:50:42-07:00",
-  "date_updated": "2023-09-05T15:50:42-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-09-06T16:28:21-07:00",
+  "date_updated": "2023-09-06T16:28:21-07:00",
+  "active_incidents": [
+    {
+      "id": 1265,
+      "date_created": "2023-09-06T16:28:21-07:00",
+      "date_updated": "2023-09-06T16:28:21-07:00",
+      "title": "Users receiving the 500 error page while attempting to load app configurations.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/d0d43b69112068ec",
+      "services": [],
+      "notes": [
+        {
+          "date_created": "2023-09-06T16:28:21-07:00",
+          "body": "Some users may be receiving the 500 error page results while attempting to load some app configurations.\r\n\r\nWe're actively investigating this issue and will be back with another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
