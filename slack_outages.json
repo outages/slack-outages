@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-09-06T19:17:29-07:00",
-  "date_updated": "2023-09-06T19:17:29-07:00",
-  "active_incidents": [
-    {
-      "id": 1265,
-      "date_created": "2023-09-06T16:28:21-07:00",
-      "date_updated": "2023-09-06T19:17:29-07:00",
-      "title": "Some users are receiving an error while attempting to load app configurations",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/d0d43b69112068ec",
-      "services": [
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-06T19:17:29-07:00",
-          "body": "We've made a change and we're seeing improvements. Some of the affected pages should now be loading as normal, but we’re still working towards a full resolution. \r\n\r\nWe'll share an update as soon as the issue is fully resolved for all customers."
-        },
-        {
-          "date_created": "2023-09-06T16:51:03-07:00",
-          "body": "We're actively investigating this issue and will be back with another update as soon as we have more information to share.\r\n\r\nThank you for your patience."
-        },
-        {
-          "date_created": "2023-09-06T16:28:21-07:00",
-          "body": "Some users may be receiving 500 error page results while attempting to load some app configurations.\r\n\r\nWe're actively investigating this issue and will be back with another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-07T14:30:34-07:00",
+  "date_updated": "2023-09-07T14:30:34-07:00",
+  "active_incidents": []
 }
