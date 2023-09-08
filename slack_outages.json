@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-09-07T18:38:58-07:00",
-  "date_updated": "2023-09-07T18:38:58-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-09-08T11:59:21-07:00",
+  "date_updated": "2023-09-08T11:59:21-07:00",
+  "active_incidents": [
+    {
+      "id": 1266,
+      "date_created": "2023-09-08T11:59:21-07:00",
+      "date_updated": "2023-09-08T11:59:21-07:00",
+      "title": "Some Admins are missing DMs in Single User Exports",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/5b5bbd0b1b68e294",
+      "services": [
+        "Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-08T11:59:21-07:00",
+          "body": "Some Enterprise Grid customers are encountering missing direct messages (DMs) in Single User Exports. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
