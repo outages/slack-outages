@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2023-09-08T12:42:47-07:00",
-  "date_updated": "2023-09-08T12:42:47-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-09-21T09:08:44-07:00",
+  "date_updated": "2023-09-21T09:08:44-07:00",
+  "active_incidents": [
+    {
+      "id": 1267,
+      "date_created": "2023-09-21T09:08:44-07:00",
+      "date_updated": "2023-09-21T09:08:44-07:00",
+      "title": "Slack Connect invitations page not loading",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/798ffab066d9a5d6",
+      "services": [
+        "Connections",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-21T09:08:44-07:00",
+          "body": "We’re receiving reports around trouble loading the Slack Connect invitations page. We’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
