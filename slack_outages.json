@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-24T17:17:04-07:00",
-  "date_updated": "2023-09-24T17:17:04-07:00",
+  "date_created": "2023-09-24T18:19:55-07:00",
+  "date_updated": "2023-09-24T18:19:55-07:00",
   "active_incidents": [
     {
       "id": 1268,
       "date_created": "2023-09-24T17:17:04-07:00",
-      "date_updated": "2023-09-24T17:17:04-07:00",
+      "date_updated": "2023-09-24T18:19:55-07:00",
       "title": "Trouble with custom emoji",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,14 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-24T18:19:55-07:00",
+          "body": "We've established that this is only impacting a small number of Enterprise Grid organizations at this time.\r\n\r\nWe're still actively investigating, and will provide an update in 30 minutes."
+        },
+        {
+          "date_created": "2023-09-24T17:48:24-07:00",
+          "body": "There's no additional news to share just yet. We'll be back with another update in 30 minutes."
+        },
         {
           "date_created": "2023-09-24T17:17:04-07:00",
           "body": "A small number of customers may be experiencing issues with custom emoji not rendering in messages or workflows. We are investigating and will be back with an update in 30 minutes. \r\n\r\nWe're very sorry for the disruption."
