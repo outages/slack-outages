@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-24T19:19:08-07:00",
-  "date_updated": "2023-09-24T19:19:08-07:00",
+  "date_created": "2023-09-24T19:48:57-07:00",
+  "date_updated": "2023-09-24T19:48:57-07:00",
   "active_incidents": [
     {
       "id": 1268,
       "date_created": "2023-09-24T17:17:04-07:00",
-      "date_updated": "2023-09-24T19:19:08-07:00",
+      "date_updated": "2023-09-24T19:48:57-07:00",
       "title": "Trouble with custom emoji",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-24T19:48:57-07:00",
+          "body": "We're still working on this, but we don't have any new information to share at this time. We'll provide another update as soon as we have more news."
+        },
         {
           "date_created": "2023-09-24T19:19:08-07:00",
           "body": "We're still digging in to the cause of the custom emoji issue. We'll be back with an update in 30 minutes."
