@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-26T12:30:20-07:00",
-  "date_updated": "2023-09-26T12:30:20-07:00",
+  "date_created": "2023-09-26T12:57:16-07:00",
+  "date_updated": "2023-09-26T12:57:16-07:00",
   "active_incidents": [
     {
       "id": 1269,
       "date_created": "2023-09-26T11:34:10-07:00",
-      "date_updated": "2023-09-26T12:30:20-07:00",
+      "date_updated": "2023-09-26T12:57:16-07:00",
       "title": "Can't dismiss Now you've got Later",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2023-09-26T12:57:16-07:00",
+          "body": "We’ve rolled out a fix and this issue should be resolved for all affected users. \r\n\r\nIf you’re still encountering any trouble, please reload Slack using Command + Shift + R (Mac) or Ctrl + Shift + R (Windows/Linux). Thank you for your patience while we sorted out this issue."
+        },
         {
           "date_created": "2023-09-26T12:30:20-07:00",
           "body": "We’ve shipped a potential fix for this issue, but we’re still monitoring closely. We’ll let you know when functionality is fully restored."
