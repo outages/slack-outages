@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-25T11:29:48-07:00",
-  "date_updated": "2023-09-25T11:29:48-07:00",
+  "date_created": "2023-09-25T17:36:14-07:00",
+  "date_updated": "2023-09-25T17:36:14-07:00",
   "active_incidents": [
     {
       "id": 1268,
       "date_created": "2023-09-24T17:17:04-07:00",
-      "date_updated": "2023-09-25T11:29:48-07:00",
+      "date_updated": "2023-09-25T17:36:14-07:00",
       "title": "Trouble with custom emoji",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2023-09-25T17:36:14-07:00",
+          "body": "We've implemented a fix. While this has fully resolved the issue for many users, it's possible that a small number of customers may experience some continued impact until 10:30 AM PDT tomorrow, September 26, 2023. \r\n\r\nWe'll share an update here at that time. In the meantime, please write in to feedback@slack.com if you're still encountering issues, as our support team may be able to assist."
+        },
+        {
           "date_created": "2023-09-25T11:29:48-07:00",
-          "body": "We’ve shipped a potential fix for this emoji issue, but we’re still monitoring closely. We’ll let you know when functionality is fully restored. Thank you for your patience!"
+          "body": "We’ve shipped a potential fix for this emoji issue, but we’re still monitoring closely. We’ll let you know when functionality is fully restored. Thank you for your patience."
         },
         {
           "date_created": "2023-09-25T09:41:27-07:00",
