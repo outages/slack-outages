@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-26T11:34:10-07:00",
-  "date_updated": "2023-09-26T11:34:10-07:00",
+  "date_created": "2023-09-26T11:55:36-07:00",
+  "date_updated": "2023-09-26T11:55:36-07:00",
   "active_incidents": [
     {
       "id": 1269,
       "date_created": "2023-09-26T11:34:10-07:00",
-      "date_updated": "2023-09-26T11:34:10-07:00",
+      "date_updated": "2023-09-26T11:55:36-07:00",
       "title": "Can't dismiss Now you've got Later",
       "type": "incident",
       "status": "active",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2023-09-26T11:55:36-07:00",
+          "body": "It's been reported that the sparkle animation over the Later icon in the sidebar is also lingering. Thank you for your continued patience."
+        },
+        {
           "date_created": "2023-09-26T11:34:10-07:00",
-          "body": "We’re receiving reports around some users not being able to dismiss the \"Now you've got Later\" banner, and the inability to interact with the Slack app with their cursor. \r\n\r\nWe’ve identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
+          "body": "We’re receiving reports around some users not being able to dismiss the \"Now you've got Later\" coach mark, and the inability to interact with the Slack app with their cursor. \r\n\r\nWe’ve identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
         }
       ]
     }
