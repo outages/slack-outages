@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-09-27T10:24:03-07:00",
-  "date_updated": "2023-09-27T10:24:03-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-09-27T12:02:20-07:00",
+  "date_updated": "2023-09-27T12:02:20-07:00",
+  "active_incidents": [
+    {
+      "id": 1270,
+      "date_created": "2023-09-27T12:02:20-07:00",
+      "date_updated": "2023-09-27T12:02:20-07:00",
+      "title": "Create app on api.slack.com/apps not working",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-09/054c6ac24cb629dd",
+      "services": [
+        "Apps/Integrations/APIs"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-09-27T12:02:20-07:00",
+          "body": "We’re investigating a problem with creating apps on https://api.slack.com/apps. We’ll be back with another update as soon as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
