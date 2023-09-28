@@ -18,7 +18,7 @@
       "notes": [
         {
           "date_created": "2023-09-28T13:05:12-07:00",
-          "body": "Our 2FA upstream provider is currently experiencing issues, which prevents Slack native 2FA code from arriving to US-based ATT and Verizon devices."
+          "body": "Our 2FA upstream provider is currently experiencing issues, which prevents Slack native 2FA code from arriving to US-based ATT and Verizon devices.\r\n\r\nWe’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
         }
       ]
     }
