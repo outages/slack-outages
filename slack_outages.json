@@ -1,30 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-09-28T10:23:00-07:00",
-  "date_updated": "2023-09-28T10:23:00-07:00",
-  "active_incidents": [
-    {
-      "id": 1271,
-      "date_created": "2023-09-28T10:02:41-07:00",
-      "date_updated": "2023-09-28T10:23:00-07:00",
-      "title": "A small number of users experience latency with Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/94046787b0ca9008",
-      "services": [
-        "Messaging",
-        "Apps/Integrations/APIs"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-28T10:23:00-07:00",
-          "body": "We have determined that less than 1% of API calls are failing.\r\n\r\nAs this may impact certain actions like sending or editing messages, we recommend that users reattempt the action if it has failed. We hope to resolve this shortly and will be back with an update once new information becomes available."
-        },
-        {
-          "date_created": "2023-09-28T10:02:41-07:00",
-          "body": "A small number of users are reporting latency with Slack, including delays in sending or editing messages.\r\n\r\nWe're investigating the issue and will share an update once we have more information."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-28T11:28:00-07:00",
+  "date_updated": "2023-09-28T11:28:00-07:00",
+  "active_incidents": []
 }
