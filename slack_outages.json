@@ -1,34 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-09-28T14:20:12-07:00",
-  "date_updated": "2023-09-28T14:20:12-07:00",
-  "active_incidents": [
-    {
-      "id": 1272,
-      "date_created": "2023-09-28T13:05:12-07:00",
-      "date_updated": "2023-09-28T14:20:12-07:00",
-      "title": "Issues with receiving 2FA code",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-09/7e84b360042dd07b",
-      "services": [
-        "Login/SSO",
-        "Workspace/Org Administration"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-09-28T14:20:12-07:00",
-          "body": "Our upstream provider is reporting some signs of recovery. We will provide another update once we have more details to share.\r\n\r\nWe appreciate your patience while we sorted this out."
-        },
-        {
-          "date_created": "2023-09-28T13:36:32-07:00",
-          "body": "We're actively investigating this issue and will be back with another update as soon as we have more information to share."
-        },
-        {
-          "date_created": "2023-09-28T13:05:12-07:00",
-          "body": "Our 2FA upstream provider is currently experiencing issues, which prevents Slack native 2FA code from arriving to US-based ATT and Verizon devices.\r\n\r\nWe’re on the case and will provide another update once we have more details to share. We’re sorry for the disruption."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-09-28T15:42:00-07:00",
+  "date_updated": "2023-09-28T15:42:00-07:00",
+  "active_incidents": []
 }
