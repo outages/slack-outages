@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-09-28T11:27:00-07:00",
-  "date_updated": "2023-09-28T11:27:00-07:00",
+  "date_created": "2023-09-28T10:23:00-07:00",
+  "date_updated": "2023-09-28T10:23:00-07:00",
   "active_incidents": [
     {
       "id": 1271,
       "date_created": "2023-09-28T10:02:41-07:00",
-      "date_updated": "2023-09-28T11:27:00-07:00",
+      "date_updated": "2023-09-28T10:23:00-07:00",
       "title": "A small number of users experience latency with Slack",
       "type": "incident",
       "status": "active",
@@ -16,10 +16,6 @@
         "Apps/Integrations/APIs"
       ],
       "notes": [
-        {
-          "date_created": "2023-09-28T11:27:00-07:00",
-          "body": "Some users may be seeing signs of improvement, but we’re still monitoring the situation. We’ll be back once we have another update to share. Thank you for your patience as we sort this out."
-        },
         {
           "date_created": "2023-09-28T10:23:00-07:00",
           "body": "We have determined that less than 1% of API calls are failing.\r\n\r\nAs this may impact certain actions like sending or editing messages, we recommend that users reattempt the action if it has failed. We hope to resolve this shortly and will be back with an update once new information becomes available."
