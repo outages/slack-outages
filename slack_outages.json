@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-10-02T13:16:28-07:00",
-  "date_updated": "2023-10-02T13:16:28-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-10-03T16:37:40-07:00",
+  "date_updated": "2023-10-03T16:37:40-07:00",
+  "active_incidents": [
+    {
+      "id": 1274,
+      "date_created": "2023-10-03T16:37:40-07:00",
+      "date_updated": "2023-10-03T16:37:40-07:00",
+      "title": "Issues with loading some items on Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-10/ee32d13012fb29d5",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-10-03T16:37:40-07:00",
+          "body": "Some users may be having trouble loading threads, mentions and reactions, and search results. We are currently investigating."
+        }
+      ]
+    }
+  ]
 }
