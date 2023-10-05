@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-10-04T11:53:01-07:00",
-  "date_updated": "2023-10-04T11:53:01-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-10-05T00:08:37-07:00",
+  "date_updated": "2023-10-05T00:08:37-07:00",
+  "active_incidents": [
+    {
+      "id": 1275,
+      "date_created": "2023-10-05T00:08:37-07:00",
+      "date_updated": "2023-10-05T00:08:37-07:00",
+      "title": "Trouble connecting to Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-10/6d592537eb7bd98e",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-10-05T00:08:37-07:00",
+          "body": "Some customers may be experiencing issues connecting to Slack at the moment. We're on the case and working to resolve this as fast as we can. Thank you for bearing with us."
+        }
+      ]
+    }
+  ]
 }
