@@ -1,37 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-10-06T03:49:19-07:00",
-  "date_updated": "2023-10-06T03:49:19-07:00",
-  "active_incidents": [
-    {
-      "id": 1276,
-      "date_created": "2023-10-06T02:11:22-07:00",
-      "date_updated": "2023-10-06T03:49:19-07:00",
-      "title": "Users are having trouble connecting to Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-10/ad8f0e62516e8812",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-10-06T03:49:19-07:00",
-          "body": "We’re continuing to investigate the root cause of the connection issues, we’ll provide an update once it’s available. We apologise for any inconvenience caused."
-        },
-        {
-          "date_created": "2023-10-06T03:15:49-07:00",
-          "body": "Users should be noticing signs of improvement. We’re still looking in the cause of the connection issues and we’ll provide new information as it’s available. We apologise for the trouble."
-        },
-        {
-          "date_created": "2023-10-06T02:41:39-07:00",
-          "body": "We are seeing things get back to normal but are continuing to investigate and monitor the situation. We’ll be back with another update in 30 minutes."
-        },
-        {
-          "date_created": "2023-10-06T02:11:22-07:00",
-          "body": "Some customers are encountering various errors in Slack. We're actively looking into this, and we'll report back as more information becomes available."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-10-06T04:06:50-07:00",
+  "date_updated": "2023-10-06T04:06:50-07:00",
+  "active_incidents": []
 }
