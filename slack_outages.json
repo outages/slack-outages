@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-10-24T07:05:13-07:00",
-  "date_updated": "2023-10-24T07:05:13-07:00",
-  "active_incidents": [
-    {
-      "id": 1278,
-      "date_created": "2023-10-24T00:38:17-07:00",
-      "date_updated": "2023-10-24T07:05:13-07:00",
-      "title": "A small number of users are having problems loading Slack.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-10/2ef86432e31615ea",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-10-24T07:05:13-07:00",
-          "body": "While we are working towards finding the cause of the issue, the problem with our fallback content delivery network appears to be affecting less than 1% of users. If you experience problems loading Slack, please restart your Slack app (ctrl/cmd+shift+R) to restore functionality. We’ll let you know as soon as we have more to share."
-        },
-        {
-          "date_created": "2023-10-24T01:03:23-07:00",
-          "body": "Our investigation has revealed that this problem is affecting our fallback content delivery network. If you experience problems loading Slack, please try restarting your Slack app to restore functionality. We’ll let you know as soon as we have another update to share."
-        },
-        {
-          "date_created": "2023-10-24T00:38:17-07:00",
-          "body": "A small number of users on desktop & web browsers are experiencing issues loading Slack. We’re actively investigating the issue and will report back as soon as we have more information to share. We apologise for the inconvenience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-10-24T14:08:02-07:00",
+  "date_updated": "2023-10-24T14:08:02-07:00",
+  "active_incidents": []
 }
