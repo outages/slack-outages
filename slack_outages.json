@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2023-10-06T08:28:47-07:00",
-  "date_updated": "2023-10-06T08:28:47-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-10-24T00:38:17-07:00",
+  "date_updated": "2023-10-24T00:38:17-07:00",
+  "active_incidents": [
+    {
+      "id": 1278,
+      "date_created": "2023-10-24T00:38:17-07:00",
+      "date_updated": "2023-10-24T00:38:17-07:00",
+      "title": "A small number of users are having problems loading Slack.",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-10/2ef86432e31615ea",
+      "services": [
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-10-24T00:38:17-07:00",
+          "body": "A small number of users on desktop & web browsers are experiencing issues loading Slack. We’re actively investigating the issue and will report back as soon as we have more information to share. We apologise for the inconvenience."
+        }
+      ]
+    }
+  ]
 }
