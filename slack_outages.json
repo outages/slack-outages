@@ -1,42 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-10-31T19:24:25-07:00",
-  "date_updated": "2023-10-31T19:24:25-07:00",
-  "active_incidents": [
-    {
-      "id": 1279,
-      "date_created": "2023-10-31T17:22:32-07:00",
-      "date_updated": "2023-10-31T19:24:25-07:00",
-      "title": "Issues for customers enrolled in the French data region",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-10/8c886b57284762b6",
-      "services": [
-        "Connections",
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-10-31T19:24:25-07:00",
-          "body": "We're completing some last checks to ensure that this issue is fully resolved for all customers. \r\n\r\nWe'll be back with an update as soon as we have confirmation that Slack is up and running for everyone."
-        },
-        {
-          "date_created": "2023-10-31T18:53:46-07:00",
-          "body": "We're continuing to monitor the situation and we'll provide an update in 30 minutes or as soon as connectivity is fully restored, whichever is soonest."
-        },
-        {
-          "date_created": "2023-10-31T18:22:45-07:00",
-          "body": "We've pushed a potential fix and we're seeing significant improvements, though we're still monitoring the situation closely. \r\n\r\nAffected customers may need to refresh Slack to reconnect. Please open Slack and press Cmd/Ctrl + Shift + R. Slack will reload but will not sign you out.\r\n\r\nWe'll share another update in 30 minutes or as soon as we have more information."
-        },
-        {
-          "date_created": "2023-10-31T17:57:10-07:00",
-          "body": "We are investigating some recent code changes that may be causing issues, and we're preparing to roll these back. We are also working to prevent the impact from spreading to additional data regions. \r\n\r\nWe'll be back with an update in 30 minutes."
-        },
-        {
-          "date_created": "2023-10-31T17:22:32-07:00",
-          "body": "Some customers with international data residency in the Paris, France region may be experiencing issues connecting to Slack or sending messages. We're investigating and we'll be back with more information in 30 minutes or as soon as we have news to share. \r\n\r\nWe apologize for the disruption to your work. Thank you for bearing with us."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-10-31T19:43:33-07:00",
+  "date_updated": "2023-10-31T19:43:33-07:00",
+  "active_incidents": []
 }
