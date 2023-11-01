@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2023-10-24T14:08:02-07:00",
-  "date_updated": "2023-10-24T14:08:02-07:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-10-31T17:22:32-07:00",
+  "date_updated": "2023-10-31T17:22:32-07:00",
+  "active_incidents": [
+    {
+      "id": 1279,
+      "date_created": "2023-10-31T17:22:32-07:00",
+      "date_updated": "2023-10-31T17:22:32-07:00",
+      "title": "Issues for customers enrolled in the French data region",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-10/8c886b57284762b6",
+      "services": [
+        "Connections",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-10-31T17:22:32-07:00",
+          "body": "Some customers with international data residency in the Paris, France region may be experiencing issues connecting to Slack or sending messages. We're investigating and we'll be back with more information in 30 minutes or as soon as we have news to share. \r\n\r\nWe apologize for the disruption to your work. Thank you for bearing with us."
+        }
+      ]
+    }
+  ]
 }
