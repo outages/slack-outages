@@ -1,8 +1,27 @@
 {
   "status": "active",
-  "date_created": "2023-11-08T09:18:13-08:00",
-  "date_updated": "2023-11-08T09:18:13-08:00",
+  "date_created": "2023-11-08T10:47:14-08:00",
+  "date_updated": "2023-11-08T10:47:14-08:00",
   "active_incidents": [
+    {
+      "id": 1282,
+      "date_created": "2023-11-08T10:47:14-08:00",
+      "date_updated": "2023-11-08T10:47:14-08:00",
+      "title": "Issues with user status, read state, and file previews",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-11/ea3a2a3e32e79902",
+      "services": [
+        "Notifications",
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-11-08T10:47:14-08:00",
+          "body": "We’re looking into reports of user status not updating, users being unable to remove previews, and marking channels as read. We’ll let you know as we learn more. Thank you for bearing with us in the meantime."
+        }
+      ]
+    },
     {
       "id": 1281,
       "date_created": "2023-11-08T08:30:57-08:00",
