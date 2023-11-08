@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-11-08T11:45:58-08:00",
-  "date_updated": "2023-11-08T11:45:58-08:00",
+  "date_created": "2023-11-08T12:21:00-08:00",
+  "date_updated": "2023-11-08T12:21:00-08:00",
   "active_incidents": [
     {
       "id": 1282,
       "date_created": "2023-11-08T10:47:14-08:00",
-      "date_updated": "2023-11-08T11:45:58-08:00",
+      "date_updated": "2023-11-08T12:21:00-08:00",
       "title": "Issues with user status, read state, and file previews",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Notifications"
       ],
       "notes": [
+        {
+          "date_created": "2023-11-08T12:21:00-08:00",
+          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
+        },
         {
           "date_created": "2023-11-08T11:45:58-08:00",
           "body": "We've discovered that this issue also impacts keyboard shortcuts such as \"Cmd/Ctrl + K\" or \"Cmd/Ctrl + F\". The root cause of this issue is not yet clear, but we're continuing to investigate this as a top priority. We'll be back with another update as soon as we have any new information to share. Thank you for continuing to bear with us."
