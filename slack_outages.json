@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-11-08T08:30:57-08:00",
-  "date_updated": "2023-11-08T08:30:57-08:00",
+  "date_created": "2023-11-08T09:18:13-08:00",
+  "date_updated": "2023-11-08T09:18:13-08:00",
   "active_incidents": [
     {
       "id": 1281,
       "date_created": "2023-11-08T08:30:57-08:00",
-      "date_updated": "2023-11-08T08:30:57-08:00",
+      "date_updated": "2023-11-08T09:18:13-08:00",
       "title": "Some users may be experiencing issues with Huddles.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Huddles"
       ],
       "notes": [
+        {
+          "date_created": "2023-11-08T09:18:13-08:00",
+          "body": "We're continuing to work towards a fix, and will provide updates here when new information becomes available. \r\n\r\nWe appreciate your patience in the meantime."
+        },
         {
           "date_created": "2023-11-08T08:30:57-08:00",
           "body": "Some users may be experiencing trouble with huddles. \r\n\r\nWe’re investigating and will let you know as soon as we know more. We appreciate your patience in the meantime."
