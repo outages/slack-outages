@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-11-08T12:44:42-08:00",
-  "date_updated": "2023-11-08T12:44:42-08:00",
+  "date_created": "2023-11-08T13:48:50-08:00",
+  "date_updated": "2023-11-08T13:48:50-08:00",
   "active_incidents": [
     {
       "id": 1282,
       "date_created": "2023-11-08T10:47:14-08:00",
-      "date_updated": "2023-11-08T12:44:42-08:00",
+      "date_updated": "2023-11-08T13:48:50-08:00",
       "title": "Issues with user status, read state, and file previews",
       "type": "incident",
       "status": "active",
@@ -16,6 +16,10 @@
         "Notifications"
       ],
       "notes": [
+        {
+          "date_created": "2023-11-08T13:48:50-08:00",
+          "body": "Thank you for your patience! We have made a change that restored functionality to keyboard shortcuts, marking items as read, and dismissing app previews. Users should no longer have issues with those features but may need to refresh their app or browser. \r\n\r\nWe are still investigating the issues related to user statuses and will share updates as new information becomes available."
+        },
         {
           "date_created": "2023-11-08T12:44:42-08:00",
           "body": "We've isolated the issue with keyboard shortcuts, marking items as read, and dismissing app previews. We are working to restore functionality, but continue investigating the root cause for user status not updating."
