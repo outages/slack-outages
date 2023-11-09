@@ -1,46 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-11-08T13:48:50-08:00",
-  "date_updated": "2023-11-08T13:48:50-08:00",
-  "active_incidents": [
-    {
-      "id": 1282,
-      "date_created": "2023-11-08T10:47:14-08:00",
-      "date_updated": "2023-11-08T13:48:50-08:00",
-      "title": "Issues with user status, read state, and file previews",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-11/ea3a2a3e32e79902",
-      "services": [
-        "Messaging",
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-11-08T13:48:50-08:00",
-          "body": "Thank you for your patience! We have made a change that restored functionality to keyboard shortcuts, marking items as read, and dismissing app previews. Users should no longer have issues with those features but may need to refresh their app or browser. \r\n\r\nWe are still investigating the issues related to user statuses and will share updates as new information becomes available."
-        },
-        {
-          "date_created": "2023-11-08T12:44:42-08:00",
-          "body": "We've isolated the issue with keyboard shortcuts, marking items as read, and dismissing app previews. We are working to restore functionality, but continue investigating the root cause for user status not updating."
-        },
-        {
-          "date_created": "2023-11-08T12:21:00-08:00",
-          "body": "No additional news to share just yet, but we’re focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
-        },
-        {
-          "date_created": "2023-11-08T11:45:58-08:00",
-          "body": "We've discovered that this issue also impacts keyboard shortcuts such as \"Cmd/Ctrl + K\" or \"Cmd/Ctrl + F\". The root cause of this issue is not yet clear, but we're continuing to investigate this as a top priority. We'll be back with another update as soon as we have any new information to share. Thank you for continuing to bear with us."
-        },
-        {
-          "date_created": "2023-11-08T11:17:02-08:00",
-          "body": "No additional news to share just yet, but we're focused on getting things back to normal as quickly as we can. We apologize for the continued trouble."
-        },
-        {
-          "date_created": "2023-11-08T10:47:14-08:00",
-          "body": "We’re looking into reports of user status not updating, users being unable to remove previews, and marking channels as read. We’ll let you know as we learn more. Thank you for bearing with us in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-11-08T15:50:21-08:00",
+  "date_updated": "2023-11-08T15:50:21-08:00",
+  "active_incidents": []
 }
