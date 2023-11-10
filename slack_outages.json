@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-11-10T11:12:00-08:00",
-  "date_updated": "2023-11-10T11:12:00-08:00",
-  "active_incidents": [
-    {
-      "id": 1283,
-      "date_created": "2023-11-09T12:20:26-08:00",
-      "date_updated": "2023-11-10T11:12:00-08:00",
-      "title": "User presence is unexpectedly changing",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-11/16fed44d7948cf49",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-11-10T11:12:00-08:00",
-          "body": "We're seeing signs of improvement but are continuing to monitor the situation. We'll provide another update once we have more information to share."
-        },
-        {
-          "date_created": "2023-11-09T13:02:00-08:00",
-          "body": "We’re still actively investigating the issue with user presence, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
-        },
-        {
-          "date_created": "2023-11-09T12:20:26-08:00",
-          "body": "We're investigating an issue where user presence is unexpectedly changing to away or active. We are also working to understand if this is a continuation of the issue we investigated yesterday. We'll be back with an update once more information is available.  Thank you for your patience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-11-10T15:12:00-08:00",
+  "date_updated": "2023-11-10T15:12:00-08:00",
+  "active_incidents": []
 }
