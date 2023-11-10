@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-11-09T13:02:00-08:00",
-  "date_updated": "2023-11-09T13:02:00-08:00",
+  "date_created": "2023-11-10T11:12:00-08:00",
+  "date_updated": "2023-11-10T11:12:00-08:00",
   "active_incidents": [
     {
       "id": 1283,
       "date_created": "2023-11-09T12:20:26-08:00",
-      "date_updated": "2023-11-09T13:02:00-08:00",
+      "date_updated": "2023-11-10T11:12:00-08:00",
       "title": "User presence is unexpectedly changing",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2023-11-10T11:12:00-08:00",
+          "body": "We're seeing signs of improvement but are continuing to monitor the situation. We'll provide another update once we have more information to share."
+        },
         {
           "date_created": "2023-11-09T13:02:00-08:00",
           "body": "We’re still actively investigating the issue with user presence, but we don’t have any new information to share at this time. Thanks for sticking with us as we continue to work towards a fix."
