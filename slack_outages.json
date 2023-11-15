@@ -1,33 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-11-14T16:29:50-08:00",
-  "date_updated": "2023-11-14T16:29:50-08:00",
-  "active_incidents": [
-    {
-      "id": 1284,
-      "date_created": "2023-11-14T15:28:30-08:00",
-      "date_updated": "2023-11-14T16:29:50-08:00",
-      "title": "Slack not loading for some users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-11/0e7bc0e7a7e7cd87",
-      "services": [
-        "Connections"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-11-14T16:29:50-08:00",
-          "body": "We have begun deploying a fix and it's rolling out to everyone gradually.\r\n\r\nWe appreciate your patience as we roll this out and restore normal service for everyone."
-        },
-        {
-          "date_created": "2023-11-14T15:58:44-08:00",
-          "body": "We believe we have identified the cause of this issue and are working on a fix. We'll be back with an update soon.\r\n\r\nPlease use Slack in a browser window in the meantime if possible."
-        },
-        {
-          "date_created": "2023-11-14T15:28:30-08:00",
-          "body": "We're investigating reports of Slack not loading for some users. We'll share an update once we have more information, we appreciate your patience."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-11-14T16:55:12-08:00",
+  "date_updated": "2023-11-14T16:55:12-08:00",
+  "active_incidents": []
 }
