@@ -1,30 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2023-12-03T17:27:29-08:00",
-  "date_updated": "2023-12-03T17:27:29-08:00",
-  "active_incidents": [
-    {
-      "id": 1286,
-      "date_created": "2023-12-03T16:56:55-08:00",
-      "date_updated": "2023-12-03T17:27:29-08:00",
-      "title": "Trouble loading some parts of Slack",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2023-12/b0072b040087e20b",
-      "services": [
-        "Messaging",
-        "Workflows"
-      ],
-      "notes": [
-        {
-          "date_created": "2023-12-03T17:27:29-08:00",
-          "body": "In addition to the Threads view, customers may also be running in to trouble with blank channels and direct message conversations, issues with some workflows, and problems sending messages. We are working to resolve this as fast as we can. We'll be back with more information in 30 minutes. \r\n\r\n\r\nNote: We've changed the incident title to better reflect the scope of the issues."
-        },
-        {
-          "date_created": "2023-12-03T16:56:55-08:00",
-          "body": "Some customers may be experiencing issues loading the Threads view at the moment. We are actively investigating and we'll provide an update in 30 minutes. \r\n\r\nWe apologize for the disruption to your work."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2023-12-03T17:58:32-08:00",
+  "date_updated": "2023-12-03T17:58:32-08:00",
+  "active_incidents": []
 }
