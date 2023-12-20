@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2023-12-19T18:47:43-08:00",
-  "date_updated": "2023-12-19T18:47:43-08:00",
+  "date_created": "2023-12-19T19:37:06-08:00",
+  "date_updated": "2023-12-19T19:37:06-08:00",
   "active_incidents": [
     {
       "id": 1287,
       "date_created": "2023-12-19T15:56:51-08:00",
-      "date_updated": "2023-12-19T18:47:43-08:00",
+      "date_updated": "2023-12-19T19:37:06-08:00",
       "title": "Users seeing blurred file unfurls",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Files"
       ],
       "notes": [
+        {
+          "date_created": "2023-12-19T19:37:06-08:00",
+          "body": "We're continuing to work towards a fix and will provide an update when this is completely resolved. \r\n\r\nIn the meantime and as a workaround, if the image remains blurry, please expand the image and Slack will load the full size version."
+        },
         {
           "date_created": "2023-12-19T18:47:43-08:00",
           "body": "We have identified the cause of images being blurry in Slack and customers can now upload and preview new images without issue.\r\n\r\nWe are still continuing to work on regenerating the previews of older affected images.\r\n\r\nWe will provide an update when functionality is fully restored. Thank you for bearing with us in the meantime."
