@@ -1,6 +1,29 @@
 {
-  "status": "ok",
-  "date_created": "2023-12-04T20:20:17-08:00",
-  "date_updated": "2023-12-04T20:20:17-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2023-12-19T16:26:45-08:00",
+  "date_updated": "2023-12-19T16:26:45-08:00",
+  "active_incidents": [
+    {
+      "id": 1287,
+      "date_created": "2023-12-19T15:56:51-08:00",
+      "date_updated": "2023-12-19T16:26:45-08:00",
+      "title": "Users seeing blurred file unfurls",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2023-12/7f05f584fa98cf7c",
+      "services": [
+        "Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2023-12-19T16:26:45-08:00",
+          "body": "Further to reports about blurred images in Slack, we're also receiving reports on issues with downloading and viewing PDF files.\r\n\r\nWe're currently reviewing the scope of impact to see what customers could be affected. We will provide further updates once we have more details to share. We're sorry for the disruption."
+        },
+        {
+          "date_created": "2023-12-19T15:56:51-08:00",
+          "body": "We're receiving reports about blurred images in Slack. The image does display as expected after clicking the image preview.\r\n\r\nWe're on the case and will provide another update once we have more details to share. We're sorry for the disruption."
+        }
+      ]
+    }
+  ]
 }
