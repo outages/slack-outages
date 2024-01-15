@@ -1,21 +1,24 @@
 {
   "status": "active",
-  "date_created": "2024-01-15T07:36:47-08:00",
-  "date_updated": "2024-01-15T07:36:47-08:00",
+  "date_created": "2024-01-15T10:01:13-08:00",
+  "date_updated": "2024-01-15T10:01:13-08:00",
   "active_incidents": [
     {
       "id": 1288,
       "date_created": "2024-01-15T07:36:47-08:00",
-      "date_updated": "2024-01-15T07:36:47-08:00",
+      "date_updated": "2024-01-15T10:01:13-08:00",
       "title": "Some users may not be able to configure 2FA",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2024-01/9301a4fb7cc577ea",
       "services": [
-        "Connections",
         "Login/SSO"
       ],
       "notes": [
+        {
+          "date_created": "2024-01-15T10:01:13-08:00",
+          "body": "We’ve identified the cause of this issue and we’re working on getting a fix out as soon as possible. We’ll be back once we have another update to share."
+        },
         {
           "date_created": "2024-01-15T07:36:47-08:00",
           "body": "Some users may be having trouble setting up 2FA. \r\n\r\nIn the meantime, we recommend using an incognito tab or a private browsing to set up 2FA while we continue actively looking into this issue.\r\n\r\nWe apologize for the inconvenience and we'll report back as more information becomes available."
