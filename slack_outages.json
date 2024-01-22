@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2024-01-15T15:51:07-08:00",
-  "date_updated": "2024-01-15T15:51:07-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-01-22T13:15:21-08:00",
+  "date_updated": "2024-01-22T13:15:21-08:00",
+  "active_incidents": [
+    {
+      "id": 1289,
+      "date_created": "2024-01-22T13:15:21-08:00",
+      "date_updated": "2024-01-22T13:15:21-08:00",
+      "title": "Some Enterprise Grid users may be seeing unexpected Slackbot responses",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-01/166eb312bd134031",
+      "services": [
+        "Messaging",
+        "Workspace/Org Administration"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-01-22T13:15:21-08:00",
+          "body": "Some Enterprise Grid users may notice multiple Slackbot responses being triggered unexpectedly. We are aware of the issue and are investigating."
+        }
+      ]
+    }
+  ]
 }
