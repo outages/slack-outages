@@ -1,21 +1,25 @@
 {
   "status": "active",
-  "date_created": "2024-01-22T13:47:49-08:00",
-  "date_updated": "2024-01-22T13:47:49-08:00",
+  "date_created": "2024-01-22T14:29:55-08:00",
+  "date_updated": "2024-01-22T14:29:55-08:00",
   "active_incidents": [
     {
       "id": 1289,
       "date_created": "2024-01-22T13:15:21-08:00",
-      "date_updated": "2024-01-22T13:47:49-08:00",
+      "date_updated": "2024-01-22T14:29:55-08:00",
       "title": "Some Enterprise Grid users may be seeing unexpected Slackbot responses",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2024-01/166eb312bd134031",
       "services": [
-        "Messaging",
-        "Workspace/Org Administration"
+        "Workspace/Org Administration",
+        "Messaging"
       ],
       "notes": [
+        {
+          "date_created": "2024-01-22T14:29:55-08:00",
+          "body": "To clarify our last update, we have started the process of rolling back the code, but that work is not yet complete, and some users may still be affected. We apologize for this miscommunication. \r\nWe believe this revert will resolve the issue and are actively working to complete this process as soon as we can."
+        },
         {
           "date_created": "2024-01-22T13:47:49-08:00",
           "body": "We have identified the code that was causing the issue and have rolled it back. We are currently working on a more permanent fix to ensure this does not happen again."
