@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2024-01-22T19:06:24-08:00",
-  "date_updated": "2024-01-22T19:06:24-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-01-23T13:28:00-08:00",
+  "date_updated": "2024-01-23T13:28:00-08:00",
+  "active_incidents": [
+    {
+      "id": 1290,
+      "date_created": "2024-01-23T13:28:00-08:00",
+      "date_updated": "2024-01-23T13:28:00-08:00",
+      "title": "Some users are unable to view images",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-01/f39851209d6c471a",
+      "services": [
+        "Files"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-01-23T13:28:00-08:00",
+          "body": "Users may be having trouble viewing images as they are not loading.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
