@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2024-01-23T13:28:00-08:00",
-  "date_updated": "2024-01-23T13:28:00-08:00",
+  "date_created": "2024-01-23T14:04:39-08:00",
+  "date_updated": "2024-01-23T14:04:39-08:00",
   "active_incidents": [
     {
       "id": 1290,
       "date_created": "2024-01-23T13:28:00-08:00",
-      "date_updated": "2024-01-23T13:28:00-08:00",
+      "date_updated": "2024-01-23T14:04:39-08:00",
       "title": "Some users are unable to upload, download, and view files in Slack.",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Files"
       ],
       "notes": [
+        {
+          "date_created": "2024-01-23T14:04:39-08:00",
+          "body": "We're seeing signs of recovery but uploading/downloading remain degraded though some attempts are successful. Our investigation is ongoing and we'll be back with another update as soon as information is available."
+        },
         {
           "date_created": "2024-01-23T13:28:00-08:00",
           "body": "Users may be having trouble viewing images as they are not loading, while others may be able to complete these actions but more slowly than expected.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available."
