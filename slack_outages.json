@@ -1,22 +1,26 @@
 {
   "status": "active",
-  "date_created": "2024-01-24T12:28:35-08:00",
-  "date_updated": "2024-01-24T12:28:35-08:00",
+  "date_created": "2024-01-24T12:37:29-08:00",
+  "date_updated": "2024-01-24T12:37:29-08:00",
   "active_incidents": [
     {
       "id": 1292,
       "date_created": "2024-01-24T12:00:49-08:00",
-      "date_updated": "2024-01-24T12:28:35-08:00",
+      "date_updated": "2024-01-24T12:37:29-08:00",
       "title": "Some latency with Slack",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2024-01/0a000b0ad09623a0",
       "services": [
-        "Connections",
         "Messaging",
-        "Apps/Integrations/APIs"
+        "Apps/Integrations/APIs",
+        "Connections"
       ],
       "notes": [
+        {
+          "date_created": "2024-01-24T12:37:29-08:00",
+          "body": "We're seeing signs of recovery, but are still investigating the root cause of the issue. We'll be back with an update as soon as we have more info to share."
+        },
         {
           "date_created": "2024-01-24T12:28:35-08:00",
           "body": "Our investigation is still ongoing at this time. We'll report back once we have news to share. Thank you for your patience."
