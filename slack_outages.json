@@ -1,6 +1,26 @@
 {
-  "status": "ok",
-  "date_created": "2024-01-23T17:28:00-08:00",
-  "date_updated": "2024-01-23T17:28:00-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-01-24T08:37:35-08:00",
+  "date_updated": "2024-01-24T08:37:35-08:00",
+  "active_incidents": [
+    {
+      "id": 1291,
+      "date_created": "2024-01-24T08:37:35-08:00",
+      "date_updated": "2024-01-24T08:37:35-08:00",
+      "title": "Service wide connection issues",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-01/8b623c0b5640c28f",
+      "services": [
+        "Connections",
+        "Workflows"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-01-24T08:37:35-08:00",
+          "body": "Some customers are encountering issues connecting and running workflows Slack. We're actively looking into this, and we'll report back as more information becomes available."
+        }
+      ]
+    }
+  ]
 }
