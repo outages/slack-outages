@@ -1,6 +1,27 @@
 {
-  "status": "ok",
-  "date_created": "2024-01-24T09:43:25-08:00",
-  "date_updated": "2024-01-24T09:43:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-01-24T12:00:49-08:00",
+  "date_updated": "2024-01-24T12:00:49-08:00",
+  "active_incidents": [
+    {
+      "id": 1292,
+      "date_created": "2024-01-24T12:00:49-08:00",
+      "date_updated": "2024-01-24T12:00:49-08:00",
+      "title": "Some latency with Slack",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-01/0a000b0ad09623a0",
+      "services": [
+        "Messaging",
+        "Apps/Integrations/APIs",
+        "Connections"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-01-24T12:00:49-08:00",
+          "body": "Users are experiencing general delays with the service, including issues with connecting to Slack and loading channels. We're looking into this and will share an update once we have more information."
+        }
+      ]
+    }
+  ]
 }
