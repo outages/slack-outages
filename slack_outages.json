@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2024-01-26T16:22:52-08:00",
-  "date_updated": "2024-01-26T16:22:52-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-01-29T15:38:14-08:00",
+  "date_updated": "2024-01-29T15:38:14-08:00",
+  "active_incidents": [
+    {
+      "id": 1293,
+      "date_created": "2024-01-29T15:38:14-08:00",
+      "date_updated": "2024-01-29T15:38:14-08:00",
+      "title": "Pasting via Cmd/Ctrl + V not working",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-01/8ad463b92a084387",
+      "services": [
+        "Messaging"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-01-29T15:38:14-08:00",
+          "body": "We are currently investigating an issue which is preventing users from pasting via Ctrl + V (Windows/Linux) and Cmd + C (MacOS). We'll be back with another updates as soon as we know more. \r\nIn the meantime, users can workaround this issue by pasting via mouse (right click to open context menu + select Paste)."
+        }
+      ]
+    }
+  ]
 }
