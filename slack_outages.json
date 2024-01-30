@@ -17,7 +17,7 @@
       "notes": [
         {
           "date_created": "2024-01-29T15:38:14-08:00",
-          "body": "We are currently investigating an issue which is preventing users from pasting via Ctrl + V (Windows/Linux) and Cmd + C (MacOS). We'll be back with another updates as soon as we know more. \r\nIn the meantime, users can workaround this issue by pasting via mouse (right click to open context menu + select Paste)."
+          "body": "We are currently investigating an issue which is preventing users from pasting via Ctrl + V (Windows/Linux) and Cmd + V (MacOS). We'll be back with another updates as soon as we know more. \r\nIn the meantime, users can workaround this issue by pasting via mouse (right click to open context menu + select Paste)."
         }
       ]
     }
