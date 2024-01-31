@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2024-01-31T08:01:15-08:00",
-  "date_updated": "2024-01-31T08:01:15-08:00",
-  "active_incidents": [
-    {
-      "id": 1294,
-      "date_created": "2024-01-31T08:01:15-08:00",
-      "date_updated": "2024-01-31T08:01:15-08:00",
-      "title": "Users may be experiencing issues loading threads.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2024-01/8e9a7cb95549d34c",
-      "services": [
-        "Messaging"
-      ],
-      "notes": [
-        {
-          "date_created": "2024-01-31T08:01:15-08:00",
-          "body": "Some users may be experiencing issues loading threads.\r\n\r\nWe're actively looking into this, and we'll report back as more information becomes available. \r\n\r\nWe appreciate your patience in the meantime."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2024-01-31T08:50:17-08:00",
+  "date_updated": "2024-01-31T08:50:17-08:00",
+  "active_incidents": []
 }
