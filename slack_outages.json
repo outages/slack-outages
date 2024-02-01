@@ -1,25 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2024-02-01T01:53:46-08:00",
-  "date_updated": "2024-02-01T01:53:46-08:00",
-  "active_incidents": [
-    {
-      "id": 1295,
-      "date_created": "2024-02-01T01:53:46-08:00",
-      "date_updated": "2024-02-01T01:53:46-08:00",
-      "title": "Users in Germany having trouble receiving 2FA SMS codes",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2024-02/30dfe547672802a4",
-      "services": [
-        "Login/SSO"
-      ],
-      "notes": [
-        {
-          "date_created": "2024-02-01T01:53:46-08:00",
-          "body": "We’re investigating an issue impacting users in Germany who may not be able to receive Two Factor Authentication SMS codes. We’ll report back with an update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2024-02-01T04:25:04-08:00",
+  "date_updated": "2024-02-01T04:25:04-08:00",
+  "active_incidents": []
 }
