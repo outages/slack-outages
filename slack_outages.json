@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2024-02-07T18:06:20-08:00",
-  "date_updated": "2024-02-07T18:06:20-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-02-08T13:24:54-08:00",
+  "date_updated": "2024-02-08T13:24:54-08:00",
+  "active_incidents": [
+    {
+      "id": 1297,
+      "date_created": "2024-02-08T13:24:54-08:00",
+      "date_updated": "2024-02-08T13:24:54-08:00",
+      "title": "Profile photos aren't displaying properly",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-02/16aecfd53af7219b",
+      "services": [
+        "Notifications"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-02-08T13:24:54-08:00",
+          "body": "We've been investigating an ongoing issue where profile photos aren't displaying properly for some of our users. In order to facilitate improved communication and transparency, we'll be sharing any new updates here. \r\n\r\nThe cause of the issue has been identified and we're working on getting a fix out as soon as possible. We'll be back once we have another update to share."
+        }
+      ]
+    }
+  ]
 }
