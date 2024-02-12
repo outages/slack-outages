@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "date_created": "2024-02-12T08:25:49-08:00",
-  "date_updated": "2024-02-12T08:25:49-08:00",
+  "date_created": "2024-02-12T09:17:48-08:00",
+  "date_updated": "2024-02-12T09:17:48-08:00",
   "active_incidents": [
     {
       "id": 1298,
       "date_created": "2024-02-12T08:25:49-08:00",
-      "date_updated": "2024-02-12T08:25:49-08:00",
-      "title": "Some users may be experiencing trouble with Canvas.",
+      "date_updated": "2024-02-12T09:17:48-08:00",
+      "title": "Some users may be experiencing trouble with canvas.",
       "type": "incident",
       "status": "active",
       "url": "https://status.slack.com/2024-02/804d3a52e234f2fa",
@@ -16,8 +16,12 @@
       ],
       "notes": [
         {
+          "date_created": "2024-02-12T09:17:48-08:00",
+          "body": "Users should no longer be experiencing any trouble using canvas. \r\n\r\nApologies for the trouble today and thank you for your patience."
+        },
+        {
           "date_created": "2024-02-12T08:25:49-08:00",
-          "body": "A small number of users may be experiencing trouble loading, editing or saving changes made to Canvas. \r\n\r\nWe’re investigating and will let you know as soon as we know more. \r\n\r\nWe appreciate your patience in the meantime."
+          "body": "A small number of users may be experiencing trouble loading, editing or saving changes made to canvas. \r\n\r\nWe’re investigating and will let you know as soon as we know more. \r\n\r\nWe appreciate your patience in the meantime."
         }
       ]
     }
