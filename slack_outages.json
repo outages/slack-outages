@@ -1,8 +1,26 @@
 {
   "status": "active",
-  "date_created": "2024-02-21T19:19:25-08:00",
-  "date_updated": "2024-02-21T19:19:25-08:00",
+  "date_created": "2024-02-21T23:46:24-08:00",
+  "date_updated": "2024-02-21T23:46:24-08:00",
   "active_incidents": [
+    {
+      "id": 1300,
+      "date_created": "2024-02-21T23:46:24-08:00",
+      "date_updated": "2024-02-21T23:46:24-08:00",
+      "title": "Trouble with password resets",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-02/e04276624660caf9",
+      "services": [
+        "Login/SSO"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-02-21T23:46:24-08:00",
+          "body": "Some users may be experiencing issues resetting their passwords, particularly when trying to set up two-factor authentication. We're investigating and we're very sorry for the disruption."
+        }
+      ]
+    },
     {
       "id": 1299,
       "date_created": "2024-02-21T19:19:25-08:00",
