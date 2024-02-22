@@ -1,29 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2024-02-22T15:27:22-08:00",
-  "date_updated": "2024-02-22T15:27:22-08:00",
-  "active_incidents": [
-    {
-      "id": 1301,
-      "date_created": "2024-02-22T15:10:05-08:00",
-      "date_updated": "2024-02-22T15:27:22-08:00",
-      "title": "Threads aren't loading for some users",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2024-02/548b72776056c03b",
-      "services": [
-        "Connectivity"
-      ],
-      "notes": [
-        {
-          "date_created": "2024-02-22T15:27:22-08:00",
-          "body": "We're seeing signs of improvement but we're still monitoring the situation. Some users have reported that refreshing Slack via Ctrl + R (Windows/Linux) or Cmd + R (macOS) fixes the issue. We’ll be back with another update as soon as the issue is fully resolved."
-        },
-        {
-          "date_created": "2024-02-22T15:10:05-08:00",
-          "body": "We are currently investigating an issue which is preventing users from being able to view threads. We apologize for the disruption, and we'll be back with an update as soon as we know more."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2024-02-22T15:42:07-08:00",
+  "date_updated": "2024-02-22T15:42:07-08:00",
+  "active_incidents": []
 }
