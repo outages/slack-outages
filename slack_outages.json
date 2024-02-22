@@ -12,9 +12,9 @@
       "status": "active",
       "url": "https://status.slack.com/2024-02/83f4c18fc4d11c93",
       "services": [
+        "Search",
         "Messaging",
-        "Notifications",
-        "Search"
+        "Notifications"
       ],
       "notes": [
         {
