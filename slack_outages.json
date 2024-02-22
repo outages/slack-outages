@@ -1,27 +1,6 @@
 {
-  "status": "active",
-  "date_created": "2024-02-21T19:19:25-08:00",
-  "date_updated": "2024-02-21T19:19:25-08:00",
-  "active_incidents": [
-    {
-      "id": 1299,
-      "date_created": "2024-02-21T19:19:25-08:00",
-      "date_updated": "2024-02-21T19:19:25-08:00",
-      "title": "Screen readers are not announcing unread messages when using the Ctrl + K command on Windows.",
-      "type": "incident",
-      "status": "active",
-      "url": "https://status.slack.com/2024-02/83f4c18fc4d11c93",
-      "services": [
-        "Search",
-        "Messaging",
-        "Notifications"
-      ],
-      "notes": [
-        {
-          "date_created": "2024-02-21T19:19:25-08:00",
-          "body": "Some customers who use screen readers on Windows are reporting they can no longer hear their unread messages when they use the Ctrl + K command. Our team are investigating the root cause of this issue. We’ll be back with another update as soon as we have more information to share."
-        }
-      ]
-    }
-  ]
+  "status": "ok",
+  "date_created": "2024-02-22T09:40:15-08:00",
+  "date_updated": "2024-02-22T09:40:15-08:00",
+  "active_incidents": []
 }
