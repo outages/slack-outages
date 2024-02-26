@@ -1,12 +1,12 @@
 {
   "status": "active",
-  "date_created": "2024-02-25T20:57:11-08:00",
-  "date_updated": "2024-02-25T20:57:11-08:00",
+  "date_created": "2024-02-25T21:27:17-08:00",
+  "date_updated": "2024-02-25T21:27:17-08:00",
   "active_incidents": [
     {
       "id": 1302,
       "date_created": "2024-02-25T20:27:04-08:00",
-      "date_updated": "2024-02-25T20:57:11-08:00",
+      "date_updated": "2024-02-25T21:27:17-08:00",
       "title": "Issues with the billing history page",
       "type": "incident",
       "status": "active",
@@ -15,6 +15,10 @@
         "Workspace/Org Administration"
       ],
       "notes": [
+        {
+          "date_created": "2024-02-25T21:27:17-08:00",
+          "body": "We're still working to get the billing history page back to normal, and we’ll continue to provide updates every 30 minutes."
+        },
         {
           "date_created": "2024-02-25T20:57:11-08:00",
           "body": "We have identified the cause of the problem and we're preparing a fix. \r\n\r\nWe'll provide another update in 30 minutes or as soon as the fix goes live, whichever comes first."
