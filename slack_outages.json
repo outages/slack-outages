@@ -1,6 +1,25 @@
 {
-  "status": "ok",
-  "date_created": "2024-02-26T09:49:25-08:00",
-  "date_updated": "2024-02-26T09:49:25-08:00",
-  "active_incidents": []
+  "status": "active",
+  "date_created": "2024-02-26T13:02:33-08:00",
+  "date_updated": "2024-02-26T13:02:33-08:00",
+  "active_incidents": [
+    {
+      "id": 1304,
+      "date_created": "2024-02-26T13:02:33-08:00",
+      "date_updated": "2024-02-26T13:02:33-08:00",
+      "title": "Users are not able to create workflows",
+      "type": "incident",
+      "status": "active",
+      "url": "https://status.slack.com/2024-02/b1389c8cd318a7d1",
+      "services": [
+        "Workflows"
+      ],
+      "notes": [
+        {
+          "date_created": "2024-02-26T13:02:33-08:00",
+          "body": "We are currently investigating an issue where users are not able to create workflows. Running existing workflows is not impacted. We will update as we have more information to share."
+        }
+      ]
+    }
+  ]
 }
